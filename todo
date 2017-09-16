@@ -1,5 +1,10 @@
 w.r.t cities:
   fix country names, e.g. "a city in Czech Republic" should be "a city in the Czech Republic
   errors occur when there are brackets in place names
+
 w.r.t geographical locations in general:
   determine all the geographical 'locations' possible, e.g. town, city, village, province, county, state, oblast, and so on, bearing in mind that these will be different for different countries, and possibly even the same country (in Scotland lakes are lochs...). There may be a way to do this more easily, for example, anything that is an instance of a geographical entity, then use whatever it is a subset of as a label
+
+others to consider:
+  people, e.g. x, a scientist from country y. Could do something similar to geographical locations, where the label is used as a field in the output csv
+  

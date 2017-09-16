@@ -17,7 +17,7 @@ public class CitiesTownsVillages{
     try{
       BitsAndBobs.printChinese(sections[0],"a "+ type + " in "+sections[2]);
     }catch(Exception e){
-      System.out.println("***ERROR:"+sections[0]+","+sections[1]+","+sections[2]);
+      System.err.println("***ERROR:"+sections[0]+","+sections[1]+","+sections[2]);
     }
     }//for
   }
