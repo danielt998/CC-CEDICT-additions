@@ -1,0 +1,7 @@
+SELECT DISTINCT ?label ?entityLabel ?countryLabel WHERE {
+  ?entity wdt:P17 ?country.
+  ?entity (wdt:P279*) wd:Q618123.
+  ?entity rdfs:label ?label.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER((LANG(?label)) = "zh")
+}

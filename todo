@@ -7,4 +7,6 @@ w.r.t geographical locations in general:
 
 others to consider:
   people, e.g. x, a scientist from country y. Could do something similar to geographical locations, where the label is used as a field in the output csv
-  
+
+idea:
+  for anything we don't have a more detailed entry for, we could just have a 1 to 1 mapping from the Chinese label to the English
