@@ -20,8 +20,10 @@ public class Main{
     CitiesTownsVillages.generatePlaces("hills.csv", "hill");
     CitiesTownsVillages.generatePlaces("stations.csv", "station");
     CitiesTownsVillages.generatePlaces("parks.csv", "park");
+    CitiesTownsVillages.generatePlaces("songs.csv", "song");
     CitiesTownsVillages.generatePlaces("suburbs.csv", "suburb");
     CitiesTownsVillages.generatePlaces("museums.csv", "museum");
+    CitiesTownsVillages.generatePlaces("Algeria_municipalities.csv", "municipality in Algeria");
     CitiesTownsVillages.generatePlaces("companies.csv", "company");
     CitiesTownsVillages.generatePlaces("bridges.csv", "bridge");
     CitiesTownsVillages.generatePlaces("vehicles.csv", "vehicle");
@@ -30,14 +32,39 @@ public class Main{
     CitiesTownsVillages.generatePlaces("monuments.csv", "monument");
     CitiesTownsVillages.generatePlaces("newspapers.csv", "newspaper");
     CitiesTownsVillages.generatePlaces("magazines.csv", "magazine");
+    CitiesTownsVillages.generatePlaces("palaces.csv", "palace");
     CitiesTownsVillages.generatePlaces("sculptures.csv", "sculpture");
-    CitiesTownsVillages.generatePlaces("languages.csv", "language spoken in");
+    CitiesTownsVillages.generatePlaces("houses.csv", "house");
+    CitiesTownsVillages.generatePlaces("towers.csv", "tower");
+    CitiesTownsVillages.generatePlaces("zoos.csv", "zoo");
+    CitiesTownsVillages.generatePlaces("stadiums.csv", "stadium");
+    CitiesTownsVillages.generatePlaces("streets.csv", "street");
+    CitiesTownsVillages.generatePlaces("tunnels.csv", "tunnel");
+    CitiesTownsVillages.generatePlaces("tv_channel.csv", "television channel");
+    CitiesTownsVillages.generatePlaces("tv_stations.csv", "television station");
+    CitiesTownsVillages.generatePlaces("radio_stations.csv", "radio station");
+    CitiesTownsVillages.generatePlaces("cemeteries.csv", "cemetery");
+    CitiesTownsVillages.generatePlaces("languages.csv", "language spoken");
+    CitiesTownsVillages.generatePlaces("battles.csv", "battle");
+    CitiesTownsVillages.generatePlaces("wars.csv", "war");
+    CitiesTownsVillages.generatePlaces("islands.csv", "island");
+    CitiesTownsVillages.generatePlaces("canals.csv", "canal");
+    CitiesTownsVillages.generatePlaces("treaties.csv", "treaty");
+    CitiesTownsVillages.generatePlaces("archeological_sites.csv", "archeological site");
+    CitiesTownsVillages.generatePlaces("places_of_worship.csv", "place of worship");
     CitiesTownsVillages.generatePlaces("transport_infrastructure_all.csv", "a piece of transport infrastructure");
+    generateSimpleEntry("earthquakes.csv","");
+    CitiesTownsVillages.generatePlaces("aquaria.csv", "aquarium");
     generateSimpleEntry("albums.csv","album");
     generateSimpleEntry("books.csv","book");
     generateSimpleEntry("films.csv","film");
+    generateSimpleEntry("websites.csv","website");
+    generateSimpleEntry("sw_applications.csv","a software application");
+    generateSimpleEntry("archives.csv","");
     generateSimpleEntry("libraries.csv","library");
     generateSimpleEntry("tvseries.csv","television series");
+    generateSimpleEntry("world_events.csv","");
+    generateSimpleEntry("islands_no_country.csv", "island");
   }
 
   public static void generateSimpleEntry(String inputFile,String type){
