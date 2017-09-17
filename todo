@@ -1,5 +1,11 @@
 general:
   if they exist, add cities, and possibly other information for entries
+  for inspiration, check out:https://en.wikipedia.org/wiki/User:Emijrp/All_human_knowledge
+  **DEFINITELY want to extract both simplified and traditional labels, if they exist, then predict if not**
+  we can use description, if it exists as well as label
+  ** look into this:https://github.com/Wikidata/Wikidata-Toolkit
+    could save me from downloading csvs by hand 
+
 w.r.t suburbs:
   the city is not specified
 w.r.t libraries:

@@ -23,6 +23,16 @@ public class Main{
     CitiesTownsVillages.generatePlaces("suburbs.csv", "suburb");
     CitiesTownsVillages.generatePlaces("museums.csv", "museum");
     CitiesTownsVillages.generatePlaces("companies.csv", "company");
+    CitiesTownsVillages.generatePlaces("bridges.csv", "bridge");
+    CitiesTownsVillages.generatePlaces("vehicles.csv", "vehicle");
+    CitiesTownsVillages.generatePlaces("airports.csv", "airport");
+    CitiesTownsVillages.generatePlaces("universities.csv", "university");
+    CitiesTownsVillages.generatePlaces("monuments.csv", "monument");
+    CitiesTownsVillages.generatePlaces("newspapers.csv", "newspaper");
+    CitiesTownsVillages.generatePlaces("magazines.csv", "magazine");
+    CitiesTownsVillages.generatePlaces("sculptures.csv", "sculpture");
+    CitiesTownsVillages.generatePlaces("languages.csv", "language spoken in");
+    CitiesTownsVillages.generatePlaces("transport_infrastructure_all.csv", "a piece of transport infrastructure");
     generateSimpleEntry("albums.csv","album");
     generateSimpleEntry("books.csv","book");
     generateSimpleEntry("films.csv","film");
