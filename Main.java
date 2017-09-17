@@ -20,6 +20,9 @@ public class Main{
     CitiesTownsVillages.generatePlaces("hills.csv", "hill");
     CitiesTownsVillages.generatePlaces("stations.csv", "station");
     CitiesTownsVillages.generatePlaces("parks.csv", "park");
+    CitiesTownsVillages.generatePlaces("suburbs.csv", "suburb");
+    CitiesTownsVillages.generatePlaces("museums.csv", "museum");
+    CitiesTownsVillages.generatePlaces("companies.csv", "company");
     generateSimpleEntry("albums.csv","album");
     generateSimpleEntry("books.csv","book");
     generateSimpleEntry("films.csv","film");

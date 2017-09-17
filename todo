@@ -1,3 +1,9 @@
+general:
+  if they exist, add cities, and possibly other information for entries
+w.r.t suburbs:
+  the city is not specified
+w.r.t libraries:
+  there are many libraries (possibly other entities too) that do not have an English name and instead return a label Qxxxxxx. These entries should probably be removed (?)
 w.r.t cities:
   fix country names, e.g. "a city in Czech Republic" should be "a city in the Czech Republic
   errors occur when there are brackets in place names

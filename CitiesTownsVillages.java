@@ -15,7 +15,7 @@ public class CitiesTownsVillages{
       }
       String[] sections=line.split(",");
     try{
-      BitsAndBobs.printChinese(sections[0], sections[1] +",a "+ type + " in "+sections[2]);
+      BitsAndBobs.printChinese(sections[0], sections[1] +", a "+ type + " in "+sections[2]);
     }catch(Exception e){
       System.err.println("***ERROR:"+sections[0]+","+sections[1]+","+sections[2]);
     }

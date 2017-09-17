@@ -9184,6 +9184,2294 @@
 ***ERROR:克勒什-穆列什國家公園,Körös-Maros National Park,Hungary
 ***ERROR:多瑙河-德拉瓦河國家公園,Danube-Drava National Park,Hungary
 ***ERROR:沃泊爾－諾那魯普國家公園,Walpole-Nornalup National Park,Australia
+***ERROR:伍爾維奇 (新南威爾斯州),Woolwich,Australia
+***ERROR:克利夫頓 (布里斯托),Clifton,United Kingdom
+***ERROR:高登 (新南威爾斯州),Gordon,Australia
+***ERROR:代希瓦勒-芒特拉维尼,Dehiwala-Mount Lavinia,Sri Lanka
+***ERROR:阿比恩区 (昆士兰州),Albion,Australia
+***ERROR:格林威治 (新南威爾斯州),Greenwich,Australia
+***ERROR:Robina區,Robina,Australia
+***ERROR:聖彼得斯 (新南威爾士州),St Peters,Australia
+***ERROR:蒙摩拉湖 (新南威爾斯省),Lake Munmorah,Australia
+***ERROR:Coolangatta,Coolangatta,Australia
+***ERROR:纽马克特 (昆士兰州),Newmarket,Australia
+***ERROR:沃森灣（澳大利亞）,Watsons Bay,Australia
+***ERROR:江景 (新南威爾斯州),Riverview,Australia
+***ERROR:科堡（維多利亞省）,Coburg,Australia
+***ERROR:德拉姆科德拉 (都柏林),Drumcondra,Ireland
+***ERROR:博德山區 (昆士蘭州),Bald Hills,Australia
+***ERROR:尼德蘭茲 (西澳洲),Nedlands,Australia
+***ERROR:新镇 (新南威尔士),Newtown,Australia
+***ERROR:波茲山 (新南威爾斯州),Potts Hill,Australia
+***ERROR:切爾滕納姆 (新南威爾斯州,Cheltenham,Australia
+***ERROR:伊麗莎白灣 (新南威爾士州),Elizabeth Bay,Australia
+***ERROR:百年公園 (新南威爾士州),Centennial Park,Australia
+***ERROR:艾斯比力区 (昆士兰州),Aspley,Australia
+***ERROR:劉易舍姆 (新南威爾士),Lewisham,Australia
+***ERROR:維多利亞山 (新南威爾斯省),Mount Victoria,Australia
+***ERROR:吉邦區 (昆士蘭州),Geebung,Australia
+***ERROR:Mairangi灣,Mairangi Bay,New Zealand
+***ERROR:洛欽瓦 (新南威爾士州),Lochinvar,Australia
+***ERROR:薩里山，維多利亞,Surrey Hills,Australia
+***ERROR:博文山區 (昆士蘭州),Bowen Hills,Australia
+***ERROR:漢茲沃思 (南約克郡),Handsworth,United Kingdom
+***ERROR:西切姆塞德區 (昆士蘭州),Chermside West,Australia
+***ERROR:阿德摩爾 (紐西蘭),"Ardmore, New Zealand"
+***ERROR:伊諾給拉區 (昆士蘭州),Enoggera,Australia
+***ERROR:木麻黃 (達爾文港),Casuarina,Australia
+***ERROR:索恩 (新南威爾斯州),Thornleigh,Australia
+***ERROR:布林巴 (昆士蘭州),Bulimba,Australia
+***ERROR:費茲吉邦區 (昆士蘭州),Fitzgibbon,Australia
+***ERROR:克利夫頓 (約克),"Clifton, York"
+***ERROR:愛丁堡 (南澳大利亞省),Edinburgh,Australia
+***ERROR:克萊菲區 (昆士蘭州),Clayfield,Australia
+***ERROR:瓦瑞布如克 (新南威尔士州),Warabrook,Australia
+***ERROR:凱恩巴克 (新南威爾斯州),Cranebrook,Australia
+***ERROR:布里治曼平原 (昆士蘭州),Bridgeman Downs,Australia
+***ERROR:Dee Why,Dee Why,Australia
+***ERROR:羅馬-日耳曼博物館,Romano-Germanic Museum,Germany
+***ERROR:威廉·哈克博物館,Wilhelm-Hack-Museum,Germany
+***ERROR:林登·詹森總統圖書館暨博物館,Lyndon Baines Johnson Library and Museum,United States of America
+***ERROR:尼古拉·特斯拉博物館,Nikola Tesla Museum,Serbia
+***ERROR:班·施瓦茨,Museum of the Portuguese Language,Brazil
+***ERROR:博伊曼斯·范伯宁恩美术馆,Museum Boijmans Van Beuningen,Netherlands
+***ERROR:普朗坦-莫雷图斯博物馆,Museum Plantin-Moretus,Belgium
+***ERROR:Bunkamura,Bunkamura,Japan
+***ERROR:V&A兒童博物館,V&A Museum of Childhood,United Kingdom
+***ERROR:亞斯納亞-博利爾納,Yasnaya Polyana,Russia
+***ERROR:21號碼頭,Pier 21,Canada
+***ERROR:瓦爾拉夫-里夏茨博物館,Wallraf-Richartz-Museum,Germany
+***ERROR:喬治·布希總統圖書館,George Bush Presidential Library,United States of America
+***ERROR:德·法尔克风车,Museum De Valk,Netherlands
+***ERROR:UBC人類學博物館,Museum of Anthropology at UBC,Canada
+***ERROR:EMP博物館,EMP Museum,United States of America
+***ERROR:柏林-霍恩舍恩豪森,Berlin-Hohenschönhausen Memorial,Germany
+***ERROR:多利亚-图尔西宫,Q162965,Italy
+***ERROR:美第奇-里卡迪宫,Palazzo Medici Riccardi,Italy
+***ERROR:傑拉爾德·福特總統博物館,Gerald R. Ford Presidential Museum,United States of America
+***ERROR:赖斯·恩格尔霍恩博物馆群,Museums Reiss-Engelhorn,Germany
+***ERROR:深川 江戶資料館,Q3090685,Japan
+***ERROR:黑森州立博物馆 达姆施塔特,Hessisches Landesmuseum Darmstadt,Germany
+***ERROR:國立藝術、建築和設計博物館,"National Museum of Art, Architecture and Design"
+***ERROR:Den Gamle By,The Old Town,Denmark
+***ERROR:約翰·藍儂博物館,John Lennon Museum,Japan
+***ERROR:科学与工业博物馆 (芝加哥),Museum of Science and Industry,United States of America
+***ERROR:罗伯特-乌丹魔幻屋,La Maison de la Magie Robert-Houdin,France
+***ERROR:musée Grévin de La Rochelle,musée Grévin de La Rochelle,France
+***ERROR:雅克馬爾·安德烈博物館,Musée Jacquemart-André,France
+***ERROR:马克斯·尤伟中心,Max Euwe Centrum,Netherlands
+***ERROR:奎利尼·斯坦帕里亚基金会,Fondazione Querini Stampalia,Italy
+***ERROR:波爾迪·佩佐利美術館,Museo Poldi Pezzoli,Italy
+***ERROR:國家博物館 (新德里),"National Museum, New Delhi"
+***ERROR:國立現代藝術畫廊 (新德里),National Gallery of Modern Art,India
+***ERROR:沙爾夫-蓋爾斯滕貝格美術館,Scharf-Gerstenberg Collection,Germany
+***ERROR:罗纳德·里根总统图书馆,Ronald Reagan Presidential Library,United States of America
+***ERROR:亞瑟·M·薩克勒畫廊,Arthur M. Sackler Gallery,United States of America
+***ERROR:阿拉德·皮尔逊博物馆,Allard Pierson Museum,Netherlands
+***ERROR:北莱茵-威斯特法伦艺术品收藏馆,Kunstsammlung Nordrhein-Westfalen,Germany
+***ERROR:路易吉·佩奇当代艺术中心,Centro per l'arte contemporanea Luigi Pecci,Italy
+***ERROR:提森-博内米萨博物馆,Thyssen-Bornemisza Museum,Spain
+***ERROR:居斯塔夫·莫羅美術館,musée Gustave-Moreau,France
+***ERROR:朱尔·谢雷美术博物馆,musée des beaux-arts Jules Chéret,France
+***ERROR:阿莫斯·安德尔松美术馆,Amos Anderson Art Museum,Finland
+***ERROR:阿爾布雷希特·杜勒之家,Albrecht Dürer's House,Germany
+***ERROR:芙烈達·卡蘿紀念館,Frida Kahlo Museum,Mexico
+***ERROR:奧斯卡·尼邁耶國際文化中心,Oscar Niemeyer International Cultural Centre,Spain
+***ERROR:艺术厅 (鹿特丹),Kunsthal,Netherlands
+***ERROR:让·吕萨博物馆,musée Jean Lurçat,France
+***ERROR:榮勳宮 (舊金山),Legion of Honor,United States of America
+***ERROR:歐仁·德拉克羅瓦美術館,musée national Eugène-Delacroix,France
+***ERROR:查爾斯·舒茲博物館暨研究中心,Charles M. Schulz Museum and Research Center,United States of America
+***ERROR:克勒勒-米勒博物館,Kröller-Müller Museum,Netherlands
+***ERROR:佩姬·古根漢美術館,Peggy Guggenheim Collection,Italy
+***ERROR:金澤21世紀美術館,21st Century Museum of Contemporary Art,Japan
+***ERROR:齐白石故居 (北京),Q4165228,People's Republic of China
+***ERROR:所羅門·古根漢美術館,Solomon R. Guggenheim Museum,United States of America
+***ERROR:國立美術博物館 (布宜諾斯艾利斯),Museo Nacional de Bellas Artes,Argentina
+***ERROR:帕拉维奇尼-罗斯皮利奥斯宫,Palazzo Pallavicini-Rospigliosi,Italy
+***ERROR:薩基普·薩班哲博物館,Sakıp Sabancı Museum,Turkey
+***ERROR:淡路大磯藝術山、大石可久也美術館,Q11559811,Japan
+***ERROR:总督宫 (热那亚),"Doge's Palace, Genoa"
+***ERROR:玛丽·贝克·艾迪图书馆,Mary Baker Eddy Library,United States of America
+***ERROR:安迪·沃荷博物館,Andy Warhol Museum,United States of America
+***ERROR:ARCAM,ARCAM,Netherlands
+***ERROR:鐵心齋文庫·伊勢物語文華館,Q11649552,Japan
+***ERROR:阿尔伯特·席麦思·阿雷亚诺·阿隆索 基金会,Foundation Alberto Jimenez-Arellano Alonso,Spain
+***ERROR:秤量房 (斯洪霍芬),Q2166962,Netherlands
+***ERROR:保罗·盖蒂博物馆,J. Paul Getty Museum,United States of America
+***ERROR:皮博迪·艾塞克斯博物館,Peabody Essex Museum,United States of America
+***ERROR:和泉市久保惣紀念美術館,Kubosō Memorial Museum of Arts,Japan
+***ERROR:約翰·索恩爵士博物館,Sir John Soane's Museum,United Kingdom
+***ERROR:MOA美術館,MOA Museum of Art,Japan
+***ERROR:諾曼·洛克威爾博物館,Norman Rockwell Museum,United States of America
+***ERROR:賈瓦哈拉爾·尼赫魯博物館 (伊塔那噶),Jawaharlal Nehru State Museum,India
+***ERROR:喬治·古斯塔夫·海伊中心,National Museum of the American Indian George Gustav Heye Center,United States of America
+***ERROR:溫斯頓·林克博物館,O. Winston Link Museum,United States of America
+***ERROR:巴加蒂·瓦爾塞基博物館,Bagatti Valsecchi Museum,Italy
+***ERROR:康納克·傑伊博物館,musée Cognacq-Jay,France
+***ERROR:國家雕塑博物館 (巴亞多利德),National Sculpture Museum,Spain
+***ERROR:国立美术馆 (锡耶纳),Pinacoteca Nazionale,Italy
+***ERROR:沖繩縣立博物館、美術館,Okinawa Prefectural Museum & Art Museum,Japan
+***ERROR:Museo de la batalla de las Navas de Tolosa,Museo de la batalla de las Navas de Tolosa,Spain
+***ERROR:POLA美術館,Pola Museum of Art,Japan
+***ERROR:Alpineum,Alpineum,Switzerland
+***ERROR:歐布萊-諾克斯美術館,Albright–Knox Art Gallery,United States of America
+***ERROR:Steppingstone 博物館,Steppingstone Museum,United States of America
+***ERROR:福斯林路20號,20 Forthlin Road,United Kingdom
+***ERROR:塞萬提斯晚年住宅 (巴亞多利德),Museo Casa de Cervantes,Spain
+***ERROR:李四光纪念馆 (北京),Q11095756,People's Republic of China
+***ERROR:21 21 Design Sight美術館,21 21 DESIGN SIGHT,Japan
+***ERROR:加拿大最著名軍艦 HMCS Haida (G63),HMCS Haida,Canada
+***ERROR:海事博物館 (澳門),Macau Maritime Museum,People's Republic of China
+***ERROR:消防博物館 (澳門),Fire Services Museum,People's Republic of China
+***ERROR:齐白石故居 (湘潭),Q7278677,People's Republic of China
+***ERROR:SS大不列顛,SS Great Britain,United Kingdom
+***ERROR:尼辛德·卡蒙多博物館,Musée Nissim-de-Camondo,France
+***ERROR:武家屋敷 (鹽見繩手),Q11545900,Japan
+***ERROR:NHK檔案館,Q11234989,Japan
+***ERROR:丹波市立植野紀念’美術館,Q11368569,Japan
+***ERROR:Musée Grévin – Forum des Halles,Musée Grévin – Forum des Halles,France
+***ERROR:丘頂 (坎布里亞郡),Hill Top Farm,United Kingdom
+***ERROR:玻璃屋 (美國),Glass House,United States of America
+***ERROR:日野AUTO PLAZA,Q11510539,Japan
+***ERROR:碧雅翠絲·波特資料館,Q11436141,Japan
+***ERROR:UCC咖啡博物館,UCC Coffee Museum,Japan
+***ERROR:BMW博物館,BMW Museum,Germany
+***ERROR:梅賽德斯-賓士博物館,Mercedes-Benz Museum,Germany
+***ERROR:GAS MUSEUM 瓦斯資料館,Gas Museum,Japan
+***ERROR:鲁昂海事、内河航运和港口博物馆,"Maritime, Fluvial and Harbor Museum of Rouen"
+***ERROR:Yaoko川越美術館,Q11344966,Japan
+***ERROR:千尋美術館·東京,Q11271822,Japan
+***ERROR:威奇托-塞奇威克縣歷史博物館,Wichita-Sedgwick County Historical Museum,United States of America
+***ERROR:安妮·弗兰克之家,Anne Frank House,Netherlands
+***ERROR:消防博物館 (日本),Fire Museum (Tokyo),Japan
+***ERROR:Emba中國近代美術館,Q11291442,Japan
+***ERROR:SATOE紀念21世紀美術館,Q11304884,Japan
+***ERROR:田川市煤炭·歷史博物館,Q11576740,Japan
+***ERROR:町田市民文學館KOTOBA LAND,Q11578292,Japan
+***ERROR:萨瓦托·菲拉格慕博物馆,Salvatore Ferragamo Museum,Italy
+***ERROR:藤子·F·不二雄博物館,Fujiko·F·Fujio Museum,Japan
+***ERROR:巴迪斯萊·克林頓,Baddesley Clinton,United Kingdom
+***ERROR:九·一八历史博物馆,9.18 Historical Museum,People's Republic of China
+***ERROR:中山纪念堂 (梧州),Q10875315,People's Republic of China
+***ERROR:北九州市立自然史・歷史博物館,Kitakyushu Museum of Natural History & Human History,Japan
+***ERROR:「留聲歲月」音響博物館,Q10863722,People's Republic of China
+***ERROR:交通博物館 (東京),Q10882995,Japan
+***ERROR:無畏號海、空暨太空博物館,"Intrepid Sea, Air & Space Museum"
+***ERROR:警察博物館 (日本),Q11632332,Japan
+***ERROR:钱学森图书馆 (上海交通大学),Qian Xuesen Library & Museum,People's Republic of China
+***ERROR:皮埃尔·库贝故居,Cuypershuis,Netherlands
+***ERROR:芝山古墳·埴輪博物館,Q11614636,Japan
+***ERROR:香港3D奇幻世界,Hong Kong 3D Museum,People's Republic of China
+***ERROR:1940航站大樓博物館,1940 Air Terminal Museum,United States of America
+***ERROR:通訊博物館 (澳門),Communications Museum (Macau),People's Republic of China
+***ERROR:史蒂文·乌德沃尔哈齐中心,Steven F. Udvar-Hazy Center,United States of America
+***ERROR:卢瓦尔-谢尔省抵抗运动、流放和解放博物馆,Q20723535,France
+***ERROR:F11攝影博物館,Q18109850,People's Republic of China
+***ERROR:NEMO博物館,NEMO,Netherlands
+***ERROR:Musée Grévin Montreal,Musée Grévin Montreal,Canada
+***ERROR:中央軍事博物館 (莫斯科),Central Armed Forces Museum,Russia
+***ERROR:磁浮·鐵道館,SCMaglev and Railway Park,Japan
+***ERROR:萊姆‧里吉斯博物館,Lyme Regis Museum,United Kingdom
+***ERROR:格羅斯-羅森集中營,Gross-Rosen concentration camp,Poland
+***ERROR:Karlsborg要塞,Karlsborg Fortress,Sweden
+***ERROR:[圖盧茲博物館,Muséum de Toulouse,France
+***ERROR:Overloon戰爭博物館,Overloon War Museum,Netherlands
+***ERROR:茅特豪森－古森集中營,Mauthausen-Gusen concentration camp,Austria
+***ERROR::en:更大型集中營,Stutthof concentration camp,Poland
+***ERROR:Ribe VikingeCenter,Ribe VikingeCenter,Denmark
+***ERROR:艾迪臣號驅逐艦 (DD-946),USS Edson,United States of America
+***ERROR:國家科學中心 (德里),National Science Centre,India
+***ERROR:奧斯維辛－比克瑙國家博物館,Auschwitz-Birkenau State Museum,Poland
+***ERROR:埃爾芬 (荷蘭),Archeon,Netherlands
+***ERROR:Kids Plaza大阪,Kids Plaza Osaka,Japan
+***ERROR:密特爾堡-多拉集中營,Mittelbau-Dora,Germany
+***ERROR:JEATH戰爭博物館,JEATH War Museum,Thailand
+***ERROR:维克多·雨果之家,Maison de Victor Hugo,France
+***ERROR:Naturalis,Naturalis,Netherlands
+***ERROR:'t Zilte,'t Zilte,Belgium
+***ERROR:蓝色列车 (餐厅),Le Train Bleu,France
+***ERROR:Patagonia,"Patagonia, Inc."
+***ERROR:Hostellerie Bretonne,Hostellerie Bretonne,Belgium
+***ERROR:戈登·拉姆齊的飛機餐,Gordon Ramsay Plane Food,United Kingdom
+***ERROR:Va Doux Vent,Va Doux Vent,Belgium
+***ERROR:儒勒·凡尔纳餐厅,Le Jules Verne,France
+***ERROR:Le Chalet de la Forêt,Le Chalet de la Forêt,Belgium
+***ERROR:Telstra,Telstra,Australia
+***ERROR:La Paix,La Paix,Belgium
+***ERROR:罗伯特·博世有限公司,Robert Bosch GmbH,Germany
+***ERROR:Château du Mylord,Château du Mylord,Belgium
+***ERROR:'t Koetshuis,'t Koetshuis,Netherlands
+***ERROR:Bon-bon,Bon-bon,Belgium
+***ERROR:La Trinité,La Trinité,Netherlands
+***ERROR:Pure C,Pure C,Netherlands
+***ERROR:BeIN Sports,beIN SPORTS,Qatar
+***ERROR:Auberge de Herborist,Auberge de Herborist,Belgium
+***ERROR:EMI,EMI,United Kingdom
+***ERROR:尤利烏斯 (紐約市),Julius,United States of America
+***ERROR:Centpourcent,Centpourcent,Belgium
+***ERROR:Carré des Champ.,Carré des Champ.,Netherlands
+***ERROR:Noma (餐廳),Noma,Denmark
+***ERROR:Kokkeriet,Kokkeriet,Denmark
+***ERROR:Haymarket傳媒集團,Haymarket Media Group,Germany
+***ERROR:梅赛德斯-奔驰银行,Mercedes-Benz Bank,Germany
+***ERROR:Heart Attack Grill餐廳,Heart Attack Grill,United States of America
+***ERROR:La Durée,La Durée,Belgium
+***ERROR:聘珍樓 (香港),Heichinrou Hong Kong,People's Republic of China
+***ERROR:WY,WY,Belgium
+***ERROR:Bij Lam en Yin,Bij Lam en Yin,Belgium
+***ERROR:ABB,ABB Group,Switzerland
+***ERROR:La Pérouse,La Pérouse,Belgium
+***ERROR:Den Gouden Harynck,Den Gouden Harynck,Belgium
+***ERROR:Nuance,Nuance,Belgium
+***ERROR:Table d'Amis,Table d'Amis,Belgium
+***ERROR:SoundCloud,SoundCloud,Germany
+***ERROR:'t Laurierblad,'t Laurierblad,Belgium
+***ERROR:"Cuines,33","Cuines
+***ERROR:De Kristalijn,De Kristalijn,Belgium
+***ERROR:Akrame,Akrame,France
+***ERROR:De Jonkman,De Jonkman,Belgium
+***ERROR:'t Overhamme,'t Overhamme,Belgium
+***ERROR:奇緣3,Serendipity 3,United States of America
+***ERROR:Parkheuvel,Parkheuvel,Netherlands
+***ERROR:Dôme,Dôme,Belgium
+***ERROR:Razer,Razer Inc.,United States of America
+***ERROR:STX歐洲造船,STX Europe,Norway
+***ERROR:53街和第6大道快餐推车,The Halal Guys,United States of America
+***ERROR:Frantzén,Frantzén,Sweden
+***ERROR:Chez Panisse,Chez Panisse,United States of America
+***ERROR:Corbis公司,Corbis,United States of America
+***ERROR:麥奀雲吞麵世家,Mak's Noodle,People's Republic of China
+***ERROR:4A Games,4A Games,Malta
+***ERROR:Bagatelle,Bagatelle,Norway
+***ERROR:Can Jubany,Can Jubany,Spain
+***ERROR:King.com,King,United Kingdom
+***ERROR:Perceel,Perceel,Netherlands
+***ERROR:Le Calandre,Le Calandre,Italy
+***ERROR:L129A1精確射手步槍,Lewis Machine and Tool Company,United States of America
+***ERROR:Bankia,Bankia,Spain
+***ERROR:Brienen aan de Maas,Brienen aan de Maas,Netherlands
+***ERROR:'t Fornuis,'t Fornuis,Belgium
+***ERROR:戈登·拉姆齊餐廳,Restaurant Gordon Ramsay,United Kingdom
+***ERROR:聯合車站 (蒙特利爾),Union Station,Canada
+***ERROR:麥當勞第433號分店標誌,McDonald's sign,United States of America
+***ERROR:De Gieser Wildeman,De Gieser Wildeman,Netherlands
+***ERROR:中國工商銀行（亞洲）,Industrial and Commercial Bank of China (Asia),People's Republic of China
+***ERROR:PrivatBank,PrivatBank,Ukraine
+***ERROR:Heesen 游艇,Heesen Yachts,Netherlands
+***ERROR:Edsbacka krog,Edsbacka krog,Sweden
+***ERROR:Terracotta公司,"Terracotta, Inc."
+***ERROR:De Molen,De Molen,Netherlands
+***ERROR:Café Royal,Café Royal,United Kingdom
+***ERROR:Chapeau!,Chapeau!,Netherlands
+***ERROR:L'Ambroisie,L'Ambroisie,France
+***ERROR:DHL,DHL Express,Germany
+***ERROR:Angelina,Angelina,France
+***ERROR:Tadich Grill,Tadich Grill,United States of America
+***ERROR:Chez Bruce,Chez Bruce,United Kingdom
+***ERROR:Kadeau Bornholm,Kadeau Bornholm,Denmark
+***ERROR:Combal.Zero,Combal.Zero,Italy
+***ERROR:Lapérouse,Lapérouse,France
+***ERROR:Shamrock,Shamrock,Belgium
+***ERROR:Alexandre,Alexandre,Belgium
+***ERROR:Spanx,"Spanx, Inc."
+***ERROR:羅勃特 史帝文森公司,Robert Stephenson and Company,United Kingdom
+***ERROR:Maaemo,Maaemo,Norway
+***ERROR:Vanderlande,Vanderlande,Netherlands
+***ERROR:TPG网络,TPG Telecom,Australia
+***ERROR:Saüc,Saüc,Spain
+***ERROR:Jean-François Piège,Jean-François Piège,France
+***ERROR:Regal娛樂集團,Regal Entertainment Group,United States of America
+***ERROR:Animax,Animax,Germany
+***ERROR:斯托克頓－達林頓鐵路,Stockton and Darlington Railway,United Kingdom
+***ERROR:华道夫-阿斯多里亚酒店,Waldorf-Astoria Hotel,United States of America
+***ERROR:Villa Lorraine,Villa Lorraine,Belgium
+***ERROR:BLS股份公司,BLS AG,Switzerland
+***ERROR:343 Industries,343 Industries,United States of America
+***ERROR:倫敦、蒂爾伯里與紹森德鐵路,"London, Tilbury and Southend Railway"
+***ERROR:Finam 控股集团,Finam Holdings,Russia
+***ERROR:Cracco Peck,Cracco Peck,Italy
+***ERROR:利物浦－曼徹斯特鐵路,Liverpool and Manchester Railway,United Kingdom
+***ERROR:首尔地铁9号线株式会社,Seoul Metro Line9 Corporation,South Korea
+***ERROR:Codemasters,Codemasters,United Kingdom
+***ERROR:'t Amsterdammertje,'t Amsterdammertje,Netherlands
+***ERROR:JW萬豪酒店,JW Marriott Hotels,United States of America
+***ERROR:Christophe,Christophe,Netherlands
+***ERROR:皇后酒店 (维多利亚),The Empress,Canada
+***ERROR:Villa San Michele Hotel,Villa San Michele Hotel,Italy
+***ERROR:Gusto,Gusto,United States of America
+***ERROR:C2c鐵路公司,c2c,United Kingdom
+***ERROR:中信銀行（國際）,CITIC Bank International,People's Republic of China
+***ERROR:芒果TV,Mango TV,People's Republic of China
+***ERROR:Dal Pescatore,Dal Pescatore,Italy
+***ERROR:Auguste,Auguste,Netherlands
+***ERROR:Vendome,Vendome,Germany
+***ERROR:CAPCOM,Capcom,Japan
+***ERROR:The Creative Assembly,Creative Assembly,United Kingdom
+***ERROR:VH1,VH1,United States of America
+***ERROR:Interplay娱乐,Interplay Entertainment,United States of America
+***ERROR:ANA Inter Continental Hotel東京,ANA InterContinental Tokyo,Japan
+***ERROR:柯提茲酒店 (聖地牙哥),El Cortez Apartment Hotel,United States of America
+***ERROR:新肯特縣 (維吉尼亞州),Chestnut Grove,United States of America
+***ERROR:Pandemic Studios,Pandemic Studios,United States of America
+***ERROR:Bullfrog Productions,Bullfrog Productions,United Kingdom
+***ERROR:Banco de Aragón,Banco de Aragón,Spain
+***ERROR:CTV電視網,CTV Television Network,Canada
+***ERROR:俄羅斯-1,Russia-1,Russia
+***ERROR:N-tv,n-tv,Germany
+***ERROR:今日新聞24,Tagesschau24,Germany
+***ERROR:俄羅斯-1,Russia-1,Soviet Union
+***ERROR:交通银行旧址 (重庆),Q17156504,People's Republic of China
+***ERROR:WMS产业,WMS Industries,United States of America
+***ERROR:Rai 1,Rai 1,Italy
+***ERROR:查令十字，尤斯頓暨漢普斯特鐵路,"Charing Cross, Euston and Hampstead Railway"
+***ERROR:2K Play,2K Play,United States of America
+***ERROR:TX物流,TX Logistik,Germany
+***ERROR:BBC加拿大,BBC Canada,Canada
+***ERROR:Rockstar North,Rockstar North,United Kingdom
+***ERROR:第一銀行 (日本),Q11602127,Japan
+***ERROR:Indie Built,Indie Built,United States of America
+***ERROR:Here!,HereTV,United States of America
+***ERROR:Turn 10工作室,Turn 10 Studios,United States of America
+***ERROR:Visual Concepts,Visual Concepts,United States of America
+***ERROR:2K Games,2K Games,United States of America
+***ERROR:阿穆爾-雅庫茨克鐵路,Amur Yakutsk Mainline,Russia
+***ERROR:法国24,France 24,France
+***ERROR:Crytek,Crytek,Germany
+***ERROR:TV3,TV3,Ireland
+***ERROR:THQ,THQ,United States of America
+***ERROR:Volition,Deep Silver Volition,United States of America
+***ERROR:ESPN,ESPN,United States of America
+***ERROR:AXN,AXN,Romania
+***ERROR:Nitrome,Nitrome,United Kingdom
+***ERROR:巴黎-里昂-地中海铁路公司,Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée,France
+***ERROR:Rockstar Games,Rockstar Games,United States of America
+***ERROR:Take-Two Interactive,Take-Two Interactive,United States of America
+***ERROR:沙德維爾 (弗吉尼亞州),Shadwell,United States of America
+***ERROR:Danger Close,Danger Close Games,United States of America
+***ERROR:Big Huge Games,Big Huge Games,United States of America
+***ERROR:Turtle Rock工作室,Turtle Rock Studios,United States of America
+***ERROR:Gotham Games,Gotham Games,United States of America
+***ERROR:Ubisoft Blue Byte,Ubisoft Blue Byte,Germany
+***ERROR:A+E頻道,A&E,United States of America
+***ERROR:3sat,3sat,Germany
+***ERROR:EA Mobile,EA Mobile,United States of America
+***ERROR:ABS-CBN公司,ABS-CBN Corporation,Philippines
+***ERROR:LucasArts,LucasArts,United States of America
+***ERROR:Sat.1,Sat.1,Germany
+***ERROR:Xbox娱乐工作室,Xbox Entertainment Studios,United States of America
+***ERROR:2K Marin,2K Marin,United States of America
+***ERROR:Criterion Games,Criterion Games,United Kingdom
+***ERROR:Infinity Ward,Infinity Ward,United States of America
+***ERROR:Sledgehammer Games,Sledgehammer Games,United States of America
+***ERROR:Lionhead Studios,Lionhead Studios,United Kingdom
+***ERROR:Irrational Games,Irrational Games,United States of America
+***ERROR:MSNBC,MSNBC,United States of America
+***ERROR:Accolade,Accolade,United States of America
+***ERROR:Italia 1,Italia 1,Italy
+***ERROR:Epic Games,Epic Games,United States of America
+***ERROR:Runic Games,Runic Games,United States of America
+***ERROR:C-SPAN,C-SPAN,United States of America
+***ERROR:Dynamix (電子遊戲公司),Dynamix,United States of America
+***ERROR:Telltale Games,Telltale Games,United States of America
+***ERROR:Gust,Gust Co. Ltd.,Japan
+***ERROR:Eurosport,Eurosport,Germany
+***ERROR:Bungie,Bungie,United States of America
+***ERROR:Naughty Dog,Naughty Dog,United States of America
+***ERROR:HBO,HBO,United States of America
+***ERROR:Press TV,Press TV,Iran
+***ERROR:Double Fine Productions,Double Fine Productions,United States of America
+***ERROR:PopTop Software,PopTop Software,United States of America
+***ERROR:Rare,Rare Ltd.,United Kingdom
+***ERROR:Shiny Entertainment,Shiny Entertainment,United States of America
+***ERROR:EA加拿大,EA Canada,Canada
+***ERROR:4J Studios,4J Studios,United Kingdom
+***ERROR:Aspyr Media,Aspyr,United States of America
+***ERROR:Behaviour Santiago,Wanako Studios,United States of America
+***ERROR:LEVEL-5,Level-5,Japan
+***ERROR:Maxis,Maxis,United States of America
+***ERROR:Slightly Mad Studios,Slightly Mad Studios,United Kingdom
+***ERROR:Eidos Interactive,Eidos Interactive,United Kingdom
+***ERROR:Zynga,Zynga,United States of America
+***ERROR:ArenaNet,ArenaNet,United States of America
+***ERROR:Arte,Arte,Germany
+***ERROR:Radical Entertainment,Radical Entertainment,Canada
+***ERROR:Budcat Creations,Budcat Creations,United States of America
+***ERROR:Deep Silver,Deep Silver,United Kingdom
+***ERROR:Deep Silver,Deep Silver,Germany
+***ERROR:Id Software,id Software,United States of America
+***ERROR:Jaleco,Jaleco,Japan
+***ERROR:BioWare,BioWare,Canada
+***ERROR:Rockstar New England,Rockstar New England,United States of America
+***ERROR:Kush Games,Kush Games,United States of America
+***ERROR:3D Realms,3D Realms,United States of America
+***ERROR:Treyarch,Treyarch,United States of America
+***ERROR:ITV,iTV,Thailand
+***ERROR:CD Projekt RED,CD Projekt RED,Poland
+***ERROR:TV4 (瑞典),TV4,Sweden
+***ERROR:Ascaron Entertainment公司,Ascaron,Germany
+***ERROR:NCsoft,NCsoft,South Korea
+***ERROR:Thatgamecompany,thatgamecompany,United States of America
+***ERROR:Rebellion Developments,Rebellion Developments,United Kingdom
+***ERROR:RTL電視台,RTL Television,Germany
+***ERROR:MachineGames,MachineGames,Sweden
+***ERROR:Rockstar Leeds,Rockstar Leeds,United Kingdom
+***ERROR:RTL第二頻道,RTL II,Germany
+***ERROR:RTL電視台,RTL Television,Luxembourg
+***ERROR:Rockstar London,Rockstar London,United Kingdom
+***ERROR:Raven Software,Raven Software,United States of America
+***ERROR:The Sims Studio,The Sims Studio,United States of America
+***ERROR:QVC公司,QVC,United States of America
+***ERROR:W酒店,W St. Petersburg,Russia
+***ERROR:Nicalis,Nicalis,United States of America
+***ERROR:保罗·尼普科夫电视台,Fernsehsender Paul Nipkow,Germany
+***ERROR:CD Projekt,CD Projekt,Poland
+***ERROR:Realtime Worlds,Realtime Worlds,United Kingdom
+***ERROR:Toys for Bob,Toys For Bob,United States of America
+***ERROR:FreeStyle Games,FreeStyleGames,United Kingdom
+***ERROR:戰遊網芝加哥·巴爾的摩,Day 1 Studios,United States of America
+***ERROR:Neversoft,Neversoft,United States of America
+***ERROR:New World Computing,New World Computing,United States of America
+***ERROR:Neowiz Games,Neowiz Games,South Korea
+***ERROR:TalonSoft,TalonSoft,United States of America
+***ERROR:Rocksteady Studios,Rocksteady Studios,United Kingdom
+***ERROR:HB工作室學校,HB Studios,Canada
+***ERROR:Firaxis Games,Firaxis Games,United States of America
+***ERROR:Rockstar San Diego,Rockstar San Diego,United States of America
+***ERROR:Monolith Productions,Monolith Productions,United States of America
+***ERROR:Sir-Tech,Sir-Tech,United States of America
+***ERROR:3M公司,3M,United States of America
+***ERROR:區域鐵路 (倫敦),District Railway,United Kingdom
+***ERROR:Jagex,Jagex,United Kingdom
+***ERROR:約瑟·斯密紀念大廈,Joseph Smith Memorial Building,United States of America
+***ERROR:Swingin' Ape Studios,Swingin' Ape Studios,United States of America
+***ERROR:FOX德國,Fox Channel,Germany
+***ERROR:CNBC歐洲台,CNBC Europe,Germany
+***ERROR:BigPark,BigPark,Canada
+***ERROR:S2 Games,S2 Games,United States of America
+***ERROR:Playfish,Playfish,United Kingdom
+***ERROR:CTV新聞網,CTV News Channel,Canada
+***ERROR:Canal+,Canal+,Finland
+***ERROR:薩哈拉·太浩賭場,Hard Rock Hotel and Casino (Stateline),United States of America
+***ERROR:W酒店,W Barcelona,Spain
+***ERROR:Hello Games,Hello Games,United Kingdom
+***ERROR:NTV,NTV,Russia
+***ERROR:泰國第5電視台,Royal Thai Army Radio and Television Channel 5,Thailand
+***ERROR:Mythic Entertainment,Mythic Entertainment,United States of America
+***ERROR:1-UP工作室,1-UP Studio,Japan
+***ERROR:Rovio Entertainment,Rovio Entertainment,Finland
+***ERROR:Brøderbund,Brøderbund,United States of America
+***ERROR:NuFX,NuFX,United States of America
+***ERROR:Ninja Theory,Ninja Theory,United Kingdom
+***ERROR:Vicarious Visions,Vicarious Visions,United States of America
+***ERROR:超級RTL頻道,Super RTL,Germany
+***ERROR:NBC新聞,NBC News,United States of America
+***ERROR:FASA Studio,FASA Studio,United States of America
+***ERROR:Ritual Entertainment,Ritual Entertainment,United States of America
+***ERROR:NovaLogic,NovaLogic,United States of America
+***ERROR:W酒店,W Hong Kong,People's Republic of China
+***ERROR:Loki Software,Loki Software,United States of America
+***ERROR:美食頻道 (美國),Food Network,United States of America
+***ERROR:魯斯塔維2,Rustavi 2,Georgia
+***ERROR:Gray Matter Interactive,Gray Matter Interactive,United States of America
+***ERROR:DMAX,DMAX,Germany
+***ERROR:Daybreak Game Company,Daybreak Game Company,United States of America
+***ERROR:Frog City Software,Frog City Software,United States of America
+***ERROR:SUN電視台,Sun Television,Japan
+***ERROR:Splash Damage,Splash Damage,United Kingdom
+***ERROR:Frontier Developments,Frontier Developments,United Kingdom
+***ERROR:IFREMER,IFREMER,France
+***ERROR:Bizarre Creations,Bizarre Creations,United Kingdom
+***ERROR:Digital Anvil,Digital Anvil,United States of America
+***ERROR:Press Play,Press Play,Denmark
+***ERROR:Channel櫻,Japanese Culture Channel Sakura,Japan
+***ERROR:X光小子工作室,X-Ray Kid Studios,United States of America
+***ERROR:Hired Gun,Hired Gun,United States of America
+***ERROR:Venom Games,Venom Games,United Kingdom
+***ERROR:Nitro+CHiRAL,Nitro+chiral,Japan
+***ERROR:Titan Studios,Titan Studios,United States of America
+***ERROR:TV5Monde,TV5Monde,France
+***ERROR:CNN西語電視臺,CNN en Español,United States of America
+***ERROR:TVA (加拿大),TVA,Canada
+***ERROR:High Moon Studios,High Moon Studios,United States of America
+***ERROR:Twisted Pixel Games,Twisted Pixel Games,United States of America
+***ERROR:Core Design,Core Design,United Kingdom
+***ERROR:Good Science Studio,Good Science Studio,United States of America
+***ERROR:Publix超市,Publix,United States of America
+***ERROR:Neople,Neople,South Korea
+***ERROR:Trendy 娱乐公司,Trendy Entertainment,United States of America
+***ERROR:泰國第3電視台,Channel 3 (Thailand),Thailand
+***ERROR:LG集团,LG Corporation,South Korea
+***ERROR:2K Australia,2K Australia,Australia
+***ERROR:The Asylum,The Asylum,United States of America
+***ERROR:Aldi,Aldi,Germany
+***ERROR:Launchworks,Launchworks,United States of America
+***ERROR:Film4,Film4,United Kingdom
+***ERROR:Nitro+,Nitroplus,Japan
+***ERROR:ITV2,ITV2,United Kingdom
+***ERROR:The Mira Hong Kong,The Mira Hong Kong,People's Republic of China
+***ERROR:Fuse電視網,Fuse,United States of America
+***ERROR:俄罗斯24,Russia-24,Russia
+***ERROR:E4,E4,United Kingdom
+***ERROR:Respawn Entertainment,Respawn Entertainment,United States of America
+***ERROR:Fairmont旅館,Fairmont San Jose,United States of America
+***ERROR:法國麵包 (同人社團),French Bread,Japan
+***ERROR:Whole Foods Market,Whole Foods Market,United States of America
+***ERROR:ZeptoLab,ZeptoLab,Russia
+***ERROR:Carbonated Games,Carbonated Games,United States of America
+***ERROR:Chair Entertainment,Chair Entertainment,United States of America
+***ERROR:國家地理頻道 (加拿大),National Geographic Channel,Canada
+***ERROR:CNN國際新聞網絡,CNN International,United States of America
+***ERROR:CNN 土耳其,CNN Türk,United States of America
+***ERROR:MTV Russia,MTV Russia,Russia
+***ERROR:EA Salt Lake,EA Salt Lake,United States of America
+***ERROR:科隆/波恩機場,Cologne Bonn Airport,Germany
+***ERROR:N24,N24,Germany
+***ERROR:Colossal Order,Colossal Order,Finland
+***ERROR:LTV集團,Ling-Temco-Vought,United States of America
+***ERROR:Telefe,Telefe,Argentina
+***ERROR:Discovery特偵組,Investigation Discovery,United States of America
+***ERROR:Climax Studios,Climax Studios,United Kingdom
+***ERROR:Stellar Stone,Stellar Stone,United States of America
+***ERROR:Underground Development,Underground Development,United States of America
+***ERROR:Essanay工作室,Essanay Studios,United States of America
+***ERROR:Eidos蒙特利尔,Eidos Montreal,Canada
+***ERROR:Backflip Studios,Backflip Studios,United States of America
+***ERROR:Arby's,Arby's,United States of America
+***ERROR:EA Tiburon,EA Tiburon,United States of America
+***ERROR:Bang Bros,Bang Bros,United States of America
+***ERROR:828宾馆,Q10846201,People's Republic of China
+***ERROR:CBS電影公司,CBS Films,United States of America
+***ERROR:Tengen,Tengen,United States of America
+***ERROR:IFC電影公司,IFC Films,United States of America
+***ERROR:Renegade Kid,Renegade Kid,United States of America
+***ERROR:Netflix,Netflix,United States of America
+***ERROR:Eurogate,"Eurogate GmbH & Co. KGaA, KG"
+***ERROR:DOGTV,DOGTV,United States of America
+***ERROR:Tilted Kilt Pub & Eatery餐廳,Tilted Kilt Pub & Eatery,United States of America
+***ERROR:Havok,Havok,Ireland
+***ERROR:InXile娛樂,inXile entertainment,United States of America
+***ERROR:Bamiyan (連鎖餐廳),Bamiyan,Japan
+***ERROR:Lawry's the Prime Rib,Lawry's,United States of America
+***ERROR:布利克街 (公司),Bleecker Street,United States of America
+***ERROR:CBS體育,CBS Sports,United States of America
+***ERROR:Skip,Skip Ltd.,Japan
+***ERROR:Swordfish Studios,Swordfish Studios,United Kingdom
+***ERROR:United Front Games,United Front Games,Canada
+***ERROR:Showtime電視網,Showtime,United States of America
+***ERROR:漢堡－美洲公司,Hamburg America Line,Germany
+***ERROR:CNN,CNN,United States of America
+***ERROR:21圈娛樂,21 Laps Entertainment,United States of America
+***ERROR:Quiznos,Quiznos,United States of America
+***ERROR:塞內卡·尼亞加拉賭場度假村,Seneca Niagara Casino & Hotel,United States of America
+***ERROR:A.C.G.T,A.C.G.T,Japan
+***ERROR:I24news,i24news,Israel
+***ERROR:Cloo頻道,Cloo,United States of America
+***ERROR:NBCSN,NBC Sports Network,United States of America
+***ERROR:勵駿酒店 (北京),Legendale Hotel Beijing,People's Republic of China
+***ERROR:北德意志-劳埃德,Norddeutscher Lloyd,Germany
+***ERROR:FOX土耳其,Fox,Turkey
+***ERROR:YES電視網,YES Network,United States of America
+***ERROR:施普林格科学+商业媒体,Springer Science+Business Media,Germany
+***ERROR:David Production,David Production,Japan
+***ERROR:哈奇森 (出版社),Hutchinson,United Kingdom
+***ERROR:札幌新大谷INN,New Otani Inn Sapporo,Japan
+***ERROR:Prentice Hall,Prentice Hall,United States of America
+***ERROR:G.亨乐出版社,G. Henle Verlag,Germany
+***ERROR:Arms,Arms Corporation,Japan
+***ERROR:S·菲舍爾出版社,S. Fischer Verlag,Germany
+***ERROR:Vertigo (漫畫),Vertigo,United States of America
+***ERROR:ANA葡萄牙機場集團,ANA – Aeroportos de Portugal,Portugal
+***ERROR:萊卡 (動畫公司),Laika,United States of America
+***ERROR:G4,G4,United States of America
+***ERROR:迪士尼XD,Disney XD,United States of America
+***ERROR:CBeebies,CBeebies,United Kingdom
+***ERROR:貓頭鷹出版社 (德國),Ullstein Verlag,Germany
+***ERROR:TASCHEN出版,Taschen,Germany
+***ERROR:札幌JR飯店,JR INN Sapporo,Japan
+***ERROR:A-1 Pictures,A-1 Pictures,Japan
+***ERROR:IFC (電視網),IFC,United States of America
+***ERROR:法勒、斯特勞斯和吉魯,"Farrar, Straus and Giroux"
+***ERROR:德·迪昂·布通,De Dion-Bouton,France
+***ERROR:Informa,Informa,United Kingdom
+***ERROR:科學出版社 (俄羅斯),Nauka,Russia
+***ERROR:Enterbrain,Enterbrain,Japan
+***ERROR:IEEE計算機學會,IEEE Computer Society,United States of America
+***ERROR:Sprite (摩托車品牌),Sprite,United Kingdom
+***ERROR:Google Voice,Google Voice,United States of America
+***ERROR:威立－布萊克威爾,Wiley-Blackwell,United States of America
+***ERROR:DK公司,Dorling Kindersley,United Kingdom
+***ERROR:讓-胥席·苟德佛華,Q3165282,France
+***ERROR:Addison-Wesley,Addison-Wesley,Germany
+***ERROR:巴爾-史特勞德,Barr and Stroud,United Kingdom
+***ERROR:Beetrain,Bee Train,Japan
+***ERROR:NSU車廠,NSU Motorenwerke,Germany
+***ERROR:Production IMS,Production IMS,Japan
+***ERROR:CBS運動網,CBS Sports Network,United States of America
+***ERROR:哈珀 (出版社),Harper,United States of America
+***ERROR:R·歐登堡出版社,R. Oldenbourg Verlag,Germany
+***ERROR:KUSA (電視節目),KUSA,United States of America
+***ERROR:Kana (出版商),Kana,France
+***ERROR:CRC出版社,CRC Press,United States of America
+***ERROR:Conrad Tokyo,Conrad Tokyo,Japan
+***ERROR:Anime國際公司,Anime International Company,Japan
+***ERROR:アルモニーサンク 北九州ソレイユホール,Q17192358,Japan
+***ERROR:保罗·盖蒂博物馆,J. Paul Getty Museum,United States of America
+***ERROR:Bloomsbury Publishing,Bloomsbury Publishing,United Kingdom
+***ERROR:VDM出版社,VDM Publishing,Germany
+***ERROR:帕爾格雷夫·麥克米蘭,Palgrave Macmillan,United Kingdom
+***ERROR:EK出版社,Q1274983,Germany
+***ERROR:學術出版社 (美國),Academic Press,United States of America
+***ERROR:路德維希·馮·米塞斯研究所,Ludwig von Mises Institute,United States of America
+***ERROR:UL,UL,Germany
+***ERROR:Actas,Actas,Japan
+***ERROR:K芭蕾舞團,K-ballet,Japan
+***ERROR:KSL電視,KSL-TV,United States of America
+***ERROR:ABC News,ABC News,Albania
+***ERROR:吉爾吉斯電影 (製片廠),Kyrgyzfilm,Kyrgyzstan
+***ERROR:MTV電影公司,MTV Films,United States of America
+***ERROR:12 bis雜誌,12 bis,France
+***ERROR:B計劃娛樂,Plan B Entertainment,United States of America
+***ERROR:罪惡之城 (工作室),Sin City,United States of America
+***ERROR:千年之湯 古Man,Koman,Japan
+***ERROR:克魯斯-華格納製片,Cruise/Wagner Productions,United States of America
+***ERROR:Mutant Enemy製作公司,Mutant Enemy Productions,United States of America
+***ERROR:布洛克威爾·麥納瑪拉娛樂,Brookwell McNamara Entertainment,United States of America
+***ERROR:格雷·桑切斯製片公司,Gary Sanchez Productions,United States of America
+***ERROR:8頻道,Channel 8 (Thailand),Thailand
+***ERROR:托馬斯·尼爾森,Thomas Nelson,United States of America
+***ERROR:Skydance製片公司,Skydance Productions,United States of America
+***ERROR:DIC娛樂公司,DIC Entertainment,United States of America
+***ERROR:Paulaner,Paulaner Brewery,Germany
+***ERROR:A.D. Vision,A.D. Vision,United States of America
+***ERROR:Continuum (出版商),Continuum International Publishing Group,United States of America
+***ERROR:Imagine Entertainment,Imagine Entertainment,United States of America
+***ERROR:围棋TV,Badook TV,South Korea
+***ERROR:KLG,KLG,Taiwan
+***ERROR:KLG,KLG,Malaysia
+***ERROR:1013製片公司,Ten Thirteen Productions,United States of America
+***ERROR:1492電影公司,1492 Pictures,United States of America
+***ERROR:Working Title Films,Working Title Films,United Kingdom
+***ERROR:康斯特堡&罗宾森出版社,Constable & Robinson,United Kingdom
+***ERROR:IOS出版社,IOS Press,Netherlands
+***ERROR:Roadrunner唱片,Roadrunner Records,United States of America
+***ERROR:SANAA,SANAA,Japan
+***ERROR:YG娛樂,YG Entertainment,South Korea
+***ERROR:冯·格康，玛格及合伙人建筑师事务所,"Gerkan, Marg and Partners"
+***ERROR:HUGO BOSS,Hugo Boss,Germany
+***ERROR:路易·威登,Louis Vuitton,France
+***ERROR:CODEO啤酒,CODEO,Japan
+***ERROR:Sankt Gallen (日本),Sankt Gallen Brewery,Japan
+***ERROR:Ecco出版社,Ecco Press,United States of America
+***ERROR:Hurricane Electric,Hurricane Electric,United States of America
+***ERROR:愛德華·埃爾加出版社,Edward Elgar Publishing,United States of America
+***ERROR:卡爾曼、米金奈和伍德建築師事務所,Kallmann McKinnell & Wood,United States of America
+***ERROR:施耐德+舒马赫,schneider+schumacher,Germany
+***ERROR:Woollim娛樂,Woollim Entertainment,South Korea
+***ERROR:E-Plus,E-Plus,Germany
+***ERROR:Arriva威爾士鐵路,Arriva Trains Wales,United Kingdom
+***ERROR:Annapurna Pictures,Annapurna Pictures,United States of America
+***ERROR:ABC工作室,ABC Studios,United States of America
+***ERROR:勞倫斯·惠沙特,Lawrence and Wishart,United Kingdom
+***ERROR:SOM建築設計事務所,"Skidmore, Owings and Merrill"
+***ERROR:Arriva默西塞德,Arriva Trains Merseyside,United Kingdom
+***ERROR:寶利發啤酒(荷蘭),Bavaria Brewery,Netherlands
+***ERROR:EE,EE,United Kingdom
+***ERROR:4Kids娱乐公司,4Licensing Corporation,United States of America
+***ERROR:雅什－拉吉影片公司,Yash Raj Films,India
+***ERROR:烏爾斯基·布羅德國營兵工廠,Česká zbrojovka Uherský Brod,Czech Republic
+***ERROR:史萊夫、蘭布與哈蒙建築公司,"Shreve, Lamb & Harmon"
+***ERROR:阿爾卡特-朗訊,Alcatel-Lucent,France
+***ERROR:BBC出版公司,BBC Books,United Kingdom
+***ERROR:FX,FX,United States of America
+***ERROR:Jive Records,Jive Records,United States of America
+***ERROR:Epitaph唱片,Epitaph Records,United States of America
+***ERROR:M5实业公司,M5 Industries,United States of America
+***ERROR:Elektra唱片公司,Elektra Records,United States of America
+***ERROR:布尼姆/美利製作,Bunim/Murray Productions,United States of America
+***ERROR:Vee-Jay唱片,Vee-Jay Records,United States of America
+***ERROR:RSO唱片,RSO Records,United Kingdom
+***ERROR:Napalm Records,Napalm Records,Austria
+***ERROR:CNN紀錄片,CNN Films,United States of America
+***ERROR:TS娛樂,TS Entertainment,South Korea
+***ERROR:20世紀福克斯電視公司,20th Century Fox Television,United States of America
+***ERROR:MFS 音樂廠牌,MFS,Germany
+***ERROR:Mecanoo,Mecanoo,Netherlands
+***ERROR:CA集團,CA,Japan
+***ERROR:Core Contents Media,MBK Entertainment,South Korea
+***ERROR:Bronze唱片,Bronze Records,United Kingdom
+***ERROR:Pledis娛樂,Pledis Entertainment,South Korea
+***ERROR:Moshi Moshi唱片,Moshi Moshi Records,United Kingdom
+***ERROR:Endemol,Endemol,Netherlands
+***ERROR:哈索·普拉特納研究學院,Hasso Plattner Institute,Germany
+***ERROR:Sub Pop,Sub Pop,United States of America
+***ERROR:Cube娛樂,Cube Entertainment,South Korea
+***ERROR:DSP媒體,DSP Media,South Korea
+***ERROR:JYP娛樂,JYP Entertainment,South Korea
+***ERROR:Priority唱片公司,Priority Records,United States of America
+***ERROR:M·沙普提亞,Chapoutier,France
+***ERROR:Loud唱片公司,Loud Records,United States of America
+***ERROR:J唱片公司,J Records,United States of America
+***ERROR:MPS唱片,MPS Records,Germany
+***ERROR:尼尔斯·托普,Niels Torp AS,Norway
+***ERROR:生活·读书·新知三联书店,SDX Joint Publishing Company,People's Republic of China
+***ERROR:SM娛樂,S.M. Entertainment,South Korea
+***ERROR:Aftermath唱片公司,Aftermath Entertainment,United States of America
+***ERROR:Mnet媒體,CJ E&M Music and Live,South Korea
+***ERROR:SPV唱片,SPV,Germany
+***ERROR:ViSalus,ViSalus,United States of America
+***ERROR:PM国际股份有限公司,PM-International,Germany
+***ERROR:Epic Records Japan,Epic/Sony Records,Japan
+***ERROR:羅塞斯造船廠（Rosyth Dockyard）,Rosyth Dockyard,United Kingdom
+***ERROR:麥格勞-希爾國際出版公司,McGraw-Hill Education,United States of America
+***ERROR:DefSTAR Records,Defstar Records,Japan
+***ERROR:XanGo公司,XanGo,United States of America
+***ERROR:Pret A Manger,Pret a Manger,United Kingdom
+***ERROR:EMI音樂日本,EMI Music Japan,Japan
+***ERROR:Kapp唱片,Kapp Records,United States of America
+***ERROR:ABC唱片,ABC Records,United States of America
+***ERROR:Spinefarm唱片,Spinefarm Records,Finland
+***ERROR:NEGANETWORK,Nega Network,South Korea
+***ERROR:Nothing唱片,Nothing Records,United States of America
+***ERROR:Alphabet,Alphabet Inc.,United States of America
+***ERROR:Underground Resistance,Underground Resistance,United States of America
+***ERROR:Riese und Müller,Riese und Müller,Germany
+***ERROR:Fearless唱片,Fearless Records,United States of America
+***ERROR:No Limit唱片公司,No Limit Records,United States of America
+***ERROR:AMSOIL,Amsoil,United States of America
+***ERROR:Oricon,Oricon,Japan
+***ERROR:小島Def Jam音樂集團,The Island Def Jam Music Group,United States of America
+***ERROR:Big Hit娛樂,Big Hit Entertainment,South Korea
+***ERROR:Natives Éditions,Natives (Éditions),France
+***ERROR:Liberty唱片,Liberty Records,United States of America
+***ERROR:Frontier Works,Frontier Works,Japan
+***ERROR:G-Unit唱片公司,G-Unit Records,United States of America
+***ERROR:Parlophone,Parlophone,United Kingdom
+***ERROR:Parlophone,Parlophone,Germany
+***ERROR:Star Empire Entertainment,Star Empire Entertainment,South Korea
+***ERROR:Charisma唱片,Charisma Records,United Kingdom
+***ERROR:Ki/oon唱片,Ki/oon Music,Japan
+***ERROR:RCA唱片,RCA Records,United States of America
+***ERROR:Fantagio Entertainment,Fantagio,South Korea
+***ERROR:LaFace唱片公司,LaFace Records,United States of America
+***ERROR:Happy Face Entertainment,Happy Face Entertainment,South Korea
+***ERROR:Mystic娛樂,Mystic89,South Korea
+***ERROR:Interscope 唱片,Interscope Records,United States of America
+***ERROR:Sumerian唱片,Sumerian Records,United States of America
+***ERROR:Cash Money唱片,Cash Money Records,United States of America
+***ERROR:Death Row唱片公司,Death Row Records,United States of America
+***ERROR:A&M唱片公司,A&M Records,United States of America
+***ERROR:604唱片,604 Records,Canada
+***ERROR:Capitol唱片,Capitol Records,United States of America
+***ERROR:Antenna音樂,Antenna Music,South Korea
+***ERROR:B2M娛樂,B2M Entertainment,South Korea
+***ERROR:GIZA studio,Giza Studio,Japan
+***ERROR:SidusHQ,SidusHQ,South Korea
+***ERROR:JXTG控股,JXTG Holdings,Japan
+***ERROR:Vertigo唱片,Vertigo Records,United Kingdom
+***ERROR:Desert Storm唱片公司,Desert Storm Records,United States of America
+***ERROR:Management SOOP,Management SOOP,South Korea
+***ERROR:Brave Entertainment,Brave Entertainment,South Korea
+***ERROR:XL唱片,XL Recordings,United Kingdom
+***ERROR:Hodoo娛樂,Q16178164,South Korea
+***ERROR:STARSHIP Entertainment,Starship Entertainment,South Korea
+***ERROR:Nonesuch唱片公司,Nonesuch Records,United States of America
+***ERROR:LOEN娛樂,LOEN Entertainment,South Korea
+***ERROR:Aguilar,Aguilar,Spain
+***ERROR:Def Jam唱片公司,Def Jam Recordings,United States of America
+***ERROR:YNB娛樂,YNB Entertainment,South Korea
+***ERROR:Ariola唱片,Ariola Records,Germany
+***ERROR:J Storm,J Storm,Japan
+***ERROR:太陽 (唱片公司),Sun Records,United States of America
+***ERROR:SPACE CRAFT,Space Craft,Japan
+***ERROR:拉夫·萊達斯娛樂公司,Ruff Ryders Entertainment,United States of America
+***ERROR:瓦雷澤·薩拉班德唱片,Varèse Sarabande,United States of America
+***ERROR:Lee,Lee,United States of America
+***ERROR:FNC娛樂,FNC Entertainment,South Korea
+***ERROR:King Kong娛樂,King Kong Entertainment,South Korea
+***ERROR:Sim Entertainment,Sim Entertainment,South Korea
+***ERROR:Ill Will唱片公司,Ill Will Records,United States of America
+***ERROR:Rhythm zone,Rhythm Zone,Japan
+***ERROR:Lürssen造船,Lürssen,Germany
+***ERROR:M&H娱乐,M&H Entertainment,South Korea
+***ERROR:AdMob,AdMob,United States of America
+***ERROR:Jungle娛樂,Jungle Entertainment,South Korea
+***ERROR:Good娛樂,Good Entertainment,South Korea
+***ERROR:Rise唱片,Rise Records,United States of America
+***ERROR:USC (服裝零售商),USC,United Kingdom
+***ERROR:Around US娛樂,Around US Entertainment,South Korea
+***ERROR:Ruthless唱片公司,Ruthless Records,United States of America
+***ERROR:馬克·莫里斯舞蹈中心,Mark Morris Dance Center,United States of America
+***ERROR:布洛姆－福斯,Blohm + Voss,Germany
+***ERROR:CMC國際,CMC International,United States of America
+***ERROR:SST唱片公司,SST Records,United States of America
+***ERROR:Extasy唱片,Extasy Records,Japan
+***ERROR:Grand Hustle唱片公司,Grand Hustle Records,United States of America
+***ERROR:Plan A娛樂,Plan A Entertainment,South Korea
+***ERROR:Extasy唱片,Extasy Records,United States of America
+***ERROR:C&A,C&A,Germany
+***ERROR:키이스트,KeyEast,South Korea
+***ERROR:티오피미디어,TOP Media,South Korea
+***ERROR:WM Entertainment,WM Entertainment,South Korea
+***ERROR:I.R.S.唱片,I.R.S. Records,United States of America
+***ERROR:Cagiva集團,Cagiva,Italy
+***ERROR:TVT唱片,TVT Records,United States of America
+***ERROR:Horipro,Horipro,Japan
+***ERROR:Timberland,The Timberland Company,United States of America
+***ERROR:원오원 엔터테인먼트,Q11128342,South Korea
+***ERROR:卡文·克萊,Calvin Klein Inc,United States of America
+***ERROR:GWR唱片,GWR Records,United Kingdom
+***ERROR:Starhaus Entertainment,Starhaus Entertainment,South Korea
+***ERROR:Kling Klang录音室,Kling Klang Studio,Germany
+***ERROR:SONIC GROOVE,Sonic Groove,Japan
+***ERROR:FXX頻道,FXX,United States of America
+***ERROR:DreamTea娛樂,Dream Tea Entertainment,South Korea
+***ERROR:Stardom娛樂,Stardom Entertainment,South Korea
+***ERROR:Doggystyle唱片公司,Doggystyle Records,United States of America
+***ERROR:TOY'S FACTORY,Toy's Factory,Japan
+***ERROR:Dischord唱片,Dischord Records,United States of America
+***ERROR:約翰·I·桑尼克羅夫特公司,John I. Thornycroft & Company,United Kingdom
+***ERROR:Schlecker醜聞,Schlecker,Germany
+***ERROR:7-Eleven,7-Eleven,United States of America
+***ERROR:YouTube,YouTube,United States of America
+***ERROR:NTT出版,NTT Publishing,Japan
+***ERROR:納許維爾Capitol唱片,Capitol Records Nashville,United States of America
+***ERROR:NORTHERN MUSIC,Northern Music,Japan
+***ERROR:Boots,Boots UK,United Kingdom
+***ERROR:Kiosk,Kiosk,Japan
+***ERROR:Chiswick唱片,Chiswick Records,United Kingdom
+***ERROR:Yandex,Yandex,Russia
+***ERROR:Game零售商,Game Digital plc,United Kingdom
+***ERROR:Big Machine唱片,Big Machine Records,United States of America
+***ERROR:Inertia唱片,Inertia,Australia
+***ERROR:Visa,Visa Inc.,United States of America
+***ERROR:OCZ Storage Solutions,OCZ,United States of America
+***ERROR:Go! Beat唱片,Go! Discs,United Kingdom
+***ERROR:Lava唱片,Lava Records,United States of America
+***ERROR:Burt's Bees,Burt's Bees,United States of America
+***ERROR:Lacoste,Lacoste,France
+***ERROR:MV Agusta,MV Agusta,Italy
+***ERROR:Lyric Street唱片公司,Lyric Street Records,United States of America
+***ERROR:Avex trax,Avex Trax,Japan
+***ERROR:青年 (烏克蘭雜誌),Molod,Ukraine
+***ERROR:AI Entertainment,AI Entertainment,Japan
+***ERROR:Victory唱片,Victory Records,United States of America
+***ERROR:3 Peace唱片,3 Peace Records,United States of America
+***ERROR:4th & B'way唱片公司,4th & B'way Records,United States of America
+***ERROR:The North Face,"The North Face, Inc."
+***ERROR:Jack Wills,Jack Wills,United Kingdom
+***ERROR:Selfridges,Selfridges,United Kingdom
+***ERROR:音樂農莊 (唱片公司),Music Farm,South Korea
+***ERROR:Specsavers,Specsavers,Denmark
+***ERROR:Specsavers,Specsavers,United Kingdom
+***ERROR:Machine Shop Recordings,Machine Shop Recordings,United States of America
+***ERROR:Specsavers,Specsavers,Romania
+***ERROR:Specsavers,Specsavers,Specsavers
+***ERROR:Rostrum唱片公司,Rostrum Records,United States of America
+***ERROR:香蕉共和國 (服飾),Banana Republic,United States of America
+***ERROR:HMV,HMV Group,United Kingdom
+***ERROR:莫萨克·冯赛卡律师行,Mossack Fonseca,Panama
+***ERROR:Key Sounds Label,Key Sounds Label,Japan
+***ERROR:You,"You, Be Cool!"
+***ERROR:Tiger,Flying Tiger Copenhagen,Denmark
+***ERROR:Tiger,Flying Tiger Copenhagen,United Kingdom
+***ERROR:格拉夫·普拉斯娛樂公司,Crafty Plugz,United States of America
+***ERROR:Zetima,Zetima,Japan
+***ERROR:Uptown唱片公司,Uptown Records,United States of America
+***ERROR:Pandora珠宝,Pandora A/S,Denmark
+***ERROR:DGC唱片公司,DGC Records,United States of America
+***ERROR:Hauser y Menet,Hauser y Menet,Spain
+***ERROR:Erased Tapes Records,Erased Tapes Records,United Kingdom
+***ERROR:UKTV,UKTV,United Kingdom
+***ERROR:OK便利店,Circle K,United States of America
+***ERROR:DB唱片,DB Records,United States of America
+***ERROR:MCA唱片,MCA Records,United States of America
+***ERROR:Guess (服飾),Guess,United States of America
+***ERROR:GANT,Gant,Sweden
+***ERROR:母+父音樂,Mom + Pop Music,United States of America
+***ERROR:約翰·路易斯,John Lewis,United Kingdom
+***ERROR:SME Records,SME Records,Japan
+***ERROR:日本BMG,BMG Japan,Japan
+***ERROR:泰恩-威爾地鐵,Tyne and Wear Metro,United Kingdom
+***ERROR:Dispolok,Dispolok,Germany
+***ERROR:特拉華、拉克瓦納和西部鐵路公司,"Delaware, Lackawanna and Western Railroad"
+***ERROR:Revealed唱片公司,Revealed Recordings,Netherlands
+***ERROR:IDOL Street,iDOL Street,Japan
+***ERROR:密蘇里州-堪薩斯州-得克薩斯州鐵路,Missouri–Kansas–Texas Railroad,United States of America
+***ERROR:芝加哥，岩島和太平洋鐵路,"Chicago, Rock Island and Pacific Railroad"
+***ERROR:RCA唱片納什維爾,RCA Records Nashville,United States of America
+***ERROR:Sony Music Records,Sony Music Records,Japan
+***ERROR:HEAG莫比洛,HEAG mobilo,Germany
+***ERROR:STUDIOSEVEN Recordings,Studioseven Recordings,Japan
+***ERROR:S2S唱片公司,S2S Pte. Ltd.,Japan
+***ERROR:芝加哥，伯靈頓和昆西鐵路,"Chicago, Burlington and Quincy Railroad"
+***ERROR:STARCHILD,Starchild,Japan
+***ERROR:Alleo,Q2648468,Germany
+***ERROR:Greggs,Greggs,United Kingdom
+***ERROR:School Boy唱片,School Boy Records,United States of America
+***ERROR:Domo唱片,Domo Records,United States of America
+***ERROR:GO運輸,GO Transit,Canada
+***ERROR:SACRA MUSIC,Sacra Music,Japan
+***ERROR:Last Gang唱片,Last Gang Records,Canada
+***ERROR:Grafton Group,Grafton Group,United Kingdom
+***ERROR:Grafton Group,Grafton Group,Ireland
+***ERROR:Avira AntiVirus,Avira Antivirus,Germany
+***ERROR:VIA航空,Air VIA,Bulgaria
+***ERROR:Abbey National,Abbey National,United Kingdom
+***ERROR:BAE系统,BAE Systems,United Kingdom
+***ERROR:梅里迪安 (品牌),Meridian,Germany
+***ERROR:聖路易斯 - 舊金山鐵路,St. Louis–San Francisco Railway,United States of America
+***ERROR:BTR公司,BTR plc,United Kingdom
+***ERROR:TransIT 公車,TransIT,United States of America
+***ERROR:TACV佛得角航空,TACV,Cape Verde
+***ERROR:KT音樂,KT Music,South Korea
+***ERROR:RBH物流,Q2124030,Germany
+***ERROR:Theatre Jeune劇團,Q11398161,Japan
+***ERROR:伏爾加-第聶伯航空,Volga-Dnepr Airlines,Russia
+***ERROR:劇團Nylon100℃,Q11323646,Japan
+***ERROR:LAN哥倫比亞航空,LATAM Colombia,Colombia
+***ERROR:XO （唱片公司）,XO,Canada
+***ERROR:AeroLogic,AeroLogic,Germany
+***ERROR:劇團こまどり,Q11300682,Japan
+***ERROR:S7航空,S7 Airlines,Russia
+***ERROR:NHK放送中心,NHK Broadcasting Center,Japan
+***ERROR:蒙提·派森,Monty Python,United Kingdom
+***ERROR:LOT波蘭航空,LOT Polish Airlines,Poland
+***ERROR:NHK大阪放送局,NHK Osaka Broadcasting Station,Japan
+***ERROR:AK-Bars航空,Ak Bars Aero,Russia
+***ERROR:CHC直升機航空,CHC Helicopter,Canada
+***ERROR:Wall唱片公司,Wall Recordings,Netherlands
+***ERROR:深圳市特力（集团）股份有限公司,Q11153067,People's Republic of China
+***ERROR:深圳市深信泰丰（集团）股份有限公司,Q11153063,People's Republic of China
+***ERROR:广州铁路（集团）公司,Guangzhou Railway (Group) Corporation,People's Republic of China
+***ERROR:KF 貨運,Kelowna Flightcraft Air Charter,Canada
+***ERROR:UTair快運,UTair Express,Russia
+***ERROR:邁阿密-戴德運輸,Miami-Dade Transit,United States of America
+***ERROR:劇團すごろく,Q11398131,Japan
+***ERROR:劇團め組,Q11398141,Japan
+***ERROR:HK Express,HK Express,People's Republic of China
+***ERROR:劇團21世紀福斯,Q11398107,Japan
+***ERROR:劇團6番シード,Q11398108,Japan
+***ERROR:劇團EXILE,Q11398113,Japan
+***ERROR:AB航空,AB Airlines,United Kingdom
+***ERROR:SCAT航空,SCAT Airlines,Kazakhstan
+***ERROR:R航空,R Airlines,Thailand
+***ERROR:TAP葡萄牙航空,TAP Portugal,Portugal
+***ERROR:BH航空,BH Air,Bulgaria
+***ERROR:WDL航空,WDL Aviation,Germany
+***ERROR:V澳洲航空,V Australia,Australia
+***ERROR:AMC航空,AMC Airlines,Egypt
+***ERROR:首都航空 (北美),Capital Airlines,United States of America
+***ERROR:東京Sunshine Voice,Tokyo Sunshine Boys,Japan
+***ERROR:VASP航空,VASP,Brazil
+***ERROR:Trivago,Trivago,Germany
+***ERROR:法國ASL航空,ASL Airlines France,France
+***ERROR:Dartz,Dartz,Latvia
+***ERROR:天空航空 (土耳其),Sky Airlines,Turkey
+***ERROR:Citilink,Citilink,Indonesia
+***ERROR:Mount Cook Airlines（紐西蘭）,Mount Cook Airline,New Zealand
+***ERROR:Trans-Canada航空,Trans-Canada Air Lines,Canada
+***ERROR:帝国航空 (美国),Empire Airlines,United States of America
+***ERROR:LTE國際航空,LTE International Airways,Spain
+***ERROR:UPS航空,UPS Airlines,United States of America
+***ERROR:Zip航空,Zip,Canada
+***ERROR:PMT航空,PMTair,Cambodia
+***ERROR:MNG航空,MNG Airlines,Turkey
+***ERROR:FIDO联盟,FIDO,United States of America
+***ERROR:劇團HA BEST,Q17217209,Japan
+***ERROR:Naldo交通体系,Q1467217,Germany
+***ERROR:林克-霍夫曼-布希,Linke-Hofmann,Germany
+***ERROR:Ancon商事,Q17192505,Japan
+***ERROR:2345網址導航,Q22099583,People's Republic of China
+***ERROR:邊疆航空 (1950-1986年),Frontier Airlines,United States of America
+***ERROR:Bnibera兔團,Q17216447,Japan
+***ERROR:國家航空 (加拿大),Nolisair,Canada
+***ERROR:國家航空 (ROK),National Airlines,United States of America
+***ERROR:加拿大航空Jazz,Jazz,Canada
+***ERROR:UVT航空,UVT Aero,Russia
+***ERROR:GLO航空,GLO Airlines,United States of America
+***ERROR:Ameriflight航空,Ameriflight,United States of America
+***ERROR:Dan航空,Dan-Air,United Kingdom
+***ERROR:LAM莫三比克航空,LAM Mozambique Airlines,Mozambique
+***ERROR:Groucho俱樂部,Groucho Club,United Kingdom
+***ERROR:Norma超市,Norma,Germany
+***ERROR:威士忌a Go Go,Whisky a Go Go,United States of America
+***ERROR:Onewayhope,Onewayhope,United States of America
+***ERROR:Alpina,Alpina,Germany
+***ERROR:Cruzeiro do Sul航空,Serviços Aéreos Cruzeiro do Sul,Brazil
+***ERROR:東京Suuica,Q11524179,Japan
+***ERROR:Illumina,Illumina,United States of America
+***ERROR:Studio Ponoc,Studio Ponoc,Japan
+***ERROR:NRW.INVEST,NRW.INVEST,Germany
+***ERROR:Airpac航空,Airpac Enterprises,United States of America
+***ERROR:GMMTV,GMMTV,Thailand
+***ERROR:柬埔寨第5电视台,TV5 Cambodia,Cambodia
+***ERROR:加拿大3000,Canada 3000,Canada
+***ERROR:KOKO (音樂館),KOKO,United Kingdom
+***ERROR:TNT航空,ASL Airlines Belgium,Belgium
+***ERROR:里夫·阿留申航空公司,Reeve Aleutian Airways,United States of America
+***ERROR:VIM航空,VIM Airlines,Russia
+***ERROR:CBGB,CBGB,United States of America
+***ERROR:54俱樂部,Studio 54,United States of America
+***ERROR:展翼鷹 (旺茲沃思),Spread Eagle,United Kingdom
+***ERROR:UTair航空,UTair Aviation,Russia
+***ERROR:NKD,Q927272,Germany
+***ERROR:卡羅爾·謝爾比國際,Carroll Shelby International,United States of America
+***ERROR:DC漫畫,DC Comics,United States of America
+***ERROR:Zott,Zott SE & Co. KG,Germany
+***ERROR:第54演播室電台聯播網,Radio Studio 54 Network,Italy
+***ERROR:新碼頭 (錫爾迪金),New Quay,United Kingdom
+***ERROR:阿斯顿·马丁,Aston Martin,United Kingdom
+***ERROR:AFM,Alex von Falkenhausen Motorenbau,Germany
+***ERROR:麥可蘭德&斯圖爾特出版公司,McClelland & Stewart,Canada
+***ERROR:紐卡素爾 (唐郡),Newcastle,United Kingdom
+***ERROR:韋斯特沃德霍！,Westward Ho!,United Kingdom
+***ERROR:梅賽德斯-AMG,Mercedes-AMG,Germany
+***ERROR:陶因 (康威),Towyn,United Kingdom
+***ERROR:史密斯 (公司),Sipsmith,United Kingdom
+***ERROR:麥基爾－皇后大學出版社,McGill-Queen's University Press,Canada
+***ERROR:KBS第2FM,KBS Cool FM,South Korea
+***ERROR:澤西海岸 (地區),Jersey Shore,United States of America
+***ERROR:BMW,BMW,Germany
+***ERROR:2GB,2GB,Australia
+***ERROR:Solaris,Solaris Bus & Coach,Poland
+***ERROR:MAN卡車與巴士,MAN Truck & Bus,Germany
+***ERROR:BBC威爾士廣播,BBC Radio Wales,United Kingdom
+***ERROR:梅特勒-托利多,Mettler Toledo,United States of America
+***ERROR:90十一,90elf,Germany
+***ERROR:AEG,AEG,Germany
+***ERROR:Adobe Systems,Adobe Systems,United States of America
+***ERROR:BBC奧克尼群島廣播,BBC Radio Orkney,United Kingdom
+***ERROR:Under Armour,Under Armour,United States of America
+***ERROR:洛克希德·马丁,Lockheed Martin,United States of America
+***ERROR:威爾斯語BBC廣播,BBC Radio Cymru,United Kingdom
+***ERROR:Faraday Future,Faraday Future,United States of America
+***ERROR:拉夫·劳伦马球,Ralph Lauren Corporation,United States of America
+***ERROR:IRobot,iRobot,United States of America
+***ERROR:Pizza-La,Pizza-La,Japan
+***ERROR:WYPR,WYPR,United States of America
+***ERROR:KFRS,KFRS,United States of America
+***ERROR:BBC設得蘭群島廣播,BBC Radio Shetland,United Kingdom
+***ERROR:883 家FM,883JiaFM,Singapore
+***ERROR:高露洁-棕榄,Colgate-Palmolive Company,United States of America
+***ERROR:HWA車隊,HWA Team,Germany
+***ERROR:Groupon,Groupon,United States of America
+***ERROR:BBC蘇格蘭廣播,BBC Radio Scotland,United Kingdom
+***ERROR:BBC蘇格蘭蓋爾語廣播,BBC Radio nan Gàidheal,United Kingdom
+***ERROR:XING,XING,Germany
+***ERROR:CGI集團,CGI Group,Canada
+***ERROR:加拿大中文電台FM96.1,CHKG-FM,Canada
+***ERROR:Juniper Networks,Juniper Networks,United States of America
+***ERROR:WYFR,WYFR,United States of America
+***ERROR:Mail.ru,Mail.ru,Russia
+***ERROR:SAP公司,SAP SE,Germany
+***ERROR:Software AG,Software AG,Germany
+***ERROR:加拿大中文電台AM1470,CJVB,Canada
+***ERROR:CA公司,CA Technologies,United States of America
+***ERROR:SOHO中國,SOHO China,People's Republic of China
+***ERROR:BBC Radio 5直播,BBC Radio 5 Live,United Kingdom
+***ERROR:诺斯洛普·格鲁门,Northrop Grumman,United States of America
+***ERROR:Stanley電氣,Stanley Electric,Japan
+***ERROR:NHK廣播第1頻率,NHK Radio 1,Japan
+***ERROR:东方宾馆 (广州),Q10870325,People's Republic of China
+***ERROR:Intuit,Intuit,United States of America
+***ERROR:Amazon.com,Amazon.com,United States of America
+***ERROR:Facebook公司,Facebook Inc.,United States of America
+***ERROR:Reddit,Reddit,United States of America
+***ERROR:Numerical Algorithms Group Ltd．,Numerical Algorithms Group,United Kingdom
+***ERROR:Gogo机上因特网,Gogo Inflight Internet,United States of America
+***ERROR:Executive Outcomes公司,Executive Outcomes,South Africa
+***ERROR:IBM,IBM,United States of America
+***ERROR:JetBrains公司,JetBrains,Czech Republic
+***ERROR:Eurokai集团,Q1375020,Germany
+***ERROR:HIT FM (中國),Hit FM,People's Republic of China
+***ERROR:Salesforce.com,Salesforce.com,United States of America
+***ERROR:AT&T,AT&T,Mexico
+***ERROR:2CH,2CH,Australia
+***ERROR:FM 103.2,2CBA,Australia
+***ERROR:BBC廣播一台,BBC Radio 1,United Kingdom
+***ERROR:Opera软件公司,Opera Software,Norway
+***ERROR:AT&T,AT&T,United States of America
+***ERROR:Solarcity,SolarCity,United States of America
+***ERROR:KBR公司,KBR,United States of America
+***ERROR:麦克唐纳-道格拉斯公司,McDonnell Douglas,United States of America
+***ERROR:BullGuard,BullGuard,United Kingdom
+***ERROR:23andMe,23andMe,United States of America
+***ERROR:BBC第4頻道,BBC Radio 4,United Kingdom
+***ERROR:1C公司,1C Company,Russia
+***ERROR:Cenqua,Atlassian,Australia
+***ERROR:MAN集團,MAN SE,Germany
+***ERROR:BBC 6 Music,BBC Radio 6 Music,United Kingdom
+***ERROR:黑克勒-科赫,Heckler & Koch,Germany
+***ERROR:柯蒂斯-萊特公司,Curtiss-Wright,United States of America
+***ERROR:Accelrys公司,Accelrys,United States of America
+***ERROR:BP,BP,United Kingdom
+***ERROR:Borland,Borland,United States of America
+***ERROR:英國航太系統 (美國),BAE Systems Inc.,United States of America
+***ERROR:哈里斯-尤因照相館,Harris & Ewing photo studio,United States of America
+***ERROR:Piriform,Piriform,United Kingdom
+***ERROR:Lidl,Lidl,Germany
+***ERROR:Wikia,Wikia,United States of America
+***ERROR:強斯·沃特,Vought,United States of America
+***ERROR:MG,MG Cars,United Kingdom
+***ERROR:ARC資源,ARC Resources,Canada
+***ERROR:eBay,eBay,United States of America
+***ERROR:Aetna,Aetna,United States of America
+***ERROR:ANSYS公司,Ansys,United States of America
+***ERROR:SKF,SKF,Sweden
+***ERROR:Abarth,Abarth,Italy
+***ERROR:PPG工业集团,PPG Industries,United States of America
+***ERROR:Humble Bundle,Humble Bundle Inc.,United States of America
+***ERROR:Sprint Nextel,Sprint Corporation,United States of America
+***ERROR:Quattro公司,quattro GmbH,Germany
+***ERROR:安海斯-布希,Anheuser-Busch,United States of America
+***ERROR:波克夏·哈薩威公司,Berkshire Hathaway,United States of America
+***ERROR:Novell,Novell,United States of America
+***ERROR:MAGI公司,Mathematical Applications Group,United States of America
+***ERROR:Sybase,Sybase,United States of America
+***ERROR:RAI,Rai,Italy
+***ERROR:MTU航空发动机公司,MTU Aero Engines,Germany
+***ERROR:Levi's,Levi Strauss & Co.,United States of America
+***ERROR:主流音樂Top 40單曲榜,Baldwin Piano Company,United States of America
+***ERROR:雷普索尔 YPF,Repsol,Spain
+***ERROR:CAE Inc.,CAE Inc.,Canada
+***ERROR:FL史密斯,FLSmidth,Denmark
+***ERROR:普法夫 (公司),Pfaff,Germany
+***ERROR:RCA,RCA,United States of America
+***ERROR:柔佛FM,Johor FM,Malaysia
+***ERROR:AMR公司,AMR Corporation,United States of America
+***ERROR:Ihagee,Ihagee,Germany
+***ERROR:安海斯-布希英博集團,Anheuser-Busch InBev,Belgium
+***ERROR:Vector Informatik,Vector Informatik,Germany
+***ERROR:安海斯-布希英博集團,Anheuser-Busch InBev,Brazil
+***ERROR:LinkedIn,LinkedIn,United States of America
+***ERROR:KSTO,KSTO,United States of America
+***ERROR:Easy FM,Easy FM,People's Republic of China
+***ERROR:KFRY,KFRY,United States of America
+***ERROR:Ampex,Ampex,United States of America
+***ERROR:Freenet AG,Freenet AG,Germany
+***ERROR:AMEC股份有限公司,Amec Foster Wheeler,United Kingdom
+***ERROR:AbeBooks,AbeBooks,Germany
+***ERROR:奈特軍械公司（KAC）,Knight's Armament Company,United States of America
+***ERROR:BMW M公司,BMW M,Germany
+***ERROR:福克-沃尔夫,Focke-Wulf,Germany
+***ERROR:ASML,ASML Holding,Netherlands
+***ERROR:ABBYY,ABBYY,Russia
+***ERROR:Macromedia,Macromedia,United States of America
+***ERROR:K-1,K-1,Japan
+***ERROR:CEZ能源集團,ČEZ Group,Czech Republic
+***ERROR:ČKD,ČKD,Czech Republic
+***ERROR:Abercrombie & Fitch,Abercrombie & Fitch,United States of America
+***ERROR:Scion,Scion,United States of America
+***ERROR:Acclaim娛樂公司,Acclaim Entertainment,United States of America
+***ERROR:莱特－马丁公司,Wright-Martin,United States of America
+***ERROR:E.ON,E.ON SE,Germany
+***ERROR:SK电讯,SK Telecom,South Korea
+***ERROR:AAI公司,AAI Corporation,United States of America
+***ERROR:IG Group,IG Group,United Kingdom
+***ERROR:ASCII Media Works,ASCII Media Works,Japan
+***ERROR:T-Mobile,T-Mobile International,Germany
+***ERROR:PayPal,PayPal,United States of America
+***ERROR:3Com,3Com,United States of America
+***ERROR:KJAL,KJAL,United States of America
+***ERROR:施密特-本德爾,Schmidt & Bender,Germany
+***ERROR:KUFR,KUFR,United States of America
+***ERROR:意大利设计-乔治亚罗公司,Italdesign Giugiaro,Italy
+***ERROR:西門子·舒克特,Siemens-Schuckert,Germany
+***ERROR:ITT公司,ITT Corporation,United States of America
+***ERROR:TIBCO软件公司,Tibco Software,United States of America
+***ERROR:Sew,SEW Eurodrive,Germany
+***ERROR:Mutual影業,Mutual Film,United States of America
+***ERROR:MTU腓德烈斯哈芬有限公司,MTU Friedrichshafen,Germany
+***ERROR:菲律賓長途電話公司（PLDT）,PLDT,Philippines
+***ERROR:AddThis,AddThis,United States of America
+***ERROR:KGU (AM廣播),KGU,United States of America
+***ERROR:Altera,Altera,United States of America
+***ERROR:LSG漢莎天廚,LSG Sky Chefs,Germany
+***ERROR:皇家KPN電信,KPN,Netherlands
+***ERROR:克劳斯-玛菲·威格曼,Q646220,Germany
+***ERROR:Level 3 通信,Level 3 Communications,Germany
+***ERROR:Akamai,Akamai Technologies,United States of America
+***ERROR:Evernote,Evernote,United States of America
+***ERROR:GKN公共有限公司,GKN,Germany
+***ERROR:T-Online,T-Online,Germany
+***ERROR:Level 3 通信,Level 3 Communications,United States of America
+***ERROR:ING,ING Group,Netherlands
+***ERROR:Herpa,Herpa,Germany
+***ERROR:WANG,WANG,United States of America
+***ERROR:All Media Guide,All Media Network,United States of America
+***ERROR:Pilz,Pilz,Germany
+***ERROR:WCIZ-FM,WCIZ-FM,United States of America
+***ERROR:富士通-西門子電腦公司,Fujitsu Siemens Computers,Germany
+***ERROR:塞亞德·哈利洛維奇,Q796359,Germany
+***ERROR:TomTom,TomTom,United States of America
+***ERROR:Am/pm (便利商店),ampm,United States of America
+***ERROR:G DATA Software,G Data,Germany
+***ERROR:Moneybookers,Moneybookers,United Kingdom
+***ERROR:TOKYOPOP,Tokyopop,Germany
+***ERROR:O&K重工業,Orenstein & Koppel,Germany
+***ERROR:PC Tools,PC Tools,Australia
+***ERROR:WALK (AM),WALK,United States of America
+***ERROR:Adtranz,Adtranz,Canada
+***ERROR:愛克發·吉華集團,Agfa-Gevaert,Germany
+***ERROR:NeXT,"NeXT Computer, Inc."
+***ERROR:Corsair,Corsair Components,United States of America
+***ERROR:BRIO,Q669137,Sweden
+***ERROR:奧迪運動ABT車隊,Abt Sportsline,Germany
+***ERROR:BMC軟件公司,BMC Software,United States of America
+***ERROR:Portal de L'Angel,El Corte Inglés,Spain
+***ERROR:Au,Au,Japan
+***ERROR:BrightSource Energy公司,BrightSource Energy,United States of America
+***ERROR:MITRE公司,The MITRE Corporation,United States of America
+***ERROR:Autodesk,Autodesk,United States of America
+***ERROR:Cadence,Cadence Design Systems,United States of America
+***ERROR:BBS (公司),BBS Kraftfahrzeugtechnik,Germany
+***ERROR:万得-土星控股,Media-Saturn-Holding,Germany
+***ERROR:Sysinternals,Sysinternals,United States of America
+***ERROR:NCR公司,NCR Corporation,Germany
+***ERROR:IDEO,IDEO,Germany
+***ERROR:Tuenti,Tuenti,Spain
+***ERROR:BLG物流,Q796223,Germany
+***ERROR:KZMI,KZMI,United States of America
+***ERROR:GoPro,GoPro,United States of America
+***ERROR:NBC環球,NBCUniversal,United States of America
+***ERROR:TCL集团,TCL Corporation,People's Republic of China
+***ERROR:AIS,Advanced Info Service,Thailand
+***ERROR:童夢 (汽車公司),Dome,Japan
+***ERROR:BFG科技,BFG Technologies,United States of America
+***ERROR:K+S,K+S,Germany
+***ERROR:Ashley Madison,Ashley Madison,Canada
+***ERROR:LG U+,LG Uplus,South Korea
+***ERROR:Aerojet,Aerojet,United States of America
+***ERROR:M·M·沃伯格公司,M. M. Warburg & Co.,Germany
+***ERROR:Viscom,Viscom,Germany
+***ERROR:DQS,DQS,Germany
+***ERROR:FasTrak,FasTrak,United States of America
+***ERROR:VeriSign,Verisign,United States of America
+***ERROR:维克斯-阿姆斯特朗公司,Vickers-Armstrongs,United Kingdom
+***ERROR:波道夫·古德曼,Bergdorf Goodman,United States of America
+***ERROR:D&W建築公司,Dyckerhoff & Widmann,Germany
+***ERROR:KRSI,KPXP,United States of America
+***ERROR:AGEIA,Ageia,United States of America
+***ERROR:赫爾曼·戈林國家工廠,Reichswerke Hermann Göring,Germany
+***ERROR:FON,Fon,Spain
+***ERROR:BG集團,BG Group,United Kingdom
+***ERROR:SK海力士,SK Hynix,South Korea
+***ERROR:美国BD公司,Becton Dickinson,United States of America
+***ERROR:马丁·玛丽埃塔,Martin Marietta,United States of America
+***ERROR:Laureate International Universities,Laureate Education,United States of America
+***ERROR:加格瑙 (電器),Gaggenau Hausgeräte,Germany
+***ERROR:西格&紹爾,Sauer & Sohn,Germany
+***ERROR:Related Designs,Related Designs,Germany
+***ERROR:威廉·卡曼公司,Karmann,Germany
+***ERROR:Darden Restaurants,Darden Restaurants,United States of America
+***ERROR:美安 (汽車設備),Autoliv,Sweden
+***ERROR:Infocom,Infocom,United States of America
+***ERROR:BEA Systems,BEA Systems,United States of America
+***ERROR:Libre出版,Libre Publishing,Japan
+***ERROR:Optus電信公司,Optus,Australia
+***ERROR:EMC,Dell EMC,United States of America
+***ERROR:Biogen Idec,Biogen,United States of America
+***ERROR:Fabrique Nationale,FN Herstal,Belgium
+***ERROR:OKI,Oki Electric Industry,Japan
+***ERROR:Future plc,Future plc,United Kingdom
+***ERROR:EA Sports,EA Sports,United States of America
+***ERROR:Ultimate Ears,Ultimate Ears,United States of America
+***ERROR:麦格劳-希尔集团,McGraw Hill Financial,United States of America
+***ERROR:JR,Japan Railways Group,Japan
+***ERROR:Steinberg,Steinberg,Germany
+***ERROR:艾奇遜，托皮卡和聖塔菲鐵路,"Atchison, Topeka and Santa Fe Railway"
+***ERROR:德国莱茵TUV集团,TÜV Rheinland,Germany
+***ERROR:EA Phenomic,EA Phenomic,Germany
+***ERROR:ISS集團,ISS A/S,Denmark
+***ERROR:Nero AG,Nero AG,Germany
+***ERROR:CompuServe,CompuServe,United States of America
+***ERROR:WFTI-FM,WFTI-FM,United States of America
+***ERROR:Craigslist,Craigslist,United States of America
+***ERROR:Emporis地產資料庫,Emporis,Germany
+***ERROR:卡尔·瓦尔特运动枪,Carl Walther GMBH,Germany
+***ERROR:Bang & Olufsen,Bang & Olufsen,Denmark
+***ERROR:克劳斯-玛菲,Krauss-Maffei,Germany
+***ERROR:Hotbar,Zango,United States of America
+***ERROR:SECOM,Secom,United Kingdom
+***ERROR:WATN,WATN,United States of America
+***ERROR:Palm公司,"Palm, Inc."
+***ERROR:CSX運輸,CSX Transportation,United States of America
+***ERROR:Telenor公司,Telenor,Norway
+***ERROR:IAC/InterActiveCorp,IAC/InterActiveCorp,United States of America
+***ERROR:弗里德里希·克虏伯日耳曼尼亚船厂,Friedrich Krupp Germaniawerft,German Empire
+***ERROR:BHEL公司,Bharat Heavy Electricals Limited,India
+***ERROR:TDK,TDK,Japan
+***ERROR:HSBC Trinkaus,HSBC Trinkaus,Germany
+***ERROR:Netto品牌折扣,Netto Marken-Discount,Germany
+***ERROR:Being,Being Inc.,Japan
+***ERROR:Image漫畫,Image Comics,United States of America
+***ERROR:Be公司,Be Inc.,United States of America
+***ERROR:NTT DOCOMO,NTT DoCoMo,Japan
+***ERROR:Telia Company,Telia Company,Sweden
+***ERROR:TUV南德意志集团,TÜV SÜD,Germany
+***ERROR:Nufarm,Nufarm,Australia
+***ERROR:BDO国际,BDO International,Denmark
+***ERROR:Inktomi公司,Inktomi,United States of America
+***ERROR:DONG能源公司,DONG Energy,Denmark
+***ERROR:TRW公司,TRW Inc.,United States of America
+***ERROR:文森特·巴赫公司,Vincent Bach Corporation,United States of America
+***ERROR:ESP (日本企業),ESP Guitars,Japan
+***ERROR:世紀21物業,Century 21 Real Estate,United States of America
+***ERROR:Shake Shack,Shake Shack,United States of America
+***ERROR:COVRA（Centrale Organisatie voor Radio-actief Afval）,COVRA,Netherlands
+***ERROR:WFRS,WFRS,United States of America
+***ERROR:WFRY-FM,WFRY-FM,United States of America
+***ERROR:EMachines,eMachines,United States of America
+***ERROR:里德·愛思唯爾,RELX Group,United Kingdom
+***ERROR:SMC (企業),SMC Corporation,Japan
+***ERROR:Fresh & Easy,Fresh & Easy,United States of America
+***ERROR:YKK株式會社,YKK Group,Japan
+***ERROR:WBZO,WBZO,United States of America
+***ERROR:威廉·B·伊尔德曼斯出版公司,William B. Eerdmans Publishing Company,United States of America
+***ERROR:KDDI,KDDI,Japan
+***ERROR:CERATIZIT集團,Ceratizit,Luxembourg
+***ERROR:DirecTV,DirecTV,United States of America
+***ERROR:NexGen,NexGen,United States of America
+***ERROR:Quacquarelli Symonds,Quacquarelli Symonds,United Kingdom
+***ERROR:Danfoss公司,Danfoss,Denmark
+***ERROR:Nuance Communications,Nuance Communications,United States of America
+***ERROR:Pandora电台,Pandora Radio,United States of America
+***ERROR:Visual Art's,VisualArt's,Japan
+***ERROR:CIT集团,CIT Group,United States of America
+***ERROR:Qt发展框架,Qt Development Frameworks,Norway
+***ERROR:WKJY,WKJY,United States of America
+***ERROR:WDFH,WQXW,United States of America
+***ERROR:Rambus,Rambus,United States of America
+***ERROR:WQBU-FM,WQBU-FM,United States of America
+***ERROR:RealNetworks,RealNetworks,United States of America
+***ERROR:Grezzo,Grezzo,Japan
+***ERROR:BH集團,Beistegui Hermanos,Spain
+***ERROR:GE医疗,GE Healthcare,United Kingdom
+***ERROR:Vivo,Vivo,Brazil
+***ERROR:CIRCUS,Circus,Japan
+***ERROR:GE医疗,GE Healthcare,United States of America
+***ERROR:WDDM,WPDI,United States of America
+***ERROR:WRVJ,WRVJ,United States of America
+***ERROR:FCB,FCB,United States of America
+***ERROR:Deutsche Waggonbau AG、DWA,Q1204480,Germany
+***ERROR:Kel-Tec公司,Kel-Tec,United States of America
+***ERROR:格伦·L·马丁公司,Glenn L. Martin Company,United States of America
+***ERROR:Aldus,Aldus,United States of America
+***ERROR:Orange (電信),Orange,Belgium
+***ERROR:Orange (電信),Orange,France
+***ERROR:Orange (電信),Orange,United Kingdom
+***ERROR:Orange (電信),Orange,Ivory Coast
+***ERROR:Orange (電信),Orange,Armenia
+***ERROR:Orange (電信),Orange,Madagascar
+***ERROR:Orange (電信),Orange,Egypt
+***ERROR:Orange (電信),Orange,Spain
+***ERROR:Orange (電信),Orange,Poland
+***ERROR:Orange (電信),Orange,Moldova
+***ERROR:Orange (電信),Orange,Mali
+***ERROR:Orange (電信),Orange,Romania
+***ERROR:Orange (電信),Orange,Morocco
+***ERROR:Orange (電信),Orange,Senegal
+***ERROR:OQO,OQO,United States of America
+***ERROR:Haglöfs,Haglöfs,Sweden
+***ERROR:Camper and Nicholsons,Camper and Nicholsons,United Kingdom
+***ERROR:White Wolf,White Wolf Publishing,United States of America
+***ERROR:WWK保险集团,WWK,Germany
+***ERROR:Hy-Vee超市,Hy-Vee,United States of America
+***ERROR:Erima,Erima,Germany
+***ERROR:Handspring,Handspring,United States of America
+***ERROR:WPP集团,WPP plc,United Kingdom
+***ERROR:Vivante Corporation,Vivante Corporation,United States of America
+***ERROR:Scribd,Scribd,United States of America
+***ERROR:CETME自動步槍,CETME rifle,Spain
+***ERROR:PocketBook International,PocketBook International,Germany
+***ERROR:WNER,WNER,United States of America
+***ERROR:Yota,Yota,Russia
+***ERROR:Getty Images,Getty Images,United States of America
+***ERROR:PlentyOfFish,PlentyofFish,Canada
+***ERROR:阿克倫-坎頓機場,Akron-Canton Airport,United States of America
+***ERROR:蓮娜·麗姿,Nina Ricci,France
+***ERROR:NTN株式會社,NTN Corporation,Japan
+***ERROR:Synaptics,Synaptics,United States of America
+***ERROR:费利浦·麦克莫兰铜金公司,Freeport-McMoRan,United States of America
+***ERROR:亨德里·佩奇,Handley Page,United Kingdom
+***ERROR:JFE控股,JFE Holdings,Japan
+***ERROR:Wipro,Wipro,India
+***ERROR:PGi,PGi,United States of America
+***ERROR:Miyota,Citizen Holdings,Japan
+***ERROR:G4S,G4S,United Kingdom
+***ERROR:速立達(STRiDA),Strida,United Kingdom
+***ERROR:TOT公共有限公司,TOT,Thailand
+***ERROR:MIPS科技公司,MIPS Technologies,United States of America
+***ERROR:WTNY,WTNY,United States of America
+***ERROR:Luxoflux,Luxoflux,United States of America
+***ERROR:阿萊尼亞·馬基航空,Alenia Aermacchi,Italy
+***ERROR:海因茨·冯海登,Q1349313,Germany
+***ERROR:赫耳墨斯990,Elbit Systems,Israel
+***ERROR:AUTOPOLIS,Autopolis,Japan
+***ERROR:艾利斯-查默斯,Allis-Chalmers,United States of America
+***ERROR:SRAM（速联）,SRAM Corporation,United States of America
+***ERROR:KQFE,KQFE,United States of America
+***ERROR:KZGZ,KZGZ,United States of America
+***ERROR:WEFX,WEFX,United States of America
+***ERROR:Lookout行動安全公司,Lookout Mobile Security,United States of America
+***ERROR:HotBird-8 (衛星),Hot Bird,France
+***ERROR:RIU廣場飯店,RIU Hotels,Spain
+***ERROR:儒格-斯特姆,"Sturm, Ruger & Co."
+***ERROR:Oshkosh企業,Oshkosh Corporation,United States of America
+***ERROR:Interros,Interros,Russia
+***ERROR:JVC建伍,JVC Kenwood,Japan
+***ERROR:威廉·莫里斯奋进,William Morris Endeavor,United States of America
+***ERROR:北極狐 (品牌),Fjällräven,Sweden
+***ERROR:Gathering of Developers,Gathering of Developers,United States of America
+***ERROR:WIGX,WWSK,United States of America
+***ERROR:LeCroy,LeCroy Corporation,United States of America
+***ERROR:WLIM,WLIM,United States of America
+***ERROR:芬克 (公司),Q1417377,Germany
+***ERROR:TOTO,Toto Ltd.,Japan
+***ERROR:NHK廣播第2頻率,NHK Radio 2,Japan
+***ERROR:Mfi股份公司,Unibail-Rodamco Germany GmbH,Germany
+***ERROR:Omnicom集团,Omnicom Group,United States of America
+***ERROR:The MathWorks,MathWorks,United States of America
+***ERROR:IHS公司,IHS Markit,United States of America
+***ERROR:WHPC,WHPC,United States of America
+***ERROR:Oi (電信),Oi,Brazil
+***ERROR:Integrated Device Technology,Integrated Device Technology,United States of America
+***ERROR:普拉特·惠特尼加拿大公司,Pratt & Whitney Canada,Canada
+***ERROR:Valeant製藥國際公司,Valeant Pharmaceuticals,Canada
+***ERROR:NAVTEQ公司,Navteq,United States of America
+***ERROR:Mtel (保加利亞),Mobiltel,Bulgaria
+***ERROR:VTB,VTB,Russia
+***ERROR:Crossfit,CrossFit,Portugal
+***ERROR:Foxtel電視,Foxtel,Australia
+***ERROR:Kudos,Kudos,United Kingdom
+***ERROR:Beautiful Game Studios,Beautiful Game Studios,United Kingdom
+***ERROR:Toradex,Toradex,Switzerland
+***ERROR:RSA資訊安全公司,RSA,United States of America
+***ERROR:Heroku,Heroku,United States of America
+***ERROR:TEA FM,TEA FM,Malaysia
+***ERROR:ICICI銀行,ICICI Bank,India
+***ERROR:Ovation結他公司,Ovation Guitar Company,United States of America
+***ERROR:Coremedia,CoreMedia CMS,Germany
+***ERROR:SugarCRM,SugarCRM,United States of America
+***ERROR:STI 5.0戰術型手槍,STI International,United States of America
+***ERROR:皮克＆克洛彭堡服裝,Peek & Cloppenburg,Germany
+***ERROR:20世紀福斯家庭娛樂公司,20th Century Fox Home Entertainment,United States of America
+***ERROR:View Askew製片公司,View Askew Productions,United States of America
+***ERROR:Röstfein,Röstfein,Germany
+***ERROR:京セラミタ,Kyocera Document Solutions,Spain
+***ERROR:Telkom,Telkom,South Africa
+***ERROR:Azercell,Azercell,Azerbaijan
+***ERROR:BitTorrent,BitTorrent,United States of America
+***ERROR:Berkhof,VDL Berkhof,Netherlands
+***ERROR:PHW集团,PHW-Gruppe,Germany
+***ERROR:Aksys,Aksys Games,United States of America
+***ERROR:ACS集團,Grupo ACS,Spain
+***ERROR:InnoCentive,InnoCentive,United States of America
+***ERROR:CVS藥局,CVS Pharmacy,United States of America
+***ERROR:37signals,37signals,United States of America
+***ERROR:Justin.tv,Justin.tv,United States of America
+***ERROR:IHI,IHI Corporation,Japan
+***ERROR:ENIC集團,ENIC Group,United Kingdom
+***ERROR:ABC娛樂公司,ABC Entertainment,United States of America
+***ERROR:都城-維克斯,Metropolitan-Vickers,United Kingdom
+***ERROR:AECOM,AECOM,Germany
+***ERROR:艾維士·巴吉集團,Avis Budget Group,United States of America
+***ERROR:首尔地铁9号线运营株式会社,Seoul Line9 Operation,South Korea
+***ERROR:Cellcom,Cellcom,Israel
+***ERROR:Cloudera,Cloudera,United States of America
+***ERROR:Cat Daddy Games,Cat Daddy Games,United States of America
+***ERROR:ASM太平洋,ASM International,Netherlands
+***ERROR:EDF能源公司,EDF Energy,United Kingdom
+***ERROR:贝德福德/圣马丁出版社,Bedford-St. Martin's,United States of America
+***ERROR:生命科技 (熱爾科技),Life Technologies,United States of America
+***ERROR:Chick-fil-A,Chick-fil-A,United States of America
+***ERROR:北極星工業(Polaris Industries),Polaris Industries,United States of America
+***ERROR:魏森堡-贡岑豪森县,Weißenburg-Gunzenhausen,Germany
+***ERROR:TUIfly,TUIfly,Germany
+***ERROR:A&W,A&W,Canada
+***ERROR:史提芬·高斯,Signal Iduna,Germany
+***ERROR:西格&紹爾,SIG Sauer,Germany
+***ERROR:Apogee Software,Apogee Software,United States of America
+***ERROR:MHS航空,MHS Aviation,Germany
+***ERROR:Arista Networks,Arista Networks,United States of America
+***ERROR:西格&紹爾,SIG Sauer,United States of America
+***ERROR:Megabox電影中心,Megabox,South Korea
+***ERROR:E Ink公司,E Ink Corporation,United States of America
+***ERROR:Shaba Games,Shaba Games,United States of America
+***ERROR:艾施河畔诺伊施塔特-巴特文茨海姆县,Neustadt (Aisch)-Bad Windsheim,Germany
+***ERROR:大毒蛇（Bushmaster）,Bushmaster Firearms International,United States of America
+***ERROR:J.D. Edwards,JD Edwards,United States of America
+***ERROR:5pb.,5pb.,Japan
+***ERROR:EURotem,EUROTEM,Turkey
+***ERROR:查爾斯·斯塔克·德雷珀實驗室,Charles Stark Draper Laboratory,United States of America
+***ERROR:Vodacom,Vodacom,South Africa
+***ERROR:Gumstix單板電腦,Gumstix,United States of America
+***ERROR:Rockstar Lincoln,Rockstar Lincoln,United Kingdom
+***ERROR:围棋·将棋频道,Igo & Shogi Channel,Japan
+***ERROR:上施普利瓦尔德-劳西茨县,Oberspreewald-Lausitz,Germany
+***ERROR:波茨坦-米特尔马克县,Potsdam-Mittelmark,Germany
+***ERROR:石勒苏益格-弗伦斯堡县,Schleswig-Flensburg,Germany
+***ERROR:埃尔朗根-赫希施塔特县,Erlangen-Höchstadt,Germany
+***ERROR:荣-格拉伯菲尔德县,Rhön-Grabfeld,Germany
+***ERROR:格罗斯-格劳县,Groß-Gerau,Germany
+***ERROR:CBS電視製作公司,CBS Television Studios,United States of America
+***ERROR:梅基施-奥得兰县,Märkisch-Oderland,Germany
+***ERROR:萨尔茨韦德尔-阿尔特马克县,Altmarkkreis Salzwedel,Germany
+***ERROR:达梅-施普利瓦尔德县,Dahme-Spreewald,Germany
+***ERROR:弗赖永-格拉费瑙县,Freyung-Grafenau,Germany
+***ERROR:IQT電信,In-Q-Tel,United States of America
+***ERROR:安哈特-比特费尔德县,Anhalt-Bitterfeld,Germany
+***ERROR:曼斯费尔德-南哈尔茨县,Mansfeld-Südharz,Germany
+***ERROR:特尔托-弗莱明县,Teltow-Fläming,Germany
+***ERROR:143唱片,143 Records,United States of America
+***ERROR:施特劳宾-博根县,Straubing-Bogen,Germany
+***ERROR:美因-斯佩萨特县,Main-Spessart,Germany
+***ERROR:罗塔尔-因县,Rottal-Inn,Germany
+***ERROR:拉特帕克-沙丘娛樂,RatPac-Dune Entertainment,United States of America
+***ERROR:Cushman 公司,Cushman,United States of America
+***ERROR:东普利希尼茨-鲁平县,Ostprignitz-Ruppin,Germany
+***ERROR:伦茨堡-埃肯弗德县,Rendsburg-Eckernförde,Germany
+***ERROR:奥得-施普利县,Oder-Spree,Germany
+***ERROR:易北-埃尔斯特县,Elbe-Elster,Germany
+***ERROR:歡樂時光 (製造商),Funtime,Denmark
+***ERROR:MacPlay,MacPlay,United States of America
+***ERROR:丁戈尔芬-兰道县,Dingolfing-Landau,Germany
+***ERROR:施瓦尔茨瓦尔德-巴尔县,Schwarzwald-Baar,Germany
+***ERROR:施普利-奈瑟县,Spree-Neiße,Germany
+***ERROR:聖狄奧多‧格倫姆姆,Vorpommern-Rügen District,Germany
+***ERROR:Verily,Verily Life Sciences,United States of America
+***ERROR:Jamba Juice,Jamba Juice,United States of America
+***ERROR:加尔米施-帕滕基兴县,Garmisch-Partenkirchen,Germany
+***ERROR:山地-多瑙县,Alb-Donau,Germany
+***ERROR:恩内珀-鲁尔县,Ennepe-Ruhr-Kreis,Germany
+***ERROR:索尔陶-法林博斯特尔县,Heidekreis,Germany
+***ERROR:莱茵-锡格县,Rhein-Sieg District,Germany
+***ERROR:COVA,Caffè Cova,Italy
+***ERROR:礦山縣 (德國),Erzgebirgskreis,Germany
+***ERROR:美因-金齐希县,Main-Kinzig-Kreis,Germany
+***ERROR:勒鲍-齐陶县,Löbau-Zittau,Germany
+***ERROR:卡爾·古斯塔夫城市步槍兵工廠,Bofors Carl Gustaf,Sweden
+***ERROR:莱茵-内卡尔县,Rhein-Neckar,Germany
+***ERROR:吕肖-丹嫩贝格县,Lüchow-Dannenberg,Germany
+***ERROR:美因-陶伯县,Main-Tauber,Germany
+***ERROR:莱茵-普法尔茨县,Rhein-Pfalz-Kreis,Germany
+***ERROR:达姆施塔特-迪堡县,Darmstadt-Dieburg,Germany
+***ERROR:托尔高-奥沙茨县,Torgau-Oschatz,Germany
+***ERROR:里萨-格罗森海因县,Riesa-Großenhain,Germany
+***ERROR:内卡尔-奥登瓦尔德县,Neckar-Odenwald,Germany
+***ERROR:翁斯特鲁特-海尼希县,Unstrut-Hainich-Kreis,Germany
+***ERROR:莱茵-贝吉施县,Rhein-Berg District,Germany
+***ERROR:巴特特尔茨-沃尔夫拉茨豪森县,Bad Tölz-Wolfratshausen,Germany
+***ERROR:诺伊堡-施鲁本豪森县,Neuburg-Schrobenhausen,Germany
+***ERROR:魏尔海姆-雄高县,Weilheim-Schongau,Germany
+***ERROR:哈默尔恩-皮尔蒙特县,Hamelin-Pyrmont,Germany
+***ERROR:明登-吕贝克县,Minden-Lübbecke District,Germany
+***ERROR:莱茵-埃尔夫特县,Rhein-Erft District,Germany
+***ERROR:Advantest,Advantest,Japan
+***ERROR:約翰·英格利斯有限公司,John Inglis and Company,Canada
+***ERROR:CCI彈藥,CCI,United States of America
+***ERROR:瓦尔德克-弗兰肯贝格县,Waldeck-Frankenberg,Germany
+***ERROR:安哈爾特-策爾普斯特,Anhalt-Zerbst,Germany
+***ERROR:哈利法克斯 (英國銀行),Halifax,United Kingdom
+***ERROR:奥特维耶－隆内斯,Hauteville-Lompnes,France
+***ERROR:伯恩卡斯特尔-维特利希县,Bernkastel-Wittlich,Germany
+***ERROR:阿尔蔡-沃尔姆斯县,Alzey-Worms,Germany
+***ERROR:奥厄-施瓦岑贝格县,Aue-Schwarzenberg,Germany
+***ERROR:特里尔-萨尔堡县,Trier-Saarburg,Germany
+***ERROR:莱茵-洪斯吕克县,Rhein-Hunsrück-Kreis,Germany
+***ERROR:萨勒-奥尔拉县,Saale-Orla-Kreis,Germany
+***ERROR:萨尔费尔德-鲁多尔施塔特县,Saalfeld-Rudolstadt,Germany
+***ERROR:韦拉-迈斯讷县,Werra-Meißner-Kreis,Germany
+***ERROR:梅尔齐希-瓦登县,Merzig-Wadern,Germany
+***ERROR:CGG,CGGVeritas,France
+***ERROR:多瑙-里斯县,Donau-Ries,Germany
+***ERROR:莱茵-拉恩县,Rhein-Lahn-Kreis,Germany
+***ERROR:莱茵高-陶努斯县,Rheingau-Taunus-Kreis,Germany
+***ERROR:萨勒-霍尔茨兰县,Saale-Holzland-Kreis,Germany
+***ERROR:赫斯费尔德-罗滕堡县,Hersfeld-Rotenburg,Germany
+***ERROR:迈恩-科布伦茨县,Mayen-Koblenz,Germany
+***ERROR:梅克伦堡-施特雷利茨县,Mecklenburg-Strelitz,Germany
+***ERROR:施马卡尔登-迈宁根县,Schmalkalden-Meiningen,Germany
+***ERROR:林堡-魏尔堡县,Limburg-Weilburg,Germany
+***ERROR:美因-陶努斯县,Main-Taunus-Kreis,Germany
+***ERROR:美因茨-宾根县,Mainz-Bingen,Germany
+***ERROR:马尔堡-比登科普夫县,Marburg-Biedenkopf,Germany
+***ERROR:科赫姆-采尔县,Cochem-Zell,Germany
+***ERROR:Edel公司,Edel Records,Germany
+***ERROR:于克-兰多县,Uecker-Randow,Germany
+***ERROR:Mobilink,Mobilink,Pakistan
+***ERROR:莫特·麥當勞,Mott MacDonald,United Kingdom
+***ERROR:锡根-维特根施泰因县,Siegen-Wittgenstein,Germany
+***ERROR:CBC新聞,CBC News,Canada
+***ERROR:阿尔卑-都埃,Alpe d'Huez,France
+***ERROR:安贝格-苏尔茨巴赫县,Amberg-Sulzbach,Germany
+***ERROR:拉恩-迪尔县,Lahn-Dill-Kreis,Germany
+***ERROR:施瓦尔姆-埃德尔县,Schwalm-Eder-Kreis,Germany
+***ERROR:比特堡-普吕姆埃菲尔县,Eifelkreis Bitburg-Prüm,Germany
+***ERROR:艾夏赫-费里德贝格县,Aichach-Friedberg,Germany
+***ERROR:雷姆斯-穆尔县,Rems-Murr,Germany
+***ERROR:阿尔维厄 (上阿尔卑斯省),Arvieux,France
+***ERROR:Event影院,Event Cinemas,Australia
+***ERROR:吉拉·薩哥雷多,Höxter District,Germany
+***ERROR:罗森塔尔-比拉塔尔,Rosenthal-Bielatal,Germany
+***ERROR:迪拉-策伦,Diera-Zehren,Germany
+***ERROR:拉绍-马尔克尔斯巴赫,Raschau-Markersbach,Germany
+***ERROR:格林海恩-拜埃尔费尔德,Grünhain-Beierfeld,Germany
+***ERROR:Hybride Technologies,Hybride Technologies,Canada
+***ERROR:Rona,Rona,Canada
+***ERROR:亨利·霍爾特出版公司,Henry Holt and Company,United States of America
+***ERROR:MacSoft,MacSoft Games,United States of America
+***ERROR:RedOctane,RedOctane,United States of America
+***ERROR:In-N-Out漢堡,In-N-Out Burger,United States of America
+***ERROR:Luxo L1台灯,Luxo,Norway
+***ERROR:亨利·普爾,Henry Poole & Co,United Kingdom
+***ERROR:大行(DAHON),Dahon,United States of America
+***ERROR:Bitstamp,Bitstamp,Luxembourg
+***ERROR:克萊恩-蒙塔納,Crans-Montana,Switzerland
+***ERROR:阿纳贝尔格-布霍尔茨,Annaberg-Buchholz,Germany
+***ERROR:TOWER RECORDS,Tower Records,United States of America
+***ERROR:Woolworths超級市場,Woolworths Supermarkets,Australia
+***ERROR:科伦-萨利斯,Kohren-Sahlis,Germany
+***ERROR:雷吉斯-布赖廷根,Regis-Breitingen,Germany
+***ERROR:埃夫林根-基尔兴,Efringen-Kirchen,Germany
+***ERROR:Clearview院線公司,Bow Tie Cinemas,United States of America
+***ERROR:Solyndra,Solyndra,United States of America
+***ERROR:Phar Lap (公司),Phar Lap,United States of America
+***ERROR:IGA 超級市場,IGA,United States of America
+***ERROR:比蒂格海姆-比辛根,Bietigheim-Bissingen,Germany
+***ERROR:赖因哈尔茨多夫-舍纳,Reinhardtsdorf-Schöna,Germany
+***ERROR:坎普-林特福尔特,Kamp-Lintfort,Germany
+***ERROR:赫赫尔-格伦茨豪森,Höhr-Grenzhausen,Germany
+***ERROR:KSS公司,KSS,Japan
+***ERROR:瓦尔德菲斯希巴-布尔加尔本,Waldfischbach-Burgalben,Germany
+***ERROR:Sun Media集團,Sun Media Corporation,Canada
+***ERROR:内尔滕-哈登贝格,Nörten-Hardenberg,Germany
+***ERROR:拉姆斯泰因-米森巴,Ramstein-Miesenbach,Germany
+***ERROR:林巴-奥贝尔夫罗纳,Limbach-Oberfrohna,Germany
+***ERROR:大沙克斯多夫-西默斯多夫,Groß Schacksdorf-Simmersdorf,Germany
+***ERROR:格拉本-诺伊多尔夫,Graben-Neudorf,Germany
+***ERROR:伊达尔-奥伯施泰因,Idar-Oberstein,Germany
+***ERROR:达尔贝尔格-文德尔斯托尔夫,Dalberg-Wendelstorf,Germany
+***ERROR:Stern (遊戲公司),Stern,United States of America
+***ERROR:塞繆爾·戈爾德溫工作室,Samuel Goldwyn Studio,United States of America
+***ERROR:施特拉斯拉-丁格哈尔廷格,Straßlach-Dingharting,Germany
+***ERROR:奥埃尔-埃尔肯施维克,Oer-Erkenschwick,Germany
+***ERROR:伯赫尔-伊格尔海姆,Böhl-Iggelheim,Germany
+***ERROR:里斯希魏莱尔-米赫尔巴赫,Rieschweiler-Mühlbach,Germany
+***ERROR:维尔考-哈斯劳,Wilkau-Haßlau,Germany
+***ERROR:霍普斯特滕-魏埃尔斯巴赫,Hoppstädten-Weiersbach,Germany
+***ERROR:霍亨斯泰因-埃尔恩斯塔尔,Hohenstein-Ernstthal,Germany
+***ERROR:格拉博-贝洛,Grabow-Below,Germany
+***ERROR:舍內克 (薩克森自由州),"Schöneck, Saxony"
+***ERROR:菲林根-施文宁根,Villingen-Schwenningen,Germany
+***ERROR:格赫伦-莱宾,Göhren-Lebbin,Germany
+***ERROR:埃丁根-内卡劳森,Edingen-Neckarhausen,Germany
+***ERROR:雷兴贝尔格-比嫩米赫莱,Rechenberg-Bienenmühle,Germany
+***ERROR:ABC國際家庭頻道,ABC Family Worldwide Inc.,United States of America
+***ERROR:席德尔-施瓦伦贝格,Schieder-Schwalenberg,Germany
+***ERROR:卡斯特罗普-劳克塞尔,Castrop-Rauxel,Germany
+***ERROR:克尼格斯海恩-维德劳,Königshain-Wiederau,Germany
+***ERROR:苏尔茨巴赫-劳芬,Sulzbach-Laufen,Germany
+***ERROR:茨夏伊茨-奥特维希,Zschaitz-Ottewig,Germany
+***ERROR:布兰德-埃尔比斯多夫,Brand-Erbisdorf,Germany
+***ERROR:埃尔歇斯海姆-伊林根,Elchesheim-Illingen,Germany
+***ERROR:巴德里波尔曹-沙普巴赫,Bad Rippoldsau-Schapbach,Germany
+***ERROR:弗卢奥尔恩-温策尔恩,Fluorn-Winzeln,Germany
+***ERROR:厄尔布龙-迪尔恩,Ölbronn-Dürrn,Germany
+***ERROR:克尼格斯巴-斯泰因,Königsbach-Stein,Germany
+***ERROR:黑尔德万根-舍纳,Herdwangen-Schönach,Germany
+***ERROR:特门-林根瓦尔德,Temmen-Ringenwalde,Germany
+***ERROR:甘迺迪/馬歇爾製片公司,The Kennedy/Marshall Company,United States of America
+***ERROR:telcel,Telcel,Mexico
+***ERROR:蒂蒂湖-新城,Titisee-Neustadt,Germany
+***ERROR:巴登-巴登,Baden-Baden,Germany
+***ERROR:诺伊-艾兴贝尔格,Neu-Eichenberg,Germany
+***ERROR:圣莱翁-罗特,Sankt Leon-Rot,Germany
+***ERROR:策拉-梅利斯,Zella-Mehlis,Germany
+***ERROR:莫尔斯多夫-泰希沃尔夫拉姆斯多夫,Mohlsdorf-Teichwolframsdorf,Germany
+***ERROR:诺伊-伊森堡,Neu-Isenburg,Germany
+***ERROR:莱因费尔登-埃希特尔丁根,Leinfelden-Echterdingen,Germany
+***ERROR:贝尔恩卡斯特尔-库埃斯,Bernkastel-Kues,Germany
+***ERROR:德米茨-图米茨,Demitz-Thumitz,Germany
+***ERROR:巴尔-埃本豪森,Baar-Ebenhausen,Germany
+***ERROR:多贝尔绍-高西希,Doberschau-Gaußig,Germany
+***ERROR:Roxy,Roxy,United States of America
+***ERROR:Wikispaces,Wikispaces,Canada
+***ERROR:拉尔比茨-罗森塔尔,Ralbitz-Rosenthal,Germany
+***ERROR:潘施维茨-库考,Panschwitz-Kuckau,Germany
+***ERROR:巴爾特 (德國),Barth,Germany
+***ERROR:奥滕多夫-奥克里拉,Ottendorf-Okrilla,Germany
+***ERROR:施默尔恩-普茨考,Schmölln-Putzkau,Germany
+***ERROR:默尔费尔登-瓦尔多尔夫,Mörfelden-Walldorf,Germany
+***ERROR:策尔廷根-拉蒂希,Zeltingen-Rachtig,Germany
+***ERROR:诺伊马尔克特-圣法伊特,Neumarkt-Sankt Veit,Germany
+***ERROR:埃贝尔斯巴-诺伊格尔斯多夫,Ebersbach-Neugersdorf,Germany
+***ERROR:迪克胡森-法尔斯特,Diekhusen-Fahrstedt,Germany
+***ERROR:策尔尼茨-洛姆,Zernitz-Lohm,Germany
+***ERROR:诺伊基尔兴-夫卢因,Neukirchen-Vluyn,Germany
+***ERROR:贝德布尔格-豪,Bedburg-Hau,Germany
+***ERROR:诺伊萨尔察-斯普伦贝尔格,Neusalza-Spremberg,Germany
+***ERROR:Vizio,Vizio,United States of America
+***ERROR:劳芬 (德国),"Laufen, Germany"
+***ERROR:奥马-魏达塔尔,Auma-Weidatal,Germany
+***ERROR:霍尔恩-巴德迈因贝尔格,Horn-Bad Meinberg,Germany
+***ERROR:罗塔-埃格尔恩,Rottach-Egern,Germany
+***ERROR:纳罗特-维布林格韦尔德,Nachrodt-Wiblingwerde,Germany
+***ERROR:沃库尔-达贝洛,Wokuhl-Dabelow,Germany
+***ERROR:迪尔勒赫尔斯多夫-迪特尔斯巴赫,Dürrröhrsdorf-Dittersbach,Germany
+***ERROR:巴德戈特洛伊巴-贝尔吉斯许贝尔,Bad Gottleuba-Berggießhübel,Germany
+***ERROR:哈尔特曼斯多夫-赖歇瑙,Hartmannsdorf-Reichenau,Germany
+***ERROR:阿赫 (莱茵兰-普法尔茨州),"Aach, Rhineland-Palatinate"
+***ERROR:布罗尔-吕钦格,Brohl-Lützing,Germany
+***ERROR:韦宁格斯特-布拉德鲁普,Wenningstedt-Braderup,Germany
+***ERROR:奥贝恩海姆-基尔歇纳恩巴赫,Obernheim-Kirchenarnbach,Germany
+***ERROR:圣佩特尔-奥尔丁格,Sankt Peter-Ording,Germany
+***ERROR:埃利萨贝特-索芬-科格,Elisabeth-Sophien-Koog,Germany
+***ERROR:BSI集團,BSI Group,United Kingdom
+***ERROR:登肯多夫 (巴伐利亞),"Denkendorf, Bavaria"
+***ERROR:雷达-维登布吕克,Rheda-Wiedenbrück,Germany
+***ERROR:格罗斯奥芬塞特-阿斯佩尔恩,Groß Offenseth-Aspern,Germany
+***ERROR:马莱尔斯多尔夫-普法芬贝尔格,Mallersdorf-Pfaffenberg,Germany
+***ERROR:比特尔费尔德-沃尔芬,Bitterfeld-Wolfen,Germany
+***ERROR:科尔恩塔尔-明欣根,Korntal-Münchingen,Germany
+***ERROR:環宇太空XCOR Aerospace,XCOR Aerospace,United States of America
+***ERROR:Ore-Ida,Ore-Ida,United States of America
+***ERROR:兰根洛伊巴-尼德赖因,Langenleuba-Niederhain,Germany
+***ERROR:劳达-克尼格斯霍芬,Lauda-Königshofen,Germany
+***ERROR:苏尔茨巴赫-罗森贝格附近新基兴,Neukirchen bei Sulzbach-Rosenberg,Germany
+***ERROR:里苏姆-林德霍尔姆,Risum-Lindholm,Germany
+***ERROR:博德曼-卢德维格斯哈芬,Bodman-Ludwigshafen,Germany
+***ERROR:阿莱费尔德-比斯滕塞,Ahlefeld-Bistensee,Germany
+***ERROR:霍莱尔恩-特维伦夫莱特,Hollern-Twielenfleth,Germany
+***ERROR:乌尔丁根-米赫尔霍芬,Uhldingen-Mühlhofen,Germany
+***ERROR:魏斯巴赫 (巴登-符腾堡州),Weißbach,Germany
+***ERROR:格伦察-维伦,Grenzach-Wyhlen,Germany
+***ERROR:阿伦斯哈根-达斯科,Ahrenshagen-Daskow,Germany
+***ERROR:布鲁豪森-菲尔森,Bruchhausen-Vilsen,Germany
+***ERROR:奥伊-米特尔贝尔格,Oy-Mittelberg,Germany
+***ERROR:里拉辛根-沃尔布林根,Rielasingen-Worblingen,Germany
+***ERROR:米赫尔豪森-埃欣根,Mühlhausen-Ehingen,Germany
+***ERROR:措伊伦罗达-特里贝斯,Zeulenroda-Triebes,Germany
+***ERROR:乌普甘特-绍特,Upgant-Schott,Germany
+***ERROR:尼费尔恩-厄舍尔布龙,Niefern-Öschelbronn,Germany
+***ERROR:巴德佩特尔斯塔尔-格里斯巴赫,Bad Peterstal-Griesbach,Germany
+***ERROR:奥尔辛根-嫩钦根,Orsingen-Nenzingen,Germany
+***ERROR:马尔斯布尔格-马尔策尔,Malsburg-Marzell,Germany
+***ERROR:黑格-埃尔斯贝尔格,Häg-Ehrsberg,Germany
+***ERROR:古滕策尔-许尔贝尔,Gutenzell-Hürbel,Germany
+***ERROR:卡佩尔-格拉芬豪森,Kappel-Grafenhausen,Germany
+***ERROR:阿尔特曹黑-武斯韦尔克,Alt Zauche-Wußwerk,Germany
+***ERROR:舍瑙-贝尔茨多夫,Schönau-Berzdorf,Germany
+***ERROR:博布里茨希-希尔贝尔斯多夫,Bobritzsch-Hilbersdorf,Germany
+***ERROR:卡特伦布尔格-林道,Katlenburg-Lindau,Germany
+***ERROR:席尔吉斯瓦尔德-基尔绍,Schirgiswalde-Kirschau,Germany
+***ERROR:德尔夫莱斯-埃斯巴赫,Dörfles-Esbach,Germany
+***ERROR:巴德泰纳-察费尔斯泰因,Bad Teinach-Zavelstein,Germany
+***ERROR:卢黑-维尔德瑙,Luhe-Wildenau,Germany
+***ERROR:洛黑-弗赫尔登,Lohe-Föhrden,Germany
+***ERROR:塔本-罗特,Taben-Rodt,Germany
+***ERROR:弗利特-斯特格利茨,Flieth-Stegelitz,Germany
+***ERROR:黑尔姆斯塔特-巴尔根,Helmstadt-Bargen,Germany
+***ERROR:加爾米施-帕滕基興,Garmisch-Partenkirchen,Germany
+***ERROR:羅森菲爾德 (德國),Rosenfeld,Germany
+***ERROR:塞翁-塞布鲁克,Seeon-Seebruck,Germany
+***ERROR:克雷巴-诺伊多夫,Kreba-Neudorf,Germany
+***ERROR:贝尔茨多夫-赫尔尼茨,Bertsdorf-Hörnitz,Germany
+***ERROR:察纳-埃尔斯特尔,Zahna-Elster,Germany
+***ERROR:马克斯许特-海德霍夫,Maxhütte-Haidhof,Germany
+***ERROR:莱内费尔德-沃尔比斯,Leinefelde-Worbis,Germany
+***ERROR:施陶达-埃格尔恩达,Staudach-Egerndach,Germany
+***ERROR:索嫩贝尔格-维嫩贝尔格,Sonnenberg-Winnenberg,Germany
+***ERROR:克倫 (巴伐利亞),Krün,Germany
+***ERROR:诺因基尔兴-塞尔沙伊德,Neunkirchen-Seelscheid,Germany
+***ERROR:圣奥斯瓦尔德-里德尔许特,Sankt Oswald-Riedlhütte,Germany
+***ERROR:萨尔布尔格-埃贝尔斯多夫,Saalburg-Ebersdorf,Germany
+***ERROR:巴德科尔贝尔格-黑尔德堡,Bad Colberg-Heldburg,Germany
+***ERROR:内塞-阿普费尔斯特,Nesse-Apfelstädt,Germany
+***ERROR:Lab126,Amazon Lab126,United States of America
+***ERROR:MontaVista,MontaVista,United States of America
+***ERROR:耶廷根-舍帕,Jettingen-Scheppach,Germany
+***ERROR:乌布斯塔特-魏黑尔,Ubstadt-Weiher,Germany
+***ERROR:埃贝尔斯巴赫-穆斯巴赫,Ebersbach-Musbach,Germany
+***ERROR:巴尔雷希滕-多廷根,Ballrechten-Dottingen,Germany
+***ERROR:克莱因奥芬塞特-斯帕里斯霍普,Klein Offenseth-Sparrieshoop,Germany
+***ERROR:凯塞尔-维尔黑尔姆-科格,Kaiser-Wilhelm-Koog,Germany
+***ERROR:于赫林根-比尔肯多尔夫,Ühlingen-Birkendorf,Germany
+***ERROR:卡斯巴-奥伦贝尔格,Kasbach-Ohlenberg,Germany
+***ERROR:埃根斯泰因-莱奥波尔茨哈芬,Eggenstein-Leopoldshafen,Germany
+***ERROR:Andrew Christian,Andrew Christian,United States of America
+***ERROR:多贝尔卢格-基尔夏因,Doberlug-Kirchhain,Germany
+***ERROR:阿德曼斯哈根-巴尔格斯哈根,Admannshagen-Bargeshagen,Germany
+***ERROR:恩肯巴-阿尔森博尔恩,Enkenbach-Alsenborn,Germany
+***ERROR:多宾-林斯托,Dobbin-Linstow,Germany
+***ERROR:黑克尔贝尔格-布鲁诺,Heckelberg-Brunow,Germany
+***ERROR:哈尔特-珀尔尼茨,Harth-Pöllnitz,Germany
+***ERROR:黑尔策布罗克-克拉罗尔茨,Herzebrock-Clarholz,Germany
+***ERROR:于巴-帕伦贝尔格,Übach-Palenberg,Germany
+***ERROR:巴德诺伊埃纳尔-阿尔魏莱尔,Bad Neuenahr-Ahrweiler,Germany
+***ERROR:恩格-桑德,Enge-Sande,Germany
+***ERROR:格罗斯-比贝劳,Groß-Bieberau,Germany
+***ERROR:克萊納·柏金斯·考菲爾德及拜爾斯,Kleiner Perkins Caufield & Byers,United States of America
+***ERROR:埃明根-利普廷根,Emmingen-Liptingen,Germany
+***ERROR:坦巴赫-迪塔尔茨,Tambach-Dietharz,Germany
+***ERROR:希尔格尔茨豪森-坦德尔恩,Hilgertshausen-Tandern,Germany
+***ERROR:巴德索登-萨尔明斯特尔,Bad Soden-Salmünster,Germany
+***ERROR:施洛斯霍尔特-斯图肯布罗克,Schloß Holte-Stukenbrock,Germany
+***ERROR:诺伊恩多尔夫-萨森班德,Neuendorf-Sachsenbande,Germany
+***ERROR:米森-维尔哈姆斯,Missen-Wilhams,Germany
+***ERROR:诺伊基尔兴-巴尔比尼,Neukirchen-Balbini,Germany
+***ERROR:GTH影業,GMM Tai Hub,Thailand
+***ERROR:Green Hills軟體,Green Hills Software,United States of America
+***ERROR:利佩尔斯多夫-埃尔德曼斯多夫,Lippersdorf-Erdmannsdorf,Germany
+***ERROR:卡伦博尔恩-绍伊埃尔恩,Kalenborn-Scheuern,Germany
+***ERROR:埃尔贝-帕赖,Elbe-Parey,Germany
+***ERROR:埃迪格尔-埃莱尔,Ediger-Eller,Germany
+***ERROR:金特尔斯莱本-韦希马尔,Günthersleben-Wechmar,Germany
+***ERROR:Dübs廠,Dübs and Company,United Kingdom
+***ERROR:赫亨基尔兴-西格尔茨布伦,Höhenkirchen-Siegertsbrunn,Germany
+***ERROR:诺伊-班贝尔格,Neu-Bamberg,Germany
+***ERROR:沃尔夫拉姆斯-埃申巴,Wolframs-Eschenbach,Germany
+***ERROR:福斯特 (巴登),Forst,Germany
+***ERROR:德赖斯-布吕克,Dreis-Brück,Germany
+***ERROR:登魏莱尔-弗罗恩巴赫,Dennweiler-Frohnbach,Germany
+***ERROR:黑伦-苏尔茨巴赫,Herren-Sulzbach,Germany
+***ERROR:费尔德基尔兴-韦斯特拉姆,Feldkirchen-Westerham,Germany
+***ERROR:布鲁魏莱尔-贝伦巴赫,Bruchweiler-Bärenbach,Germany
+***ERROR:马森-尼德尔劳西茨,Massen-Niederlausitz,Germany
+***ERROR:埃尔贝斯-比德斯海姆,Erbes-Büdesheim,Germany
+***ERROR:巴尔格费尔德-斯特根,Bargfeld-Stegen,Germany
+***ERROR:雷姆达-泰歇尔,Remda-Teichel,Germany
+***ERROR:法尔高-普拉特尧,Fargau-Pratjau,Germany
+***ERROR:萨尔多尔夫-苏赖姆,Saaldorf-Surheim,Germany
+***ERROR:曼魏莱尔-策尔恩,Mannweiler-Cölln,Germany
+***ERROR:克赖因巴赫-考尔巴赫,Kreimbach-Kaulbach,Germany
+***ERROR:黑尔斯希魏莱尔-佩特尔斯海姆,Herschweiler-Pettersheim,Germany
+***ERROR:卡斯特尔-斯塔特,Kastel-Staadt,Germany
+***ERROR:霍多尔夫-阿森海姆,Hochdorf-Assenheim,Germany
+***ERROR:欣策尔特-珀莱尔特,Hinzert-Pölert,Germany
+***ERROR:瓦尔德霍夫-法尔肯斯泰因,Waldhof-Falkenstein,Germany
+***ERROR:内姆斯多夫-格赫伦多夫,Nemsdorf-Göhrendorf,Germany
+***ERROR:卢诺夫-斯托尔岑哈根,Lunow-Stolzenhagen,Germany
+***ERROR:塞特-埃克霍尔特,Seeth-Ekholt,Germany
+***ERROR:施特莱-维滕武尔特,Stelle-Wittenwurth,Germany
+***ERROR:多姆-拉梅尔斯多尔夫,Dohm-Lammersdorf,Germany
+***ERROR:克尔恩-赖西克,Kölln-Reisiek,Germany
+***ERROR:希尔茨-毛尔斯巴赫,Hirz-Maulsbach,Germany
+***ERROR:韦尔恩贝尔格-克布利茨,Wernberg-Köblitz,Germany
+***ERROR:迪特尔斯海姆-黑斯洛,Dittelsheim-Heßloch,Germany
+***ERROR:阿斯巴赫-博伊门海姆,Asbach-Bäumenheim,Germany
+***ERROR:博本海姆-罗克斯海姆,Bobenheim-Roxheim,Germany
+***ERROR:拉-贝森贝克,Raa-Besenbek,Germany
+***ERROR:Albertson's連鎖超級市場,Albertsons,United States of America
+***ERROR:比尔肯-霍尼格塞森,Birken-Honigsessen,Germany
+***ERROR:卡佩伦-德鲁斯魏莱尔,Kapellen-Drusweiler,Germany
+***ERROR:科特魏莱尔-斯希万登,Kottweiler-Schwanden,Germany
+***ERROR:弗赫尔登-巴尔,Föhrden-Barl,Germany
+***ERROR:伯斯莱本-维莱尔斯莱本,Bösleben-Wüllersleben,Germany
+***ERROR:奥斯陶森-维尔费尔斯豪森,Osthausen-Wülfershausen,Germany
+***ERROR:乌尔斯特-基尔夏塞尔,Uhlstädt-Kirchhasel,Germany
+***ERROR:施泰因(中弗蘭肯),Stein,Germany
+***ERROR:24小時健身,24 Hour Fitness,United States of America
+***ERROR:亨施泰特-乌尔茨堡,Henstedt-Ulzburg,Germany
+***ERROR:博登罗德-韦斯陶森,Bodenrode-Westhausen,Germany
+***ERROR:滕斯比特尔-勒斯特,Tensbüttel-Röst,Germany
+***ERROR:雷林根-西尔斯堡,Rehlingen-Siersburg,Germany
+***ERROR:3D Systems軟體公司,3D Systems,United States of America
+***ERROR:Kiloo,Kiloa,Denmark
+***ERROR:弗洛-塞利根塔尔,Floh-Seligenthal,Germany
+***ERROR:诺伊斯塔特-格莱韦,Neustadt-Glewe,Germany
+***ERROR:霍亨-叙尔岑,Hohen-Sülzen,Germany
+***ERROR:洛黑-里克尔斯霍夫,Lohe-Rickelshof,Germany
+***ERROR:乌埃比高-瓦伦布吕克,Uebigau-Wahrenbrück,Germany
+***ERROR:弗里德里希-维尔黑尔姆-吕布克-科格,Friedrich-Wilhelm-Lübke-Koog,Germany
+***ERROR:菲雷特-特伦斯塔特,Viereth-Trunstadt,Germany
+***ERROR:埃梅尔斯比尔-霍尔斯比尔,Emmelsbüll-Horsbüll,Germany
+***ERROR:克劳斯尼克-格罗斯瓦塞尔堡,Krausnick-Groß Wasserburg,Germany
+***ERROR:雷布尔格-洛库姆,Rehburg-Loccum,Germany
+***ERROR:科贝尔恩-贡多尔夫,Kobern-Gondorf,Germany
+***ERROR:特拉本-特拉尔巴赫,Traben-Trarbach,Germany
+***ERROR:卡尔斯多尔夫-诺伊塔尔德,Karlsdorf-Neuthard,Germany
+***ERROR:CAMI汽車公司,CAMI Automotive,Canada
+***ERROR:諾伊馬爾克 (圖林根),Neumark,Germany
+***ERROR:林肯海姆-霍斯特滕,Linkenheim-Hochstetten,Germany
+***ERROR:弗勒尔斯海姆-达尔斯海姆,Flörsheim-Dalsheim,Germany
+***ERROR:奥埃斯特里希-温克尔,Oestrich-Winkel,Germany
+***ERROR:Ampad公司,Ampad,United States of America
+***ERROR:高-阿尔格斯海姆,Gau-Algesheim,Germany
+***ERROR:里布尼茨-达姆加尔滕,Ribnitz-Damgarten,Germany
+***ERROR:布鲁米赫尔巴-米绍,Bruchmühlbach-Miesau,Germany
+***ERROR:AcroWiki,Acrocat Software,United States of America
+***ERROR:坎普-博尔恩霍芬,Kamp-Bornhofen,Germany
+***ERROR:施蒂德尼茨-舍内尔马尔克,Stüdenitz-Schönermark,Germany
+***ERROR:上马斯费尔德-格里门塔尔,Obermaßfeld-Grimmenthal,Germany
+***ERROR:魏莱尔-西梅尔贝尔格,Weiler-Simmerberg,Germany
+***ERROR:AT&T電話控股,Ameritech,United States of America
+***ERROR:诺伊豪斯-席尔施尼茨,Neuhaus-Schierschnitz,Germany
+***ERROR:维尔岑贝尔格-胡斯魏莱尔,Wilzenberg-Hußweiler,Germany
+***ERROR:诺伊马根-德赫龙,Neumagen-Dhron,Germany
+***ERROR:费尔-里茨豪森,Fehl-Ritzhausen,Germany
+***ERROR:丹斯塔特-绍埃尔恩海姆,Dannstadt-Schauernheim,Germany
+***ERROR:巴德索登-阿伦多尔夫,Bad Sooden-Allendorf,Germany
+***ERROR:拜埃尔费尔德-斯特克魏莱尔,Bayerfeld-Steckweiler,Germany
+***ERROR:格拉尔-米里茨,Graal-Müritz,Germany
+***ERROR:高-比克尔海姆,Gau-Bickelheim,Germany
+***ERROR:黑尔申-黑林格桑德-翁特尔沙尔,Hellschen-Heringsand-Unterschaar,Germany
+***ERROR:瓦尔滕贝尔格-罗尔巴赫,Wartenberg-Rohrbach,Germany
+***ERROR:黑伦哈恩-舍伦贝尔格,Hellenhahn-Schellenberg,Germany
+***ERROR:霍亨费尔斯-埃辛根,Hohenfels-Essingen,Germany
+***ERROR:莫伊塞尔巴赫-施瓦尔茨米莱,Meuselbach-Schwarzmühle,Germany
+***ERROR:布罗特罗德-特鲁塞塔尔,Brotterode-Trusetal,Germany
+***ERROR:奥斯特尔-奥尔斯特,Oster-Ohrstedt,Germany
+***ERROR:阿彭布尔格-温特尔费尔德,Apenburg-Winterfeld,Germany
+***ERROR:克勒佩尔斯哈根-法伦多尔夫,Kröppelshagen-Fahrendorf,Germany
+***ERROR:芬肯巴-格尔斯魏莱尔,Finkenbach-Gersweiler,Germany
+***ERROR:菲施巴赫-奥贝拉登,Fischbach-Oberraden,Germany
+***ERROR:霍伊黑尔海姆-克林根,Heuchelheim-Klingen,Germany
+***ERROR:门希普菲费尔-尼科劳斯里特,Mönchpfiffel-Nikolausrieth,Germany
+***ERROR:弗赖-劳贝尔斯海姆,Frei-Laubersheim,Germany
+***ERROR:布里斯科夫-芬肯黑尔德,Brieskow-Finkenheerd,Germany
+***ERROR:吕托-法卢恩,Lüttow-Valluhn,Germany
+***ERROR:拉本基尔兴-福吕克,Rabenkirchen-Faulück,Germany
+***ERROR:弗伦基施-克伦巴赫,Fränkisch-Crumbach,Germany
+***ERROR:金斯海姆-古斯塔夫斯堡,Ginsheim-Gustavsburg,Germany
+***ERROR:贝尔克霍尔茨-迈恩堡,Berkholz-Meyenburg,Germany
+***ERROR:利希特尔费尔德-沙克斯多夫,Lichterfeld-Schacksdorf,Germany
+***ERROR:戈尔登-斯陶皮茨,Gorden-Staupitz,Germany
+***ERROR:韦斯特尔-奥尔斯特,Wester-Ohrstedt,Germany
+***ERROR:努特-乌尔斯特罗姆塔尔,Nuthe-Urstromtal,Germany
+***ERROR:丁斯多夫—拉德洛,Diensdorf-Radlow,Germany
+***ERROR:米林哈根-奥埃贝利茨,Millienhagen-Oebelitz,Germany
+***ERROR:赛廷根-奥贝尔夫拉特,Seitingen-Oberflacht,Germany
+***ERROR:卡尔姆措-瓦尔莫,Carmzow-Wallmow,Germany
+***ERROR:迪菲茨-斯波尔德尔斯哈根,Divitz-Spoldershagen,Germany
+***ERROR:兰肯-格拉尼茨,Lancken-Granitz,Germany
+***ERROR:耶姆利茨-小迪本,Jämlitz-Klein Düben,Germany
+***ERROR:埃尔斯多尔夫-韦斯特尔米赫伦,Elsdorf-Westermühlen,Germany
+***ERROR:霍尔诺-瓦德尔斯多夫,Hornow-Wadelsdorf,Germany
+***ERROR:格罗斯-齐梅尔恩,Groß-Zimmern,Germany
+***ERROR:施泰因巴赫-哈伦贝格,Steinbach-Hallenberg,Germany
+***ERROR:雷姆-夫莱德-巴尔根,Rehm-Flehde-Bargen,Germany
+***ERROR:施莫格罗-费罗,Schmogrow-Fehrow,Germany
+***ERROR:施托尔贝克-弗兰肯多夫,Storbeck-Frankendorf,Germany
+***ERROR:阿尔斯巴-黑恩莱因,Alsbach-Hähnlein,Germany
+***ERROR:特罗肯博尔恩-沃尔费尔斯多夫,Trockenborn-Wolfersdorf,Germany
+***ERROR:里泰姆-魏尔海姆,Rietheim-Weilheim,Germany
+***ERROR:戈森-诺伊齐陶,Gosen-Neu Zittau,Germany
+***ERROR:比莱古雷-比伦,Byhleguhre-Byhlen,Germany
+***ERROR:鲁特尔斯多夫-洛茨兴,Ruttersdorf-Lotschen,Germany
+***ERROR:兰斯巴-博因巴,Ransbach-Baumbach,Germany
+***ERROR:拉戈夫-梅尔茨,Ragow-Merz,Germany
+***ERROR:梅伦巴-格拉斯巴赫,Mellenbach-Glasbach,Germany
+***ERROR:弗雷德尔斯多夫-福格尔斯多夫,Fredersdorf-Vogelsdorf,Germany
+***ERROR:申瓦尔德-格林,Schönwalde-Glien,Germany
+***ERROR:拜埃尔斯多夫-弗罗伊登贝格,Beiersdorf-Freudenberg,Germany
+***ERROR:汉根-魏斯海姆,Hangen-Weisheim,Germany
+***ERROR:赖歇诺-默格林,Reichenow-Möglin,Germany
+***ERROR:Appear,Appear,Sweden
+***ERROR:施魏根-雷希滕巴赫,Schweigen-Rechtenbach,Germany
+***ERROR:卡尔博夫-菲特吕贝,Karbow-Vietlübbe,Germany
+***ERROR:高-奥德尔恩海姆,Gau-Odernheim,Germany
+***ERROR:纳黑塔尔-瓦尔道,Nahetal-Waldau,Germany
+***ERROR:肯茨-屈斯特罗,Kenz-Küstrow,Germany
+***ERROR:施皮森-埃尔费尔斯贝尔格,Spiesen-Elversberg,Germany
+***ERROR:施托克豪森-伊尔富尔特,Stockhausen-Illfurth,Germany
+***ERROR:Arc動畫工作室,Arc Productions,Canada
+***ERROR:诺伊多尔夫-博尔恩斯泰因,Neudorf-Bornstein,Germany
+***ERROR:Au Bon Pain,Au Bon Pain,United States of America
+***ERROR:施纳鲁普-通比,Schnarup-Thumby,Germany
+***ERROR:施托库姆-皮申,Stockum-Püschen,Germany
+***ERROR:施泰因-诺伊基尔希,Stein-Neukirch,Germany
+***ERROR:奥拉宁鲍姆-韦尔利茨,Oranienbaum-Wörlitz,Germany
+***ERROR:上魏莱尔-蒂芬巴,Oberweiler-Tiefenbach,Germany
+***ERROR:居利茨-雷茨,Gülitz-Reetz,Germany
+***ERROR:格兰-明希魏莱尔,Glan-Münchweiler,Germany
+***ERROR:AT&T阿拉斯科姆公司,AT&T Alascom,United States of America
+***ERROR:AT&T通訊,AT&T Communications,United States of America
+***ERROR:比利格海姆-因根海姆,Billigheim-Ingenheim,Germany
+***ERROR:尼斯特尔-默赫伦多尔夫,Nister-Möhrendorf,Germany
+***ERROR:鲁帕-戈尔德豪森,Ruppach-Goldhausen,Germany
+***ERROR:BIGLOBE動畫,BIGLOBE,Japan
+***ERROR:苏科-莱菲措,Sukow-Levitzow,Germany
+***ERROR:贝伦-吕布欣,Behren-Lübchin,Germany
+***ERROR:埃拉-莱辛,Ehra-Lessien,Germany
+***ERROR:佩特尔斯瓦尔德-勒费尔沙伊德,Peterswald-Löffelscheid,Germany
+***ERROR:BREN塔,BREN,Bulgaria
+***ERROR:赫尔塞尔贝尔格-海尼希,Hörselberg-Hainich,Germany
+***ERROR:达尔戈-德贝里茨,Dallgow-Döberitz,Germany
+***ERROR:布莱恩-根施马尔,Bleyen-Genschmar,Germany
+***ERROR:施特肖夫-费尔歇萨尔,Stechow-Ferchesar,Germany
+***ERROR:图尔诺夫-普赖拉克,Turnow-Preilack,Germany
+***ERROR:奈塞-马尔克塞塔尔,Neiße-Malxetal,Germany
+***ERROR:BTS集團控股,BTS Group Holdings,Thailand
+***ERROR:巴尔滕斯哈根-帕尔肯廷,Bartenshagen-Parkentin,Germany
+***ERROR:武斯特-菲斯希贝克,Wust-Fischbeck,Germany
+***ERROR:施泰因-博肯海姆,Stein-Bockenheim,Germany
+***ERROR:里茨诺伊恩多夫-斯塔科,Rietzneuendorf-Staakow,Germany
+***ERROR:施泰因-温格尔特,Stein-Wingert,Germany
+***ERROR:洛伊茨歇-海恩里希斯贝尔格,Loitsche-Heinrichsberg,Germany
+***ERROR:卡塞尔-戈尔齐希,Kasel-Golzig,Germany
+***ERROR:古索-普拉特科,Gusow-Platkow,Germany
+***ERROR:诺伊恩基尔兴-弗尔登,Neuenkirchen-Vörden,Germany
+***ERROR:奥桑-蒙策尔,Osann-Monzel,Germany
+***ERROR:戈塞尔斯魏莱尔-斯泰因,Gossersweiler-Stein,Germany
+***ERROR:沃尔夫斯布尔格-翁克罗达,Wolfsburg-Unkeroda,Germany
+***ERROR:塞尔克-奥埃,Selke-Aue,Germany
+***ERROR:佩托夫-斯特根,Pätow-Steegen,Germany
+***ERROR:Bail (服裝),Bali,United States of America
+***ERROR:西费尔斯多夫-霍黑诺芬,Sieversdorf-Hohenofen,Germany
+***ERROR:里茨-诺伊恩多夫,Rietz-Neuendorf,Germany
+***ERROR:高-黑彭海姆,Gau-Heppenheim,Germany
+***ERROR:沙特-奥多尔夫,Schacht-Audorf,Germany
+***ERROR:哈内劳-哈德马尔申,Hanerau-Hademarschen,Germany
+***ERROR:普法芬-施瓦本海姆,Pfaffen-Schwabenheim,Germany
+***ERROR:加尔曹-加尔钦,Garzau-Garzin,Germany
+***ERROR:勒茨魏莱尔-诺肯塔尔,Rötsweiler-Nockenthal,Germany
+***ERROR:奥贝劳森-赖因豪森,Oberhausen-Rheinhausen,Germany
+***ERROR:克莱森-格尔内,Kleßen-Görne,Germany
+***ERROR:特斯托尔夫-斯泰因福尔特,Testorf-Steinfort,Germany
+***ERROR:Magnatune,Magnatune,United States of America
+***ERROR:霍亨塞尔肖-大皮诺,Hohenselchow-Groß Pinnow,Germany
+***ERROR:马德利茨-维尔梅尔斯多夫,Madlitz-Wilmersdorf,Germany
+***ERROR:洛尔希 (黑森州),Lorch,Germany
+***ERROR:奥贝雷黑-斯特罗海希,Oberehe-Stroheich,Germany
+***ERROR:Centennial通訊公司,Centennial Communications,United States of America
+***ERROR:博尔格多尔夫-塞多尔夫,Borgdorf-Seedorf,Germany
+***ERROR:勒德尔斯海姆-格罗瑙,Rödersheim-Gronau,Germany
+***ERROR:克诺普-拉巴赫,Knopp-Labach,Germany
+***ERROR:马林格-诺菲安德,Maring-Noviand,Germany
+***ERROR:加林-库彭廷,Gallin-Kuppentin,Germany
+***ERROR:诺伊-塞兰,Neu-Seeland,Germany
+***ERROR:福格尔桑-瓦尔辛,Vogelsang-Warsin,Germany
+***ERROR:格莱斯策伦-格莱斯霍尔巴赫,Gleiszellen-Gleishorbach,Germany
+***ERROR:伯尔格伦德-雷特维施,Börgerende-Rethwisch,Germany
+***ERROR:格雷布斯-宁多夫,Grebs-Niendorf,Germany
+***ERROR:舍嫩贝尔格-屈贝尔贝尔格,Schönenberg-Kübelberg,Germany
+***ERROR:赖兴巴赫-斯特根,Reichenbach-Steegen,Germany
+***ERROR:福伦-林登,Fohren-Linden,Germany
+***ERROR:BT金融企業,BT Financial Group,Australia
+***ERROR:居尔措-普吕岑,Gülzow-Prüzen,Germany
+***ERROR:普莱斯魏莱尔-奥贝罗芬,Pleisweiler-Oberhofen,Germany
+***ERROR:奥贝罗内费尔德-吉伦德,Oberhonnefeld-Gierend,Germany
+***ERROR:格鲁诺夫-达门多尔夫,Grunow-Dammendorf,Germany
+***ERROR:奥芬巴-洪德海姆,Offenbach-Hundheim,Germany
+***ERROR:霍斯特滕-德豪恩,Hochstetten-Dhaun,Germany
+***ERROR:伯尔德-哈克尔,Börde-Hakel,Germany
+***ERROR:高-比绍夫斯海姆,Gau-Bischofsheim,Germany
+***ERROR:特赖斯-卡尔登,Treis-Karden,Germany
+***ERROR:埃伦茨-波尔特尔斯多尔夫,Ellenz-Poltersdorf,Germany
+***ERROR:高-韦因海姆,Gau-Weinheim,Germany
+***ERROR:塔莱斯希魏莱尔-夫勒申,Thaleischweiler-Fröschen,Germany
+***ERROR:拉尼茨-哈塞尔-塔尔,Lanitz-Hassel-Tal,Germany
+***ERROR:拉古恩-耶斯尼茨,Raguhn-Jeßnitz,Germany
+***ERROR:格雷梅尔斯多夫-布霍尔茨,Gremersdorf-Buchholz,Germany
+***ERROR:韦廷-勒贝因,Wettin-Löbejün,Germany
+***ERROR:万茨莱本-伯尔德,Wanzleben-Börde,Germany
+***ERROR:BAE造船,BAE Systems Maritime – Naval Ships,United Kingdom
+***ERROR:梅尔克尔斯-基塞尔巴赫,Merkers-Kieselbach,Germany
+***ERROR:集寶CHUBB,Chubb Security,United Kingdom
+***ERROR:霍亨贝尔格-克鲁塞马尔克,Hohenberg-Krusemark,Germany
+***ERROR:埃斯莱本-托伊特莱本,Eßleben-Teutleben,Germany
+***ERROR:THQ Nordic,THQ Nordic,Austria
+***ERROR:武塔-法尔恩罗达,Wutha-Farnroda,Germany
+***ERROR:米尔海姆-克尔利希,Mülheim-Kärlich,Germany
+***ERROR:施塔德肯-埃尔斯海姆,Stadecken-Elsheim,Germany
+***ERROR:布兰肯费尔德-马洛,Blankenfelde-Mahlow,Germany
+***ERROR:博克霍尔特-汉雷德尔,Bokholt-Hanredder,Germany
+***ERROR:布鲁蒂格-凡克尔,Bruttig-Fankel,Germany
+***ERROR:D23博覽會,Disney D23,United States of America
+***ERROR:BuzzFeed,BuzzFeed,United States of America
+***ERROR:DISA公司,DISA,Denmark
+***ERROR:C-More系統,C-More Systems,United States of America
+***ERROR:布兰德-赫尔内尔基尔兴,Brande-Hörnerkirchen,Germany
+***ERROR:塞海姆-尤根海姆,Seeheim-Jugenheim,Germany
+***ERROR:迪森-斯特里索夫,Dissen-Striesow,Germany
+***ERROR:Dobson Cellular公司,Dobson Cellular,United States of America
+***ERROR:哈伦贝克-罗尔斯多夫,Halenbeck-Rohlsdorf,Germany
+***ERROR:布吕肯-哈克普菲费尔,Brücken-Hackpfüffel,Germany
+***ERROR:CBS電視發行公司,CBS Television Distribution,United States of America
+***ERROR:Bard公司,C. R. Bard,United States of America
+***ERROR:博尔斯特尔-霍亨拉登,Borstel-Hohenraden,Germany
+***ERROR:柏林-勃蘭登堡廣播公司,Rundfunk Berlin-Brandenburg,Germany
+***ERROR:桑德尔斯多夫-布雷纳,Sandersdorf-Brehna,Germany
+***ERROR:Genus,Genus plc,United Kingdom
+***ERROR:Genesys,Genesys,United States of America
+***ERROR:多尔恩-迪尔克海姆,Dorn-Dürkheim,Germany
+***ERROR:Domino食品,Domino Foods,United States of America
+***ERROR:CloudFlare,Cloudflare,United States of America
+***ERROR:阿斯巴-西肯贝尔格,Asbach-Sickenberg,Germany
+***ERROR:Cascade Designs,Cascade Designs,United States of America
+***ERROR:Gravity Payments,Gravity Payments,United States of America
+***ERROR:George M. Hill出版社,George M. Hill Company,United States of America
+***ERROR:亨利-梅朵,Henry Meadows,United Kingdom
+***ERROR:Clearwire公司,Clearwire,United States of America
+***ERROR:明斯特尔-萨尔姆斯海姆,Münster-Sarmsheim,Germany
+***ERROR:库伦-文多夫,Kuhlen-Wendorf,Germany
+***ERROR:Gourmet,Gourmet,People's Republic of China
+***ERROR:ClickBank,ClickBank,United States of America
+***ERROR:Cotton On,Cotton On,Australia
+***ERROR:迪克·克拉克製作公司,Dick Clark Productions,United States of America
+***ERROR:萨森-特兰托,Sassen-Trantow,Germany
+***ERROR:Délifrance,Délifrance,France
+***ERROR:Bq (廠牌),BQ,Spain
+***ERROR:Fitbit,Fitbit,United States of America
+***ERROR:Gremlin产业,Gremlin Industries,United States of America
+***ERROR:Convex電腦公司,Convex Computer,United States of America
+***ERROR:德波爾托利·普蒂有限公司,De Bortoli Wines,Australia
+***ERROR:Highland Capital,Highland Capital Partners,United States of America
+***ERROR:Hipmunk,Hipmunk,United States of America
+***ERROR:巴登-符騰堡鑄幣,Staatliche Münzen Baden-Württemberg,Germany
+***ERROR:Coraid公司,"Coraid, Inc."
+***ERROR:戴頓-懷特公司,Dayton-Wright,United States of America
+***ERROR:空中巴士集團 (北美),EADS North America,United States of America
+***ERROR:Kesmai,Kesmai,United States of America
+***ERROR:Keyhole公司,"Keyhole, Inc"
+***ERROR:Cetus公司,Cetus Corporation,United States of America
+***ERROR:厄比斯费尔德-韦弗林根,Oebisfelde-Weferlingen,Germany
+***ERROR:HCL科技,HCL Technologies,India
+***ERROR:HandyGames,HandyGames,Germany
+***ERROR:L&L,L&L Hawaiian Barbecue,United States of America
+***ERROR:D-Wave 系统公司,D-Wave Systems,Canada
+***ERROR:Big Echo,Daiichi Kosho Company,Japan
+***ERROR:FBR資本市場,FBR Capital Markets,United States of America
+***ERROR:德绍-罗斯劳,Dessau-Roßlau,Germany
+***ERROR:LOFT (雜貨店),Loft (store),Japan
+***ERROR:約瑟·里昂公司,J. Lyons and Co.,United Kingdom
+***ERROR:速8酒店,Super 8 Worldwide,United States of America
+***ERROR:霍恩 (石荷州),Hohn,Germany
+***ERROR:Hortonworks,Hortonworks,United States of America
+***ERROR:蒙里爾 (德國),"Monreal, Germany"
+***ERROR:Lauterbach公司,Lauterbach,Germany
+***ERROR:多尔恩布尔格-坎堡,Dornburg-Camburg,Germany
+***ERROR:IFTTT,IFTTT,United States of America
+***ERROR:菲爾特 (黑森州),Fürth,Germany
+***ERROR:Frost & Sullivan公司,Frost & Sullivan,United States of America
+***ERROR:PTT化學股份,PTT Chemical Public Company Limited,Thailand
+***ERROR:Medibank私人保險,Medibank Private,Australia
+***ERROR:格罗斯-罗赖姆,Groß-Rohrheim,Germany
+***ERROR:MobiFone,MobiFone,Vietnam
+***ERROR:MCV巴士,MCV Bus and Coach,United Kingdom
+***ERROR:Freshness Burger,Freshness Burger,Japan
+***ERROR:Northern Counties,Northern Counties Motor and Engineering Company,United Kingdom
+***ERROR:Fairfield Greenwich 集團,Fairfield Greenwich Group,United States of America
+***ERROR:三星SDS,Samsung SDS,South Korea
+***ERROR:NTT通訊,NTT Communications Corp,Japan
+***ERROR:PC建設公司,PCL Construction,Canada
+***ERROR:Leupold公司,Leupold & Stevens,United States of America
+***ERROR:K2 Network,K2 Network,United States of America
+***ERROR:PTT勘探生產股份,PTT Exploration and Production Public Company Limited,Thailand
+***ERROR:Keedoozle,Keedoozle,United States of America
+***ERROR:Osprey,Osprey Packs,United States of America
+***ERROR:美特斯·邦威,Meters/bonwe,People's Republic of China
+***ERROR:KB Toys,KB Toys,United States of America
+***ERROR:Warnaco集團,Warnaco Group,United States of America
+***ERROR:MapR,MapR,United States of America
+***ERROR:林巴赫 (黑森州),"Rimbach, Hesse"
+***ERROR:ZF薩克斯,ZF Sachs,Germany
+***ERROR:Square (支付服務),Square,United States of America
+***ERROR:Parkwood娛樂,Parkwood Entertainment,United States of America
+***ERROR:沃特尼·曼恩啤酒廠,Watney Combe & Reid,United Kingdom
+***ERROR:SBE娛樂集團,The Abbey,United States of America
+***ERROR:湯姆森·路透基金會,Thomson Reuters Foundation,United States of America
+***ERROR:佩瑞·埃利斯,Perry Ellis International,United States of America
+***ERROR:理科 (企業),Rigaku,Japan
+***ERROR:瓦尔德-米歇尔巴,Wald-Michelbach,Germany
+***ERROR:S-Fone,S-Fone,Vietnam
+***ERROR:ZONG,ZONG,Pakistan
+***ERROR:Sound Farm錄音室,Sound Farm Studio & Recording Environment,United States of America
+***ERROR:TTC公司,The Great Courses,United States of America
+***ERROR:Technetics Group,Technetics Group,United States of America
+***ERROR:Peregrine Systems,Peregrine Systems,United States of America
+***ERROR:VVI (公司),VVI,United States of America
+***ERROR:PollyGrind影展,PollyGrind Film Festival,United States of America
+***ERROR:WWE世界餐廳,The World,United States of America
+***ERROR:VTB投資,VTB Capital,Russia
+***ERROR:Edge無線,Edge Wireless,United States of America
+***ERROR:日出東方 (太陽能公司),Q11086076,People's Republic of China
+***ERROR:世界摔角協會 (印第安納波利斯),World Wrestling Association,United States of America
+***ERROR:Wine.com,Wine.com,United States of America
+***ERROR:UT斯达康,UTStarcom,United States of America
+***ERROR:Zuxxez Entertainment,Zuxxez Entertainment,Germany
+***ERROR:Glory (企業),Glory,Japan
+***ERROR:SideCar,SideCar,United States of America
+***ERROR:白木屋 (百貨公司),Shirokiya,United States of America
+***ERROR:Workday公司,"Workday, Inc."
+***ERROR:伊朗MTN移動,MTN Irancell,Iran
+***ERROR:U Mobile,U Mobile,Malaysia
+***ERROR:布克斯特胡德 (下薩克森),Buxtehude,Germany
+***ERROR:SCO Group,SCO Group,United States of America
+***ERROR:Toms Shoes,Toms Shoes,United States of America
+***ERROR:斯特雷-耶格特公司,Strayer Voigt Inc,United States of America
+***ERROR:NBC環球電視集團,NBCUniversal Television Group,United States of America
+***ERROR:MSR,Mountain Safety Research,United States of America
+***ERROR:瑞典WSP集团,Q10718989,Sweden
+***ERROR:恒生H股指數ETF,Q11072945,People's Republic of China
+***ERROR:Kaggle,Kaggle,United States of America
+***ERROR:NHK出版股份有限公司,NHK Publishing,Japan
+***ERROR:恒生指數ETF,Q11072951,People's Republic of China
+***ERROR:喜臨門 (家具公司),"Xilinmen Furniture Co., Ltd."
+***ERROR:哈尔滨广播1056频率,Q10922000,People's Republic of China
+***ERROR:IR石川鐵道,IR Ishikawa Railway,Japan
+***ERROR:DeNA,DeNA,Japan
+***ERROR:Ascom出版,Q11283448,Japan
+***ERROR:奥斯特罗尔茨-沙尔恩贝克,Osterholz-Scharmbeck,Germany
+***ERROR:Mt.Gox,Mt.Gox,Japan
+***ERROR:粉紅色豪斯風(Pink House),"Gedix Co., Ltd."
+***ERROR:東京Big Sight,Tokyo Big Sight Inc.,Japan
+***ERROR:大阪鐵道 (一代),Q11441655,Japan
+***ERROR:沈阳机床（集团）有限责任公司,Q11138978,People's Republic of China
+***ERROR:Gluster (公司),Gluster,United States of America
+***ERROR:361度,361 Degrees,People's Republic of China
+***ERROR:日本國鐵3500型貨車,Q11422196,Japan
+***ERROR:Aspect (企業),Aspect,Japan
+***ERROR:华智控股 (浙江),Q15955035,People's Republic of China
+***ERROR:SR (企業),SR Corporation,South Korea
+***ERROR:城市E-Solution,City e-Solutions Limited,People's Republic of China
+***ERROR:RACO無線公司,RacoWireless,United States of America
+***ERROR:AT&T無線公司,AT&T Wireless Services,United States of America
+***ERROR:华莱士 (连锁),CNHLS,People's Republic of China
+***ERROR:RC4WD,RC4WD,United States of America
+***ERROR:Pivotal,Pivotal Software,United States of America
+***ERROR:Shoplet,Shoplet,United States of America
+***ERROR:香格里拉（亚洲）,Q15904981,People's Republic of China
+***ERROR:西门子PLM软件,Siemens PLM Software,Germany
+***ERROR:Nutanix,Nutanix,United States of America
+***ERROR:Kutol,Kutol Products Company,United States of America
+***ERROR:港铁轨道交通（深圳）,MTR Corporation (Shenzhen) Limited,People's Republic of China
+***ERROR:麥可·戴維斯,Chicago Options Associates,United States of America
+***ERROR:C9娛樂,C9 Entertainment,South Korea
+***ERROR:Jellyfish娛樂,Jellyfish Entertainment,South Korea
+***ERROR:朸濬國際,Q15954177,People's Republic of China
+***ERROR:OnePlus,OnePlus,People's Republic of China
+***ERROR:Unbalance,Unbalance Corporation,Japan
+***ERROR:Hyperloop Transportation Technologies,Hyperloop Transportation Technologies,United States of America
+***ERROR:Invoice2go,Invoice2go,Australia
+***ERROR:CBS製作公司,CBS Productions,United States of America
+***ERROR:Invoice2go,Invoice2go,United States of America
+***ERROR:Hyperloop One,Hyperloop One,United States of America
+***ERROR:Stan (串流媒體),Stan,Australia
+***ERROR:Blacklane,Blacklane,Germany
+***ERROR:YMC娛樂,YMC Entertainment,South Korea
+***ERROR:STX娛樂,STX Entertainment,United States of America
+***ERROR:SMI,SensoMotoric Instruments,Germany
+***ERROR:WD-40公司,WD-40 Company,United States of America
+***ERROR:Vice媒體,"Vice Media, Inc."
+***ERROR:Carbon Black,Bit9,United States of America
+***ERROR:Sekai Project,Sekai Project,United States of America
+***ERROR:Ticketbis,Ticketbis,Spain
+***ERROR:3D Robotics,3D Robotics,United States of America
+***ERROR:Hacking Team,Hacking Team,Italy
+***ERROR:WindowsWear,WindowsWear,United States of America
+***ERROR:广州朗圣药业有限公司 版权所有,Regenex Pharmaceuticals (China),People's Republic of China
+***ERROR:Boring,The Boring Company,United States of America
+***ERROR:Metapress,Metapress,United States of America
+***ERROR:BBC自然歷史組,BBC Natural History Unit,United Kingdom
+***ERROR:IFTTT,IFTTT Inc.,United States of America
+***ERROR:"Penthouse 工作室,",Brazzers
+***ERROR:Source Music,Source Music,South Korea
+***ERROR:King Records MM製作部,King Records Dai-san Creative Honbu,Japan
+***ERROR:E租宝,Ezubao,People's Republic of China
+***ERROR:Seventy Two Changes,Seventy Two Changes,United States of America
 ***ERROR:My Cup of Tea, My Cup of Tea
 ***ERROR:看我72變, Magic
 ***ERROR:Something About You, Something About You
