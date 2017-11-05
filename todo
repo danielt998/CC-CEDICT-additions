@@ -22,3 +22,4 @@ others to consider:
 
 idea:
   for anything we don't have a more detailed entry for, we could just have a 1 to 1 mapping from the Chinese label to the English
+  output the Wikidata item number, to help detecting dupes
