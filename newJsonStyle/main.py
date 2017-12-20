@@ -98,4 +98,4 @@ with open(FILE) as infile:
         if str.isspace():#this only applies while delimiter is a tab **change this**
             continue
         str=str+getLangString('en',i)+DELIMITER
-        print(str+DELIMITER+getDesc('en',i)+DELIMITER+getTypes(line)+DELIMITER+getCountry(line)+DELIMITER+getRegions(line))
+        print(str+getDesc('en',i)+DELIMITER+getTypes(line)+DELIMITER+getCountry(line)+DELIMITER+getRegions(line))

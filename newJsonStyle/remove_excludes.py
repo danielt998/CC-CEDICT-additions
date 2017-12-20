@@ -26,7 +26,9 @@ for line in the_list:
             if a_type.strip() == exclude_item.strip():
                 exclude = True
     if not exclude:
-        print(line)
+        sys.stdout.write(line)#because newline is getting printed twice
+        sys.stdout.flush()
+        #print(line)
     
 
 
