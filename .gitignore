@@ -1,4 +1,4 @@
-# Compiled class file
+-# Compiled class file
 *.class
 
 # Log file
@@ -34,5 +34,7 @@ Session.vim
 # Temporary
 .netrwhist
 *~
+*.tmp
+
 # Auto-generated tag files
 tags

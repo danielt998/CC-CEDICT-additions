@@ -1,92 +1,130 @@
 import java.util.*;
 public class Main{
+  private static int ZH=0;
+  private static int ZH_HANS=1;
+  private static int ZH_HANT=2;
+  private static int ZH_HK=3;
+  private static int ZH_MO=4;
+  private static int ZH_MY=5;
+  private static int ZH_SG=6;
+  private static int ZH_TW=7;
+  private static int ENGLISH=8;
+  private static int DESCRIPTION=10;//not sure why 10 and not 9 :P
+  
+  //private static String INPUT_FILE = "/media/dtm/wikidata/wikidata_all_out_2.tsv";
+  private static String INPUT_FILE = "all_removed_stuff.tsv";
   public static void main(String[] args){
-    CitiesTownsVillages.generatePlaces("cities_all.csv", "city");
-    CitiesTownsVillages.generatePlaces("towns.csv", "town");
-    CitiesTownsVillages.generatePlaces("villages.csv", "village");
-    CitiesTownsVillages.generatePlaces("rivers.csv", "river");
-    CitiesTownsVillages.generatePlaces("mountains.csv", "mountain");
-    CitiesTownsVillages.generatePlaces("lakes.csv", "lake");
-    CitiesTownsVillages.generatePlaces("counties.csv", "county");
-    CitiesTownsVillages.generatePlaces("provinces.csv", "province");
-    CitiesTownsVillages.generatePlaces("oblasts.csv", "oblast");
-    CitiesTownsVillages.generatePlaces("castles.csv", "castle");
-    CitiesTownsVillages.generatePlaces("roads.csv", "road");
-    CitiesTownsVillages.generatePlaces("deserts.csv", "desert");
-    CitiesTownsVillages.generatePlaces("forests.csv", "forest");
-    CitiesTownsVillages.generatePlaces("ukraineRaion.csv", "raion in Ukraine");
-    CitiesTownsVillages.generatePlaces("cantons.csv", "canton");
-    CitiesTownsVillages.generatePlaces("boroughs.csv", "borough");
-    CitiesTownsVillages.generatePlaces("hills.csv", "hill");
-    CitiesTownsVillages.generatePlaces("stations.csv", "station");
-    CitiesTownsVillages.generatePlaces("parks.csv", "park");
-    CitiesTownsVillages.generatePlaces("songs.csv", "song");
-    CitiesTownsVillages.generatePlaces("suburbs.csv", "suburb");
-    CitiesTownsVillages.generatePlaces("museums.csv", "museum");
-    CitiesTownsVillages.generatePlaces("Algeria_municipalities.csv", "municipality in Algeria");
-    CitiesTownsVillages.generatePlaces("companies.csv", "company");
-    CitiesTownsVillages.generatePlaces("bridges.csv", "bridge");
-    CitiesTownsVillages.generatePlaces("vehicles.csv", "vehicle");
-    CitiesTownsVillages.generatePlaces("airports.csv", "airport");
-    CitiesTownsVillages.generatePlaces("universities.csv", "university");
-    CitiesTownsVillages.generatePlaces("monuments.csv", "monument");
-    CitiesTownsVillages.generatePlaces("newspapers.csv", "newspaper");
-    CitiesTownsVillages.generatePlaces("magazines.csv", "magazine");
-    CitiesTownsVillages.generatePlaces("palaces.csv", "palace");
-    CitiesTownsVillages.generatePlaces("sculptures.csv", "sculpture");
-    CitiesTownsVillages.generatePlaces("houses.csv", "house");
-    CitiesTownsVillages.generatePlaces("towers.csv", "tower");
-    CitiesTownsVillages.generatePlaces("zoos.csv", "zoo");
-    CitiesTownsVillages.generatePlaces("stadiums.csv", "stadium");
-    CitiesTownsVillages.generatePlaces("streets.csv", "street");
-    CitiesTownsVillages.generatePlaces("tunnels.csv", "tunnel");
-    CitiesTownsVillages.generatePlaces("tv_channel.csv", "television channel");
-    CitiesTownsVillages.generatePlaces("tv_stations.csv", "television station");
-    CitiesTownsVillages.generatePlaces("radio_stations.csv", "radio station");
-    CitiesTownsVillages.generatePlaces("cemeteries.csv", "cemetery");
-    CitiesTownsVillages.generatePlaces("languages.csv", "language spoken");
-    CitiesTownsVillages.generatePlaces("battles.csv", "battle");
-    CitiesTownsVillages.generatePlaces("wars.csv", "war");
-    CitiesTownsVillages.generatePlaces("islands.csv", "island");
-    CitiesTownsVillages.generatePlaces("canals.csv", "canal");
-    CitiesTownsVillages.generatePlaces("treaties.csv", "treaty");
-    CitiesTownsVillages.generatePlaces("archeological_sites.csv", "archeological site");
-    CitiesTownsVillages.generatePlaces("places_of_worship.csv", "place of worship");
-    CitiesTownsVillages.generatePlaces("transport_infrastructure_all.csv", "a piece of transport infrastructure");
-    generateSimpleEntry("earthquakes.csv","");
-    CitiesTownsVillages.generatePlaces("aquaria.csv", "aquarium");
-    generateSimpleEntry("albums.csv","album");
-    generateSimpleEntry("books.csv","book");
-    generateSimpleEntry("films.csv","film");
-    generateSimpleEntry("websites.csv","website");
-    generateSimpleEntry("sw_applications.csv","a software application");
-    generateSimpleEntry("archives.csv","");
-    generateSimpleEntry("libraries.csv","library");
-    generateSimpleEntry("tvseries.csv","television series");
-    generateSimpleEntry("world_events.csv","");
-    generateSimpleEntry("islands_no_country.csv", "island");
-  }
-
-  public static void generateSimpleEntry(String inputFile,String type){
     Extract.readInDictionary();
-    //read in file
-    //foreach line
-    //  split array, get simplified/trad chinese (could be either when read in)
-    //  output trad, simp, pinyin "X, a city in Y"
-    List<String> lines=FileUtils.fileToStringArray(inputFile);
-    boolean firstLine=true;
-    for(String line: lines){
-      if(firstLine){
-        firstLine=false;
-        continue;
+    List<String> lines = FileUtils.fileToStringArray(INPUT_FILE);
+    for (String line:lines){
+      String[] segments = line.split("\t");
+      /////////////
+      //no idea why I put this in before..., will leave here for a while then remove it if it doesn't
+      //cause any issues
+//      if(segments.length >10&& !segments[ENGLISH].equals("") && !segments[DESCRIPTION].equals("")){
+//        continue;
+//      }
+      //
+      //
+      /////////
+      if(empty(segments)) continue;
+      try{
+        System.out.println(getTraditional(segments) +" "+getSimplified(segments) 
+                                        + " " +getPinyin(segments)
+                                        + "/" +getDescription(segments)+"/");
+      }catch(Exception e){
+        e.printStackTrace();
       }
-      String[] sections=line.split(",");
-    try{
-      BitsAndBobs.printChinese(sections[0],sections[1] + ", a "+type);
-    }catch(Exception e){
-      System.err.println("***ERROR:"+sections[0]+", "+sections[1]);
     }
-    }//for
   }
 
+  private static boolean empty(String[] segments){
+    if(segments.length <= ZH_TW) return true;//need to investigeate though...
+    if(segments[ZH].equals("") && segments[ZH_HANS].equals("") && segments[ZH_TW].equals(""))
+      return true;
+    return false;
+  }
+  public static String getPinyin(String[] segments){
+    //TODO:have some sort of priority order of different Chineses
+    String simplifiedPinyin =  getPinyin(getSimplified(segments));
+    String traditionalPinyin =  getPinyin(getTraditional(segments));
+    if(!simplifiedPinyin.equals("")){
+      return simplifiedPinyin;
+    }else if(!traditionalPinyin.equals("")){
+      return traditionalPinyin;
+    }else{
+      return "";
+    }
+  }
+  public static String getPinyin(String givenWord){
+    //System.out.println("WORD:"+givenWord);
+    if(givenWord.equals("")){
+      return "";
+    }
+    List<Word> words= new ArrayList<Word>();
+    for (char c:givenWord.toCharArray()){
+      if(Character.UnicodeScript.of(c) == Character.UnicodeScript.HAN){
+        words.add(Extract.getWordFromChinese(c));
+      }else{
+        words.add(new Word(""+c,""+c,""+c,""+c,""+c));
+      }
+    }
+    String acc = "[";
+    for(Word word:words){
+      acc=acc+word.getPinyinWithTones()+" ";//TODO:get rid of this trailing space
+    }
+    acc=acc+"] ";
+    acc=acc.replace(" ]","]");
+    return acc;
+  }
+  public static String getSimplified(String[] segments){
+    if(!segments[ZH_HANS].equals("")){
+      return segments[ZH_HANS];
+    }else if(!getTraditional(segments).equals("")){
+      return tradToSimp(getTraditional(segments));
+    }else{
+      return "";
+    }
+  }
+  public static String tradToSimp(String tradWord){
+    List<Word> words= new ArrayList<Word>();
+    String acc="";
+    for (char c:tradWord.toCharArray()){
+      words.add(Extract.getWordFromChinese(c));
+    }
+    for(Word word:words){
+      acc=acc+word.getSimplifiedChinese();
+    }
+    return acc;
+  }
+  public static String simpToTrad(String simpWord){
+    List<Word> words= new ArrayList<Word>();
+    String acc="";
+    for (char c:simpWord.toCharArray()){
+      System.out.print(c+":");
+      words.add(Extract.getWordFromChinese(c));
+    }
+    for(Word word:words){
+      acc=acc+word.getTraditionalChinese();
+    }
+    return acc;
+  }
+  public static String getTraditional(String[] segments){
+    if(!segments[ZH_HANT].equals("")){
+      return segments[ZH_HANT];
+    }else if(!segments[ZH_TW].equals("")){
+      return segments[ZH_TW];
+    }else if(!segments[ZH].equals("")){
+      return segments[ZH];//do we want to convert to traditional just in case??
+      //.. and so on...
+    }else if(!segments[ZH_HANS].equals("")){
+      return simpToTrad(segments[ZH_HANS]);
+      //return "";
+    } else {
+      return "";
+    }
+  }
+  public static String getDescription(String[] segments){
+    return segments[ENGLISH] + ", " + (segments.length>9?segments[DESCRIPTION]:"");
+  }
 }
