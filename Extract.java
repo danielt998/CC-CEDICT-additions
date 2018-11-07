@@ -30,6 +30,9 @@ public class Extract{
   private static Map<String,Word> simplifiedMapping = new HashMap<String,Word>();
   private static Map<String,Word> traditionalMapping = new HashMap<String,Word>();
 
+  private static Map<String,List<Word>> simplifiedMappings = new HashMap<String,List<Word>>();
+  private static Map<String,List<Word>> traditionalMappings = new HashMap<String,List<Word>>();
+
   public static void readInDictionary(){
     readInDictionary(DEFAULT_DICTIONARY_FILENAME);
   }
@@ -52,6 +55,8 @@ public class Extract{
         word.setSimplifiedChinese(remRem[1]);
         simplifiedMapping.put(word.getSimplifiedChinese(),word);
         traditionalMapping.put(word.getTraditionalChinese(),word);
+        simplifiedMappings.get(word.getSimplifiedChinese()).add(word);
+        traditionalMappings.get(word.getTraditionalChinese()).add(word);
       }
     } catch (Exception e){
       e.printStackTrace();
@@ -60,6 +65,10 @@ public class Extract{
 
   public static Word getWordFromChinese(char c){
     return getWordFromChinese(""+c);
+  }
+
+  public static boolean isUnambiguous(char c){
+    return traditionalMappings.get(c).size() == 1;
   }
 
   public static Word getWordFromChinese(String chineseWord){
