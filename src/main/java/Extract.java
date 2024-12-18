@@ -26,58 +26,60 @@ import java.util.Map;
   also,** multiple words have same pinyin** - for themoment, this will return only the first result
   Capitals are causing issues too...
 */
-public class Extract{
-  private static final String DEFAULT_DICTIONARY_FILENAME= "resources/cedict_ts.u8";
-  private static final char COMMENT_CHARACTER='#';
-  private static Map<String, Word> simplifiedMapping = new HashMap<String, Word>();
-  private static Map<String, Word> traditionalMapping = new HashMap<String, Word>();
+public class Extract {
+    private static final String DEFAULT_DICTIONARY_FILENAME = "resources/cedict_ts.u8";
+    private static final char COMMENT_CHARACTER = '#';
+    private static final Map<String, Word> simplifiedMapping = new HashMap<String, Word>();
+    private static final Map<String, Word> traditionalMapping = new HashMap<String, Word>();
 
-  public static void readInDictionary(){
-    readInDictionary(DEFAULT_DICTIONARY_FILENAME);
-  }
-  public static void readInDictionary(String filename){
-    try (BufferedReader br = new BufferedReader(new FileReader(new File(filename)))) {
-      String line;
-      while ((line = br.readLine()) != null) {
-        if(line.charAt(0)==COMMENT_CHARACTER){
-          continue;
+    public static void readInDictionary() {
+        readInDictionary(DEFAULT_DICTIONARY_FILENAME);
+    }
+
+    public static void readInDictionary(String filename) {
+        try (BufferedReader br = new BufferedReader(new FileReader(new File(filename)))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                if (line.charAt(0) == COMMENT_CHARACTER) {
+                    continue;
+                }
+                Word word = new Word();
+                String[] str = line.split(" /");
+                word.setDefinition(str[1]);
+                String[] rem = str[0].split("\\[");
+                word.setPinyinNoTones(rem[1].replaceAll("[\\[\\]12345 ]", "").toLowerCase());
+                word.setPinyinWithTones(rem[1].replaceAll("[\\[\\]]", "").toLowerCase());
+
+                String[] remRem = rem[0].split(" ");
+                word.setTraditionalChinese(remRem[0]);
+                word.setSimplifiedChinese(remRem[1]);
+                simplifiedMapping.put(word.getSimplifiedChinese(), word);
+                traditionalMapping.put(word.getTraditionalChinese(), word);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-        Word word = new Word();
-        String[] str=line.split(" /");
-        word.setDefinition(str[1]);
-        String[] rem=str[0].split("\\[");
-        word.setPinyinNoTones(rem[1].replaceAll("[\\[\\]12345 ]", "").toLowerCase());
-        word.setPinyinWithTones(rem[1].replaceAll("[\\[\\]]","").toLowerCase());
-
-        String[] remRem=rem[0].split(" ");
-        word.setTraditionalChinese(remRem[0]);
-        word.setSimplifiedChinese(remRem[1]);
-        simplifiedMapping.put(word.getSimplifiedChinese(),word);
-        traditionalMapping.put(word.getTraditionalChinese(),word);
-      }
-    } catch (Exception e){
-      e.printStackTrace();
     }
-  }
 
-  public static Word getWordFromChinese(char c){
-    return getWordFromChinese(""+c);
-  }
-
-  public static Word getWordFromChinese(String chineseWord){
-    Word simplified=getWordFromSimplifiedChinese(chineseWord);
-    if(simplified!=null){
-      return simplified;
+    public static Word getWordFromChinese(char c) {
+        return getWordFromChinese("" + c);
     }
-    return getWordFromTraditionalChinese(chineseWord);
-  }
 
-  public static Word getWordFromTraditionalChinese(String chineseWord){
-    return traditionalMapping.get(chineseWord);
-  }
-  public static Word getWordFromSimplifiedChinese(String chineseWord){
-    return simplifiedMapping.get(chineseWord);
-  }
+    public static Word getWordFromChinese(String chineseWord) {
+        Word simplified = getWordFromSimplifiedChinese(chineseWord);
+        if (simplified != null) {
+            return simplified;
+        }
+        return getWordFromTraditionalChinese(chineseWord);
+    }
+
+    public static Word getWordFromTraditionalChinese(String chineseWord) {
+        return traditionalMapping.get(chineseWord);
+    }
+
+    public static Word getWordFromSimplifiedChinese(String chineseWord) {
+        return simplifiedMapping.get(chineseWord);
+    }
 
 /*TODO:resurrect
   //LINEAR COMPLEXITY
