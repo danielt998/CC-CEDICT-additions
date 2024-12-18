@@ -11,19 +11,13 @@ OR
 2)Download a JSON dump of Wikidata and parse this programatically
 
 pseudocode:
-
+```
 foreach item
-
   if no Chinese label:
-  
     ignore
-  
   if no English label:
-  
     ??contemplate what to do here, maybe pull from other languages with a priority order, many
-    
     e.g. Spanish, will probably be fine for e.g. place names/ people names, and better than no entry
-
 
   look at list of supported items, if exists in this list, then create the item,
     e.g. London, a city in the United Kingdom
@@ -31,15 +25,11 @@ foreach item
       include once)
   
   if not an instance of an item in this list:
-  
     then just translate directly, e.g. 伦敦 - London
-  
   add the English description as an additional definition (or maybe if one exists,
               use this instead of the existing one, and maybe also add the Chinese description)
     or maybe just get the name of the "subset of" item
-
 also to consider:
-
   check for multiple Chineses, e.g. trad, simp, (maybe others, e.g. HK) and use these by default, if only one of simplified or traditional exists, then predict what the other should be
 
 
