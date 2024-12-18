@@ -3,7 +3,7 @@ package src.main.java;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BitsAndBobs {
+public class OutputPrinter {
     public static void printChinese(String s, String english) {
         List<Word> words = new ArrayList<Word>();
         String acc = "";
