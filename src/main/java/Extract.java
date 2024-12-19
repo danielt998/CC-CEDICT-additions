@@ -73,8 +73,16 @@ public class Extract {
         return getWordFromTraditionalChinese(chineseWord);
     }
 
+    public static Word getWordFromTraditionalChinese(char c) {
+        return getWordFromTraditionalChinese("" + c);
+    }
+
     public static Word getWordFromTraditionalChinese(String chineseWord) {
         return traditionalMapping.get(chineseWord);
+    }
+
+    public static Word getWordFromSimplifiedChinese(char c) {
+        return getWordFromSimplifiedChinese("" + c);
     }
 
     public static Word getWordFromSimplifiedChinese(String chineseWord) {
