@@ -35,8 +35,8 @@ public class Main {
     // TODO: Add a check that the trad is equivalent to the simp for transliteration purposes (also how does this play with different romanisations?)
 
     // TODO: For these, we should also allow transliteration in the case where it is completely unambiguous
-    private static boolean AUTO_CONVERT_TRAD_TO_SIMP = false;
-    private static boolean AUTO_CONVERT_SIMP_TO_TRAD = false;
+    private static boolean AUTO_CONVERT_TRAD_TO_SIMP_WHEN_AMBIGUOUS = false;
+    private static boolean AUTO_CONVERT_SIMP_TO_TRAD_WHEN_AMBIGUOUS = false;
     private static boolean SIMP_REQUIRED = true; //for these two need to consider what to put in other field if empty
     private static boolean TRAD_REQUIRED = true;
     private static boolean AUTO_DETECT_TRAD_OR_SIMP_FROM_ZH = true;
@@ -146,11 +146,54 @@ public class Main {
             return segments[ZH_HANS];
         } else if (isSimp(segments[ZH]) && !segments[ZH].isEmpty()) {
             return segments[ZH];
-        } else if (!getTraditional(segments).isEmpty() && AUTO_CONVERT_TRAD_TO_SIMP) {
+        } else if (!tradToSimpUnambiguous(segments[ZH]).isEmpty()) {//do we need this if it is covered by below?
+            return tradToSimpUnambiguous(segments[ZH]);
+        }else if (!tradToSimpUnambiguous(getTraditional(segments)).isEmpty()) {
+            return tradToSimpUnambiguous(getTraditional(segments));
+        }
+        else if (!getTraditional(segments).isEmpty() && AUTO_CONVERT_TRAD_TO_SIMP_WHEN_AMBIGUOUS) {
             return tradToSimp(getTraditional(segments));
         } else {
             return "";
         }
+    }
+
+    public static String tradToSimpUnambiguous(String tradWord){
+        StringBuilder simpBuilder = new StringBuilder();
+        for (char c : tradWord.toCharArray()) {
+            if (Character.UnicodeScript.of(c) == Character.UnicodeScript.HAN) {
+                List<Word> matches = Extract.getWordsFromChinese(c);
+                String firstMatchTrad = matches.getFirst().getTraditionalChinese();
+                for (Word word : matches) {
+                    if (!word.getTraditionalChinese().equals(firstMatchTrad)){
+                        return "";// TODO: find a better way to fail
+                    }
+                }
+                simpBuilder.append(c);
+            } else {
+                simpBuilder.append(c);
+            }
+        }
+        return simpBuilder.toString();
+    }
+
+    public static String simpToTradUnambiguous(String simpWord){
+        StringBuilder tradBuilder = new StringBuilder();
+        for (char c : simpWord.toCharArray()) {
+            if (Character.UnicodeScript.of(c) == Character.UnicodeScript.HAN) {
+                List<Word> matches = Extract.getWordsFromChinese(c);
+                String firstMatchSimp = matches.getFirst().getSimplifiedChinese();
+                for (Word word : matches) {
+                    if (!word.getSimplifiedChinese().equals(firstMatchSimp)){
+                        return "";// TODO: find a better way to fail
+                    }
+                }
+                tradBuilder.append(c);
+            } else {
+                tradBuilder.append(c);
+            }
+        }
+        return tradBuilder.toString();
     }
 
     public static String tradToSimp(String tradWord) {
@@ -187,9 +230,13 @@ public class Main {
         } else if (isTrad(segments[ZH]) && !segments[ZH].isEmpty()) {
             return segments[ZH];
             //.. and so on...
-        } else if (!segments[ZH].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD) {
+        } else if (isSimp(segments[ZH]) && !simpToTradUnambiguous(segments[ZH]).isEmpty()) {
+            return simpToTradUnambiguous(segments[ZH]);
+        } else if (!simpToTradUnambiguous(segments[ZH_HANS]).isEmpty()) {
+            return simpToTradUnambiguous(segments[ZH_HANS]);
+        } else if (!segments[ZH].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD_WHEN_AMBIGUOUS) {
             return simpToTrad(segments[ZH_HANS]);
-        } else if (!segments[ZH_HANS].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD) {
+        } else if (!segments[ZH_HANS].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD_WHEN_AMBIGUOUS) {
             return simpToTrad(segments[ZH_HANS]);
             //return "";
             //
