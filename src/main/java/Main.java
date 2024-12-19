@@ -26,6 +26,11 @@ public class Main {
     private static final int ENGLISH = 8;
     private static final int DESCRIPTION = 10;//not sure why 10 and not 9 :P
 
+    private enum OutputFormat {
+        CEDICT,
+        PLECO
+    }
+
     //private static String INPUT_FILE = "/media/dtm/wikidata/wikidata_all_out_2.tsv";
     private static final String INPUT_FILE = "intermediate_data/intermediate_after_excluding_stuff.tsv";
 
@@ -42,6 +47,7 @@ public class Main {
     private static boolean AUTO_DETECT_TRAD_OR_SIMP_FROM_ZH = true;
     private static boolean IGNORE_ENTRIES_WITH_NO_EN_LABEL = true;
     private static boolean IGNORE_ENTRIES_WITH_NO_DESCRIPTION = false;
+    private static final OutputFormat OUTPUT_FORMAT = OutputFormat.CEDICT;
 
     public static void main(String[] args) {
         Extract.readInDictionary();
@@ -66,9 +72,23 @@ public class Main {
                 if (UNAMBIGUOUS_PINYIN_ONLY && !pinyinIsUnambiguous(getSimplified(segments)) && !pinyinIsUnambiguous(getTraditional(segments))) {
                     continue;
                 }
-                System.out.println(getTraditional(segments) + " " + getSimplified(segments)
-                        + " " + getPinyin(segments)
-                        + " /" + getDescription(segments) + "/");
+                if (IGNORE_ENTRIES_WITH_NO_DESCRIPTION && getNameAndDescription(segments).isEmpty()){
+                    continue;
+                }
+                if (IGNORE_ENTRIES_WITH_NO_EN_LABEL && segments[ENGLISH].isEmpty()) {
+                    continue;
+                }
+
+                if (OUTPUT_FORMAT == OutputFormat.CEDICT) {
+                    System.out.println(getTraditional(segments) + " " + getSimplified(segments)
+                            + " [" + getPinyin(segments) + "]"
+                            + " /" + getNameAndDescription(segments) + "/");
+                } else if (OUTPUT_FORMAT == OutputFormat.PLECO) {
+                    System.out.println(getSimplified(segments) + "["
+                            + getTraditional(segments) + "]\t"
+                            + getPinyin(segments) + "\t"
+                            + getNameAndDescription(segments));
+                }
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -138,7 +158,7 @@ public class Main {
                 pinyinSegments.add(nonHanString.toString());
             }
         }
-        return "[" + String.join(" ", pinyinSegments) + "]";
+        return String.join(" ", pinyinSegments);
     }
 
     public static String getSimplified(String[] segments) {
@@ -267,7 +287,7 @@ public class Main {
         return true;
     }
 
-    public static String getDescription(String[] segments) {
-        return segments[ENGLISH] + ", " + (segments.length > 9 ? segments[DESCRIPTION] : "");
+    public static String getNameAndDescription(String[] segments) {
+        return segments[ENGLISH] + (segments.length > 9 && !segments[DESCRIPTION].isEmpty() ? ", " + segments[DESCRIPTION] : "");
     }
 }
