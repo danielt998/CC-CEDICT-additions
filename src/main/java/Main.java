@@ -29,12 +29,19 @@ public class Main {
     //private static String INPUT_FILE = "/media/dtm/wikidata/wikidata_all_out_2.tsv";
     private static final String INPUT_FILE = "intermediate_data/intermediate_after_excluding_stuff.tsv";
 
+
     private static boolean UNAMBIGUOUS_PINYIN_ONLY = true;
+
+    // TODO: Add a check that the trad is equivalent to the simp for transliteration purposes (also how does this play with different romanisations?)
+
+    // TODO: For these, we should also allow transliteration in the case where it is completely unambiguous
     private static boolean AUTO_CONVERT_TRAD_TO_SIMP = false;
     private static boolean AUTO_CONVERT_SIMP_TO_TRAD = false;
     private static boolean SIMP_REQUIRED = true; //for these two need to consider what to put in other field if empty
     private static boolean TRAD_REQUIRED = true;
     private static boolean AUTO_DETECT_TRAD_OR_SIMP_FROM_ZH = true;
+    private static boolean IGNORE_ENTRIES_WITH_NO_EN_LABEL = true;
+    private static boolean IGNORE_ENTRIES_WITH_NO_DESCRIPTION = false;
 
     public static void main(String[] args) {
         Extract.readInDictionary();
@@ -56,7 +63,9 @@ public class Main {
                 if (!containsHan(getTraditional(segments)) && !containsHan(getSimplified(segments))) {
                     continue;
                 }
-
+                if (UNAMBIGUOUS_PINYIN_ONLY && !pinyinIsUnambiguous(getSimplified(segments)) && !pinyinIsUnambiguous(getTraditional(segments))) {
+                    continue;
+                }
                 System.out.println(getTraditional(segments) + " " + getSimplified(segments)
                         + " " + getPinyin(segments)
                         + "/" + getDescription(segments) + "/");
@@ -75,6 +84,23 @@ public class Main {
         return false;
     }
 
+    public static boolean pinyinIsUnambiguous(String name){
+        for (char c : name.toCharArray()) {
+            if (Character.UnicodeScript.of(c) == Character.UnicodeScript.HAN) {
+                // TODO: think about how to handle this
+//                if (Extract.getWordsFromChinese(c).isEmpty()) {
+//                    throw new Exception("getWordsFromChinese returned empty list in pinyinIsUnambiguous");
+//                }
+                String firstPinyin = Extract.getWordsFromChinese(c).getFirst().getPinyinWithTones().toLowerCase();
+                for (Word character : Extract.getWordsFromChinese(c)) {
+                    if (!character.getPinyinWithTones().toLowerCase().equals(firstPinyin)) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
 
     private static boolean empty(String[] segments) {
         if (segments.length <= ZH_TW) return true;// need to investigate though...
