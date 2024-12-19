@@ -68,7 +68,7 @@ public class Main {
                 }
                 System.out.println(getTraditional(segments) + " " + getSimplified(segments)
                         + " " + getPinyin(segments)
-                        + "/" + getDescription(segments) + "/");
+                        + " /" + getDescription(segments) + "/");
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -124,21 +124,21 @@ public class Main {
         if (givenWord.isEmpty()) {
             return "";
         }
-        List<Word> words = new ArrayList<Word>();
-        for (char c : givenWord.toCharArray()) {
-            if (Character.UnicodeScript.of(c) == Character.UnicodeScript.HAN) {
-                words.add(Extract.getWordFromChinese(c));
+
+        List<String> pinyinSegments = new ArrayList<>();
+        char[] chars = givenWord.toCharArray();
+        for (int i = 0; i < chars.length; i++) {
+            if (Character.UnicodeScript.of(chars[i]) == Character.UnicodeScript.HAN) {
+                pinyinSegments.add(Extract.getWordFromChinese(chars[i]).getPinyinWithTones());
             } else {
-                words.add(new Word("" + c, "" + c, "" + c, "" + c, "" + c));
+                StringBuilder nonHanString = new StringBuilder("" + chars[i]);
+                while (Character.UnicodeScript.of(chars[i + 1]) != Character.UnicodeScript.HAN) {
+                    nonHanString.append(chars[++i]);
+                }
+                pinyinSegments.add(nonHanString.toString());
             }
         }
-        String acc = "[";
-        for (Word word : words) {
-            acc = acc + word.getPinyinWithTones() + " ";//TODO:get rid of this trailing space
-        }
-        acc = acc + "] ";
-        acc = acc.replace(" ]", "]");
-        return acc;
+        return "[" + String.join(" ", pinyinSegments) + "]";
     }
 
     public static String getSimplified(String[] segments) {
@@ -185,11 +185,14 @@ public class Main {
         } else if (!segments[ZH_TW].isEmpty()) {
             return segments[ZH_TW];
         } else if (isTrad(segments[ZH]) && !segments[ZH].isEmpty()) {
-            return segments[ZH];//do we want to convert to traditional just in case??
+            return segments[ZH];
             //.. and so on...
+        } else if (!segments[ZH].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD) {
+            return simpToTrad(segments[ZH_HANS]);
         } else if (!segments[ZH_HANS].isEmpty() && AUTO_CONVERT_SIMP_TO_TRAD) {
             return simpToTrad(segments[ZH_HANS]);
             //return "";
+            //
         } else {
             return "";
         }
